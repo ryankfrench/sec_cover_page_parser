@@ -1,0 +1,1103 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ PSk0YevfRLeluXfAp2hlj/qae92Yx0h1ukHy9mYx/MXMtyD+71bR6KnqgixIBE+N
+ 02d3K4j3Ofcc96iyePds7w==
+
+<SEC-DOCUMENT>0000092122-07-000008.txt : 20070125
+<SEC-HEADER>0000092122-07-000008.hdr.sgml : 20070125
+<ACCEPTANCE-DATETIME>20070125102211
+ACCESSION NUMBER:		0000092122-07-000008
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		8
+CONFORMED PERIOD OF REPORT:	20070125
+ITEM INFORMATION:		Results of Operations and Financial Condition
+FILED AS OF DATE:		20070125
+DATE AS OF CHANGE:		20070125
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SOUTHERN CO
+		CENTRAL INDEX KEY:			0000092122
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		IRS NUMBER:				580690070
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-03526
+		FILM NUMBER:		07551518
+
+	BUSINESS ADDRESS:	
+		STREET 1:		30 IVAN ALLEN JR. BLVD., N.W.
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30308
+		BUSINESS PHONE:		4045065000
+
+	MAIL ADDRESS:	
+		STREET 1:		30 IVAN ALLEN JR. BLVD., N.W.
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30308
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SOUTHERN POWER CO
+		CENTRAL INDEX KEY:			0001160661
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		IRS NUMBER:				582598670
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-98553
+		FILM NUMBER:		07551519
+
+	BUSINESS ADDRESS:	
+		STREET 1:		600 N 18TH ST.
+		CITY:			BIRMINGHAM
+		STATE:			AL
+		ZIP:			35291
+		BUSINESS PHONE:		4045067146
+
+	MAIL ADDRESS:	
+		STREET 1:		241 RALPH MCGILL BLVD
+		STREET 2:		NE BIN 10116
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30308
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MISSISSIPPI POWER CO
+		CENTRAL INDEX KEY:			0000066904
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		IRS NUMBER:				640205820
+		STATE OF INCORPORATION:			MS
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11229
+		FILM NUMBER:		07551520
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2992 WEST BEACH
+		CITY:			GULFPORT
+		STATE:			MS
+		ZIP:			39501
+		BUSINESS PHONE:		2288641211
+
+	MAIL ADDRESS:	
+		STREET 1:		2992 WEST BEACH
+		CITY:			GULFPORT
+		STATE:			MS
+		ZIP:			39501
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GULF POWER CO
+		CENTRAL INDEX KEY:			0000044545
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		IRS NUMBER:				590276810
+		STATE OF INCORPORATION:			ME
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-31737
+		FILM NUMBER:		07551521
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE ENERGY PLACE
+		CITY:			PENSACOLA
+		STATE:			FL
+		ZIP:			32520
+		BUSINESS PHONE:		8504446111
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE ENERGY PLACE
+		CITY:			PENSACOLA
+		STATE:			FL
+		ZIP:			32520
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GEORGIA POWER CO
+		CENTRAL INDEX KEY:			0000041091
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		IRS NUMBER:				580257110
+		STATE OF INCORPORATION:			GA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06468
+		FILM NUMBER:		07551522
+
+	BUSINESS ADDRESS:	
+		STREET 1:		241 RALPH MCGILL BOULEVARD
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30308
+		BUSINESS PHONE:		4045066526
+
+	MAIL ADDRESS:	
+		STREET 1:		241 RALPH MCGILL BOULEVARD
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30308
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ALABAMA POWER CO
+		CENTRAL INDEX KEY:			0000003153
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		IRS NUMBER:				630004250
+		STATE OF INCORPORATION:			AL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-03164
+		FILM NUMBER:		07551523
+
+	BUSINESS ADDRESS:	
+		STREET 1:		600 N 18TH ST
+		STREET 2:		P O BOX 2641
+		CITY:			BIRMINGHAM
+		STATE:			AL
+		ZIP:			35291
+		BUSINESS PHONE:		2052571000
+
+	MAIL ADDRESS:	
+		STREET 1:		600 N 18TH ST
+		CITY:			BIRMINGHAM
+		STATE:			AL
+		ZIP:			35291
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8kearnings8k.htm
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE> </TITLE>
+</HEAD>
+<BODY bgcolor="#ffffff">
+
+
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font SIZE=2>SECURITIES AND EXCHANGE COMMISSION</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>Washington, D. C.  20549 </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font SIZE=2>FORM 8-K</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font SIZE=2>CURRENT REPORT</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>Date of Report (Date of earliest event reported)</font><font size=1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><u><font size=2>January 25, 2007</font></u><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'><font size=2>&nbsp;</font></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='margin-left:5.4pt;border-collapse:collapse;  '>
+    <tr >
+        <td width="162" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Commission</font></b></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><u><b><font size=2>File Number</font></b></u></p> </td>
+        <td width="300" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Registrant, State of Incorporation,</font></b></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><u><b><font size=2>Address and Telephone Number</font></b></u>                                                 <u></u></p>  </td>
+        <td width="132" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>I.R.S. Employer </font></b></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><u><b><font size=2>Identification No.</font></b></u><b><u></u></b></p> </td> </tr>
+    <tr >
+        <td width="162" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="300" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="132" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td> </tr>
+    <tr >
+        <td width="162" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>1-3526</font></p> </td>
+        <td width="300" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>The Southern Company</font></b></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(A Delaware Corporation)</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>30 Ivan Allen Jr. Blvd., N.W.</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Atlanta, Georgia 30308</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(404) 506-5000</font></p> </td>
+        <td width="132" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>58-0690070</font></p> </td> </tr>
+    <tr >
+        <td width="162" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:2.0pt;margin-bottom:0pt'><font size=2>1-3164</font></p> </td>
+        <td width="300" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:2.0pt;margin-bottom:0pt'><b><font size=2>Alabama Power Company</font></b></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(An Alabama Corporation)</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>600 North 18</font><sup><font size=2>th</font></sup><font size=2> Street</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Birmingham, Alabama 35291</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(205) 257-1000</font></p> </td>
+        <td width="132" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:2.0pt;margin-bottom:0pt'><font size=2>63-0004250</font></p> </td> </tr>
+    <tr >
+        <td width="162" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:2.0pt;margin-bottom:0pt'><font size=2>1-6468</font></p> </td>
+        <td width="300" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:2.0pt;margin-bottom:0pt'><b><font size=2>Georgia Power Company</font></b></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(A Georgia Corporation)</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>241 Ralph McGill Boulevard, N.E.</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Atlanta, Georgia 30308</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(404) 506-6526</font></p> </td>
+        <td width="132" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:2.0pt;margin-bottom:0pt'><font size=2>58-0257110</font></p> </td> </tr>
+    <tr >
+        <td width="162" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:2.0pt;margin-bottom:0pt'><font size=2>0-2429</font></p> </td>
+        <td width="300" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:2.0pt;margin-bottom:0pt'><b><font size=2>Gulf Power Company</font></b></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(A Florida Corporation)</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>One Energy Place</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Pensacola, Florida 32520</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(850) 444-6111</font></p> </td>
+        <td width="132" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:4.0pt;margin-bottom:0pt'><font size=2>59-0276810</font></p> </td> </tr>
+    <tr >
+        <td width="162" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:2.0pt;margin-bottom:0pt'><font size=2>001-11229</font></p> </td>
+        <td width="300" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:2.0pt;margin-bottom:0pt'><b><font size=2>Mississippi Power Company</font></b></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(A Mississippi Corporation)</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>2992 West Beach</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Gulfport, Mississippi 39501</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(228) 864-1211</font></p> </td>
+        <td width="132" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:2.0pt;margin-bottom:0pt'><font size=2>64-0205820</font></p> </td> </tr>
+    <tr >
+        <td width="162" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>333-98553</font></p> </td>
+        <td width="300" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Southern Power Company</font></b></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(A Delaware Corporation)</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>30 Ivan Allen Jr. Blvd., N.W.</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Atlanta, Georgia 30308</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:4.0pt'><font size=2>(404) 506-5000</font></p> </td>
+        <td width="132" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:2.0pt;margin-bottom:0pt'><font size=2>58-2598670</font></p> </td> </tr></table>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>The addresses of the registrants have not changed since the last report.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>This combined Form 8-K is furnished separately by six registrants: The Southern Company, Alabama Power Company, Georgia Power Company, Gulf Power Company, Mississippi Power Company and Southern Power Company.  Information contained herein relating to each registrant is furnished by each registrant solely on its own behalf.  Each registrant makes no representation as to information relating to the other registrants.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="43" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2><font face=Wingdings>o</font></font></p> </td>
+        <td width="547" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Written communications pursuant to Rule 425 under the Securities Act (17&nbsp;CFR&nbsp;230.425)</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td> </tr>
+    <tr >
+        <td width="43" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2><font face=Wingdings>o</font></font></p> </td>
+        <td width="547" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17&nbsp;CFR&nbsp;240.14a-12)</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td> </tr>
+    <tr >
+        <td width="43" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2><font face=Wingdings>o</font></font></p> </td>
+        <td width="547" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td> </tr>
+    <tr >
+        <td width="43" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2><font face=Wingdings>o</font></font></p> </td>
+        <td width="547" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td> </tr></table>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="433" style='border-collapse:collapse'>
+    <tr >
+        <td width="96" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Item 2.02</font></b></p> </td>
+        <td width="337" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Results of Operations and Financial Condition</font></b></p> </td> </tr></table>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.46in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>The information in this Current Report on Form 8-K, including the exhibits attached hereto, shall not be deemed &#147;filed&#148; for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities under that Section.  Furthermore, such information, including the exhibits attached hereto, shall not be deemed to be incorporated by reference in any filing under the Securities Act of 1933, as amended, except as shall be expressly set forth by specific reference in such filing.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>On January 25, 2007, The Southern Company (&#147;Southern Company&#148;) issued a press release regarding its earnings for the quarter and year ended December 31, 2006.  A copy of this release is being furnished as Exhibit 99.01 to this Current Report on Form 8-K.  In addition, certain additional information regarding the financial results for the quarter and year ended December 31, 2006 is being furnished as Exhibits 99.02 through 99.06 to this Current Report on Form 8-K.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><i><font size=2>Use of Non-GAAP Financial Measures</font></i></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>Exhibits 99.01, 99.02 and 99.03 attached to this Current Report on Form 8-K, in addition to including earnings and earnings per share in accordance with generally accepted accounting principles (&#147;GAAP&#148;) for the quarter and year ended December 31, 2006 and December 31, 2005, also include earnings and earnings per share for such periods excluding the results of Southern Company&#146;s synthetic fuel investments.  Southern Company&#146;s synthetic fuel investments generate tax credits as a result of synthetic fuel production.  Due to higher oil prices in 2006, such tax credits were partially phased out and one synthetic fuel investment was terminated.  As a result, Southern Company&#146;s synthetic fuel investments did not contribute significantly to earnings and earnings per share during 2006.  These tax credits will no longer be available after December 31, 2007.  Southern Company
+management uses earnings per share, excluding synthetic fuel earnings, to evaluate the performance of Southern Company&#146;s ongoing business activities.</font><font color="#FF0000"><font size=2> </font></font><font size=2> Southern Company believes the presentation of earnings and earnings per share excluding the results of the synthetic fuel investments also is useful for investors because it provides investors with additional information for purposes of comparing Southern Company&#146;s performance for such periods.  The presentation of this additional information is not meant to be considered a substitute for financial measures prepared in accordance with GAAP.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><i><font size=2>Cautionary Statement Regarding Forward-Looking Information</font></i></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.46in;text-align:left;'><font size=2>Certain information contained in this Form 8-K and the exhibits attached hereto is forward-looking information based on current expectations and plans that involve risks and uncertainties.  Forward-looking information includes, among other things, statements concerning results of operations, synthetic fuels earnings, customer and economic growth and Southern Company&#146;s strategies.  Southern Company and its subsidiaries caution that </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>- 1 -</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>there are certain factors that can cause actual results to differ materially from the forward-looking information that has been provided.  The reader is cautioned not to put undue reliance on this forward-looking information, which is not a guarantee of future performance and is subject to a number of uncertainties and other factors, many of which are outside the control of Southern Company and its subsidiaries; accordingly, there can be no assurance that such suggested results will be realized.  The following factors, in addition to those discussed in Southern Company&#146;s Annual Report on Form 10-K for the year ended December 31, 2005, and subsequent securities filings, could cause results to differ materially from management expectations as suggested by such forward-looking information: the impact of recent and future federal and state regulatory change, including legislative and regulatory initiatives
+regarding deregulation and restructuring of the electric utility industry and implementation of the Energy Policy Act of 2005, and also changes in environmental, tax and other laws and regulations to which Southern Company and its subsidiaries are subject, as well as changes in application of existing laws and regulations; current and future litigation, regulatory investigations, proceedings or inquiries, including the pending EPA civil actions against certain Southern Company subsidiaries, FERC matters, IRS audits and Mirant-related matters; the effects, extent and timing of the entry of additional competition in the markets in which Southern Company&#146;s subsidiaries operate; variations in demand for electricity, including those relating to weather, the general economy and population and business growth (and declines); available sources and costs of fuels; ability to control costs; investment performance of Southern Company&#146;s employee benefit plans; advances in technology;
+state and federal rate regulations and the impact of pending and future rate cases and negotiations, including rate actions relating to fuel and storm restoration cost recovery; the performance of projects undertaken by the non-utility businesses and the success of efforts to invest in and develop new opportunities; fluctuations in the level of oil prices; the level of production, if any, by the synthetic fuels operations at Carbontronics Synfuels Investors LP and Alabama Fuel Products LLC for fiscal year 2007; internal restructuring or other restructuring options that may be pursued; potential business strategies, including acquisitions or dispositions of assets or businesses, which cannot be assured to be completed or beneficial to Southern Company or its subsidiaries; the ability of counterparties of Southern Company and its subsidiaries to make payments as and when due; the ability to obtain new short- and long-term contracts with neighboring utilities; the direct or indirect
+effect on the business of Southern Company and its subsidiaries resulting from terrorist incidents and the threat of terrorist incidents; interest rate fluctuations and financial market conditions and the results of financing efforts, including Southern Company&#146;s and its subsidiaries&#146; credit ratings; the ability of Southern Company and its subsidiaries to obtain additional generating capacity at competitive prices; catastrophic events such as fires, earthquakes, floods, hurricanes or other similar occurrences; the direct or indirect effects on Southern Company&#146;s business resulting from incidents similar to the August 2003 power outage in the Northeast; and the effect of accounting pronouncements issued periodically by standard-setting bodies.  Southern Company and its subsidiaries expressly disclaim any obligation to update any forward-looking information.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>- 2 -</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><i><font size=2>Exhibits</font></i></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.46in;text-align:left;'><font size=2>The exhibits hereto contain business segment information for Alabama Power Company, Georgia Power Company, Gulf Power Company, Mississippi Power Company and Southern Power Company.  Accordingly, this report is also being furnished on behalf of each such registrant.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.46in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>The following exhibits relate to the quarter and year ended December 31, 2006:</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="66%" style='margin-left:41.4pt;border-collapse:collapse'>
+    <tr >
+        <td width="144" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin:0in;margin-bottom:.0001pt'><font size=2>Exhibit 99.01</font></p> </td>
+        <td width="249" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-top:0in;margin-right:0in;margin-bottom:12.0pt;margin-left: 0in'><font size=2>Press Release.</font></p> </td> </tr>
+    <tr >
+        <td width="144" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin:0in;margin-bottom:.0001pt'><font size=2>Exhibit 99.02</font></p> </td>
+        <td width="249" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-top:0in;margin-right:0in;margin-bottom:12.0pt;margin-left: 0in'><font size=2>Financial Highlights.</font></p> </td> </tr>
+    <tr >
+        <td width="144" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin:0in;margin-bottom:.0001pt'><font size=2>Exhibit 99.03</font></p> </td>
+        <td width="249" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-top:0in;margin-right:0in;margin-bottom:12.0pt;margin-left: 0in'><font size=2>Significant Factors Impacting EPS.</font></p> </td> </tr>
+    <tr >
+        <td width="144" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin:0in;margin-bottom:.0001pt'><font size=2>Exhibit 99.04</font></p> </td>
+        <td width="249" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-top:0in;margin-right:0in;margin-bottom:12.0pt;margin-left: 0in'><font size=2>Analysis of Consolidated Earnings.</font></p> </td> </tr>
+    <tr >
+        <td width="144" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin:0in;margin-bottom:.0001pt'><font size=2>Exhibit 99.05</font></p> </td>
+        <td width="249" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-top:0in;margin-right:0in;margin-bottom:12.0pt;margin-left: 0in'><font size=2>Kilowatt-Hour Sales.</font></p> </td> </tr>
+    <tr >
+        <td width="144" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin:0in;margin-bottom:.0001pt'><font size=2>Exhibit 99.06</font></p> </td>
+        <td width="249" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin:0in;margin-bottom:.0001pt'><font size=2>Financial Overview.</font></p> </td> </tr></table>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'>
+</p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>- 3 -</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font SIZE=2>SIGNATURES</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.79in;text-align:left;line-height:200%;'><font size=2>Pursuant to the requirements of the Securities Exchange Act of 1934, each of the registrants has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="98%" style='border-collapse:collapse'>
+    <tr >
+        <td width="205" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Date:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;January 25, 2007</font></p> </td>
+        <td width="378" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>THE SOUTHERN COMPANY</font></p> </td> </tr>
+    <tr >
+        <td width="205" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="378" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td> </tr>
+    <tr >
+        <td width="205" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="378" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td> </tr>
+    <tr >
+        <td width="205" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="378" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>By&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><u><font size=2>/s/W. Ron Hinson</font></u>                                          <font size=2>&nbsp;</font></p>
+<p style='margin-left:0pt;text-indent:99.0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>W. Ron Hinson</font></p>
+<p style='margin-left:0pt;text-indent:107.25pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Comptroller</font></p> </td> </tr>
+    <tr >
+        <td width="205" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="378" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td> </tr>
+    <tr >
+        <td width="205" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="378" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>ALABAMA POWER COMPANY</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>GEORGIA POWER COMPANY</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>GULF POWER COMPANY</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>MISSISSIPPI POWER COMPANY</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>SOUTHERN POWER COMPANY</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td> </tr>
+    <tr >
+        <td width="205" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="378" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td> </tr>
+    <tr >
+        <td width="205" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="378" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td> </tr>
+    <tr >
+        <td width="205" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="378" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>By&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><u><font size=2>/s/Wayne Boston</font></u>                                                <font size=2>&nbsp;</font></p>
+<p style='margin-left:0pt;text-indent:101.25pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Wayne Boston</font></p>
+<p style='margin-left:0pt;text-indent:90.75pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Assistant Secretary</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td> </tr></table>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>- 4 -</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>img1.gif
+<TEXT>
+begin 644 img1.gif
+M1TE&.#EAU@!K`'<`,2'^&E-O9G1W87)E.B!-:6-R;W-O9G0@3V9F:6-E`"'Y
+M!`$`````+`(``@#1`&8`@0```()U8_\D``$"`P+_A(^IR^T/HYRT6B2NWKS[
+M#X9`)I;FB::=P*KN"\<@V\KVC=]TG??^[]GQ@,2B,2$<'I=,7%+9C$I-3]KT
+MBOU4H=FNM[&U?L=D3)A43G?/8K5;RFZ_Y\6XG([/V7?YOFY_YR>(`L@W>)A2
+MR(7(N%+8""GR&$GI:%>)R;&7R6EQV0DJ\1E*"A97BKIPFLIZL-K*RN810#M!
+M&^!P>XN@N]O[NPL`S-M[`%PL?%R[\,NL2Z&(%':AG#OL_&S<K(Q\;=#\S8V;
+M+#ZNG9V`'*&(-G)F4:X0GZY._ER^[&V_O'^-S]_/W#F`#]B9>4=AWD!N]-`%
+M#.@/7#AT\_[Q.]:0H*E)_P9&15`X$1\QA\/^A0QVTEQ%BPM).G1@T)7'!Q*_
+M9129<N0]G/HDUM2),F+/EPQBRGP%X>?-H#[KZ7L(%&!3HBE5@F-X<AW'CH`D
+M8,3F\JK3GT\M7A17-6I5IB@W=G6!MJ7`M/VBSBUK5FZWJ=GBUBL:;4.[!@J?
+MYJPK=^G=O&O[LFSLB^K!MYX,T?2K%'%-O'_-6L7Z.&=<MYLF;$E8S;#0MIQ?
+M>M;K&&3=T:H"%T3J52S1U5+)^AY+\2_LSGN_UK8M;:NMXHQYMX6:N*5TL)&!
+M!\-ZG/)1=H/E"70.DG'T\8@AQC[/-KUPKK:Y/R&,T[QQ^<);LU:WDCGZ[X;=
+MN?__GP1\A84VW&Z_A:4>>-$=^!Q[`#[(A4F*K4>?1M#1=5B%&#JGF`(0?A@A
+M;1-:6"`#]O46'&A\[63@2R"^"$N,,LY(8XTVWHACCIS,IY<U]6TF8H_>414?
+MAGU48U=FJ@$9I'E#MEC=<_V]@5V%#?(X5)%.3K@4=%.J,:"$28Y9H'4_9GD=
+M?IFY$::8C<&VX(H,(IB/FI*!B5&:K\'YYH9V8HED>=NLB2>%:/ZI'Z(HGE4E
+M=G)^6:AD2GV%EJ-RBF:F;O<%FL>42VKJV6<\%<-D:IE2R.::_?$FWSYE[I=A
+MJ(OQ2(>G2H+:JJ(,78IIE5L*LNJD)9%J:H)(\JJ9KQ#_'3+?.(>R&&6BD!'4
+M7*)GWCG'J'N"JF>W#;X**V1/?MOI:'NZZN=^<R5Y[*D:09JMN:&5RJBW),I:
+MWJ_D#4+;O)E.9RN4T<YZ+;E'<FJE6M,E:VC!M<SY+J%^H+JLCA9?C''&&F_,
+M<<<>?PQRR"*/3'+))I^,<LH>X[+NP3A^&Y0SVJ11YPM2MJS!63,G@YJ)5LEL
+M#,V\P$`B"#K+4\&].!.3;3I$JV3"T5`GC7/103>Q--`V7'3"SUPG#5]25X_=
+M,G\V[>SLV$S3XW/85TMU]LYL"S/WT''3C;?=X>C-L]T_#YG46'+C[?74U>T-
+M,,ME7]EWS>3T;5/$O4$>\]XW[,M=^,QI,FVPVG5_S2CA:N?#C-.0`XXXZ%/G
+M[>SBWZ6>=^QISUTYX6;_;;G5=W\^--QK4[O[Z8ZWG?O:F`>M].^O(\X\[:2G
+MGG7HIQ,/M/3&-WY7\),+[_RZ$4-_F?*:;Z_UP^(W3SGNA"%=//J#/^S]].E/
+MQ#?V6C/?>OAHWT[^D_;L?[W-N<\[[*N9XNX7/.01,'^/>Q\#/T,[M%'/?I:C
+M&P/=)KP+4HMEV..@SR)RCH'4+X$#=(S\*(@N^2&(.N,;20-/:+S%<"\C_\/6
+@T[RG.Y5%07$RU.$7^I=#'QYA4;$38A<&E34C6J```#L_
+`
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.01
+<SEQUENCE>3
+<FILENAME>x9901.htm
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE> </TITLE>
+</HEAD>
+<BODY bgcolor="#ffffff">
+
+
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:right;'><font size=2>Exhibit 99.01</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><b><font size=7><font color="#FF0000">News</font></font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:right;'><img src="img1.gif"><br></p>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:right;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:right;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="151" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Media Contact:</font></b><b></b></p> </td>
+        <td width="439" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Terri Cohilas</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>404-506-5333 or 1-866-506-5333</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>media@southerncompany.com</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>www.southerncompany.com</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>&nbsp;</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b>&nbsp;</b></p> </td> </tr>
+    <tr >
+        <td width="151" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b>&nbsp;</b></p> </td>
+        <td width="439" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Investors: Glen Kundert, 404-506-5135</font><b></b></p> </td> </tr></table>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:4.5in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:4.5in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:4.5in;text-align:right;'><font size=2>Jan. 25, 2007</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=4>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=4>2006 Southern Company earnings bolstered by </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=4>strong economy, customer growth</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>ATLANTA &#150; Citing continued economic strength and a growing customer base in the Southeast, Southern Company today reported full-year 2006 earnings of $1.57 billion, or $2.12 a share. Reported earnings for 2005 were $1.59 billion, or $2.14 per share. Lower year-end earnings compared with the prior period were primarily the result of a reduction of tax credits related to the production of synthetic fuels. Excluding the impact of synthetic fuels, Southern Company earned $2.10 per share, up from $2.03 per share in 2005.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>Southern Company also reported solid fourth quarter earnings of $188.4 million, or 25 cents a share. This compared with reported earnings of $158.9 million, or 21 cents per share, in the fourth quarter of 2005.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>The region continued to attract new residents and businesses throughout the year, adding more than 70,000 customers in 2006, an increase of 1.7 percent over 2005. Another key earnings driver was the growth in the competitive wholesale generation business, which acquired new capacity in Florida and North Carolina, added to its portfolio of long-term wholesale contracts, and extended some of its existing contracts. These and other positive earnings drivers for the year were offset in part by a reduction of tax credits related to the production of synthetic fuels, higher interest expenses related to increased capital expenditures, and increased non-fuel operations and maintenance expenses primarily associated with prior year storm costs at the retail operating companies. </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>Chairman, President and CEO David M. Ratcliffe said the 2006 results demonstrate that the continued strength of the Southeast economy and the company&#146;s dedication to serving the customer are the keys to Southern Company&#146;s long-term financial performance.
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&#147;Southern Company remains committed to excellent customer service and satisfaction. We continue to provide outstanding reliability and customer service in the face of increasing demand,&#148; Ratcliffe said. &#147;Our ability to effectively manage costs has enabled us to keep our prices significantly below the national average.&#148;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>Fourth quarter revenues were $3.15 billion, compared with $3.29 billion in the same period a year earlier, a decrease of 4.2 percent. Revenues for the full year were $14.36 billion, compared with $13.56 billion in 2005, a 5.9 percent increase.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>Kilowatt-hour sales to retail customers in Southern Company&#146;s four-state service area increased 1.4 percent in 2006, compared with 2005. Residential energy sales increased 2.5 percent. Commercial energy sales increased 2.2 percent. Industrial energy sales declined 0.2 percent. </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>Total energy sales to Southern Company&#146;s customers in the Southeast, including wholesale sales, increased 2.2 percent in 2006 compared with 2005, primarily due to customer growth. </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>In conjunction with this earnings announcement, Southern Company has posted on its Web site detailed financial information on its fourth quarter and 2006 performance. These materials are available at 7:30 a.m. Eastern time Jan. 25 at www.southerncompany.com.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>Southern Company&#146;s financial analyst call will be at 1 p.m. Eastern time Jan. 25, at which time Ratcliffe and Chief Financial Officer Thomas A. Fanning will discuss earnings and earnings guidance as well as a general business update. Investors, media and the public may listen to a live Webcast of the call at www.southerncompany.com. A replay of the Webcast will be available at the site for 12 months.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>With 4.3 million customers and more than 41,000 megawatts of generating capacity, Atlanta-based Southern Company (NYSE: SO) is the premier energy company serving the Southeast, one of America&#146;s fastest-growing regions. A leading U.S. producer of electricity, Southern Company owns electric utilities in four states and a growing competitive generation company, as well as fiber optics and wireless communications. Southern Company brands are known for excellent customer service, high reliability and retail electric prices that are significantly below the national average. Southern Company has received the highest ranking in customer satisfaction among U.S. electric service providers for seven consecutive years by the American Customer Satisfaction Index (ACSI). Visit our Web site at www.southerncompany.com. </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2><font face="Arial">&nbsp;</font></font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><i><b><font size=2>Forward Looking Statements Note: </font></b></i></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><i><font size=2>Certain information contained in this release is forward-looking information based on current expectations and plans that involve risks and uncertainties. Forward-looking information includes, among other things, statements concerning results of operations, customer and economic growth and Southern Company&#146;s strategies. Southern Company cautions that there are certain factors that can cause actual results to differ materially from the forward-looking information that has been provided. The reader is cautioned not to put undue reliance on this forward-looking information, which is not a guarantee of future performance and is subject to a number of uncertainties and other factors, many of which are outside the control of Southern Company; accordingly, there can be no assurance that such suggested results will be realized. The following factors, in
+ addition to those discussed in Southern Company&#146;s Annual Report on Form 10-K for the year ended Dec. 31, 2005, and subsequent securities filings, could cause results to differ materially from management expectations as suggested by such forward-looking information: the impact of recent and future federal and state regulatory change, including legislative and regulatory initiatives regarding deregulation and restructuring of the electric utility industry and implementation of the Energy Policy Act of 2005, and also changes in environmental, tax and other laws and regulations to which Southern Company and its subsidiaries are subject, as well as changes in application of existing laws and regulations; current and future litigation, regulatory investigations, proceedings or inquiries, including the pending EPA civil actions against certain Southern Company subsidiaries, FERC
+matters, IRS audits and Mirant-related matters; the effects, extent and timing of the entry of additional competition in the markets in which Southern Company&#146;s subsidiaries operate; variations in demand for electricity, including those relating to weather, the general economy and population and business growth (and declines); available sources and costs of fuels; ability to control costs; investment performance of Southern Company&#146;s employee benefit plans; advances in technology; state and federal rate regulations and the impact of pending and future rate cases and negotiations, including rate actions relating to fuel and storm restoration cost recovery; the performance of projects undertaken by the non-utility businesses and the success of efforts to invest in and develop new opportunities; fluctuations in the level of oil prices; the level of production, if any, by the synthetic fuel operations at Carbontronics Synfuels Investors LP and Alabama Fuel Products LLC for
+fiscal year 2007; internal restructuring or other restructuring options that may be pursued; potential business strategies, including acquisitions or dispositions of assets or businesses, which cannot be assured to be completed or beneficial to Southern Company or its subsidiaries; the ability of counterparties of Southern Company and its subsidiaries to make payments as and when due; the ability to obtain new short- and long-term contracts with neighboring utilities; the direct or indirect effect on Southern Company&#146;s business resulting from terrorist incidents and the threat of terrorist incidents; interest rate fluctuations and financial market conditions and the results of financing efforts, including Southern Company&#146;s and its subsidiaries&#146; credit ratings; the ability of Southern Company and its subsidiaries to obtain additional generating capacity at competitive prices; catastrophic events such as fires, earthquakes, floods, hurricanes or other similar
+occurrences; the direct or indirect effects on Southern Company&#146;s business resulting from incidents similar to the August 2003 power outage in the Northeast; and the effect of accounting pronouncements issued periodically by standard-setting bodies. Southern Company and its subsidiaries expressly disclaim any obligation to update any forward-looking information.</font></i></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2><font face="Arial">&nbsp;</font></font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2># # #</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.02
+<SEQUENCE>4
+<FILENAME>x9902.txt
+<TEXT>
+
+
+
+                                                                   EXHIBIT 99.02
+
+
+                                Southern Company
+                              Financial Highlights
+               (In Millions of Dollars Except Earnings Per Share)
+
+<TABLE>
+<CAPTION>
+
+
+                                                   3 Months Ended December      12 Months Ended December
+                                                   -----------------------      ------------------------
+                                                     2006           2005          2006            2005
+                                                   --------       --------      --------        --------
+                                                    (Notes)        (Notes)       (Notes)         (Notes)
+Consolidated Earnings-As Reported
+
+(See Notes)
+<S>                                                 <C>            <C>          <C>             <C>
+   Retail Business                                  $  128         $   90       $ 1,292         $ 1,251
+   Competitive Generation                               71             62           305             270
+                                                    ------         ------       -------         -------
+     Total                                             199            152         1,597           1,521
+   Synthetic Fuels                                       6             12            12              85
+   Leasing Business                                      6              7            22              27
+   Parent Company and Other                            (23)           (12)          (58)            (42)
+                                                    ------         ------       -------         -------
+   Net Income - As Reported                         $  188         $  159       $ 1,573         $ 1,591
+                                                    ======         ======       =======         =======
+
+   Basic Earnings Per Share - (See Notes)           $ 0.25         $ 0.21       $  2.12         $  2.14
+
+   Operating Revenues                               $3,152         $3,290       $14,356         $13,554
+   Average Shares Outstanding (in millions)            745            742           743             744
+   End of Period Shares Outstanding (in millions)                                   747             742
+
+
+                                                   3 Months Ended December      12 Months Ended December
+                                                   -----------------------      ------------------------
+                                                     2006           2005          2006            2005
+                                                   --------       --------      --------        --------
+
+Consolidated Earnings-Excluding Synfuels
+(See Notes)
+   Net Income - As Reported                         $  188         $  159       $ 1,573         $ 1,591
+   Less: Synthetic Fuels                                (6)           (12)          (12)            (85)
+                                                    ------         ------       -------         -------
+   Net Income-Excluding Synthetic Fuels             $  182         $  147       $ 1,561         $ 1,506
+                                                    ======         ======       =======         =======
+
+   Basic Earnings Per Share-Excluding Synfuels      $ 0.25         $ 0.20       $  2.10         $  2.03
+
+</TABLE>
+
+
+Notes
+
+- - Southern Company GAS completed the sale of substantially all of its assets on
+  January 4, 2006 and is included in consolidated earnings in all periods as
+  discontinued operations.
+- - For the fourth quarter 2006, diluted earnings per share was less than 1 cent.
+  For year-to-date 2006, diluted earnings per share was 2 cents. For the fourth
+  quarter 2005, diluted earnings per share was less than 1 cent. For
+  year-to-date 2005, diluted earnings per share was 1 cent.
+- - Southern Company's synthetic fuel investments did not contribute significantly
+  to Southern Company's earnings and earnings per share for the three months and
+  twelve months ended December 31, 2006. Due to higher oil prices in 2006, such
+  tax credits were partially phased out and one synthetic fuel investment was
+  terminated.
+- - Certain prior year data has been reclassified to conform with current year
+  presentation.
+- - Information contained in this report is subject to audit and adjustments and
+  certain classifications may be different from final results published in the
+  Form 10-K.
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.03
+<SEQUENCE>5
+<FILENAME>x9903.txt
+<TEXT>
+
+
+
+                                                                   EXHIBIT 99.03
+                                Southern Company
+                        Significant Factors Impacting EPS
+
+<TABLE>
+<CAPTION>
+
+                                            3 Months Ended December           12 Months Ended December
+                                         -----------------------------      ------------------------------
+                                          2006       2005      Change        2006       2005      Change
+                                         ------     ------    --------      ------     ------    --------
+
+<S>                                      <C>        <C>         <C>         <C>        <C>        <C>
+Consolidated Earnings-As Reported        $ 0.25     $ 0.21      $0.04       $ 2.12     $ 2.14     $(0.02)
+(See Notes)
+  Significant Factors:
+   Retail Business                                               0.05                               0.06
+   Competitive Generation                                        0.01                               0.05
+   Synthetic Fuels                                              (0.01)                             (0.09)
+   Parent Company and Other                                     (0.01)                             (0.04)
+                                                              -------                            -------
+    Total-As Reported                                           $0.04                             $(0.02)
+                                                              =======                            =======
+
+
+                                            3 Months Ended December           12 Months Ended December
+                                         -----------------------------      ------------------------------
+                                          2006       2005      Change        2006       2005      Change
+                                         ------     ------    --------      ------     ------    ---------
+
+Consolidated Earnings-Excluding Synfuels $ 0.25     $ 0.20      $0.05       $ 2.10     $ 2.03      $0.07
+(See Notes)
+  Total-As Reported                                              0.04                              (0.02)
+  Less: Synthetic Fuels                                          0.01                               0.09
+                                                              -------                            --------
+    Total-Excluding Synthetic Fuels                             $0.05                              $0.07
+                                                              =======                            ========
+
+</TABLE>
+
+Notes
+
+- - Southern Company GAS completed the sale of substantially all of its assets on
+  January 4, 2006 and is included in consolidated earnings in all periods as
+  discontinued operations.
+- - For the fourth quarter 2006, diluted earnings per share was less than 1 cent.
+  For year-to-date 2006, diluted earnings per share was 2 cents. For the fourth
+  quarter 2005, diluted earnings per share was less than 1 cent. For
+  year-to-date 2005, diluted earnings per share was 1 cent.
+- - Southern Company's synthetic fuel investments did not contribute significantly
+  to Southern Company's earnings and earnings per share for the three months and
+  twelve months ended December 31, 2006. Due to higher oil prices in 2006, such
+  tax credits were partially phased out and one synthetic fuel investment was
+  terminated.
+- - Certain prior year data has been reclassified to conform with current year
+  presentation.
+- - Information contained in this report is subject to audit and adjustments and
+  certain classifications may be different from final results published in the
+  Form 10-K.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.04
+<SEQUENCE>6
+<FILENAME>x9904.txt
+<TEXT>
+
+
+
+                                                                   EXHIBIT 99.04
+                                Southern Company
+                        Analysis of Consolidated Earnings
+                            (In Millions of Dollars)
+
+<TABLE>
+<CAPTION>
+
+                                       3 Months Ended December          12 Months Ended December
+                                     --------------------------       ---------------------------
+                                      2006     2005     Change          2006     2005     Change
+                                     ------   ------   --------       -------   ------   --------
+Income Account-
+<S>                                  <C>      <C>      <C>            <C>      <C>        <C>
+Retail Revenue                       $2,505   $2,669   $ (164)        $11,801  $11,165    $ 636
+Wholesale Revenue                       461      429       32           1,822    1,667      155
+Other Electric Revenues                 119      125       (6)            465      446       19
+Non-regulated Operating Revenues         67       67        -             268      276       (8)
+                                     ------   ------   ------         -------  -------    -----
+Total Revenues                        3,152    3,290     (138)         14,356   13,554      802
+                                     ------   ------   ------         -------  -------    -----
+Fuel and Purchased Power              1,231    1,391     (160)          5,695    5,226      469
+Non-fuel O & M                          971    1,020      (49)          3,519    3,510        9
+Depreciation and Amortization           304      300        4           1,200    1,176       24
+Taxes Other Than Income Taxes           177      175        2             718      680       38
+                                     ------   ------   ------         -------  -------    -----
+Total Operating Expenses              2,683    2,886     (203)         11,132   10,592      540
+                                     ------   ------   ------         -------  -------    -----
+Operating Income                        469      404       65           3,224    2,962      262
+Other Income, net                         5      (26)      31              31        1       30
+Interest Charges and Dividends          240      204       36             900      777      123
+Income Taxes                             46       21       25             781      595      186
+Discontinued Operations, net of tax       -        6       (6)             (1)       -       (1)
+                                     ------   ------   ------         -------  -------    -----
+
+NET INCOME AS REPORTED (See Notes)   $  188   $  159   $   29         $ 1,573  $ 1,591    $ (18)
+                                     ======   ======   ======         =======  =======    =====
+
+</TABLE>
+
+
+Notes
+
+- - Southern Company GAS completed the sale of substantially all of its assets on
+  January 4, 2006 and is included in consolidated earnings in all periods as
+  discontinued operations.
+- - Certain prior year data has been reclassified to conform with current year
+  presentation.
+- - Information contained in this report is subject to audit and adjustments and
+  certain classifications may be different from final results published in the
+  Form 10-K.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.05
+<SEQUENCE>7
+<FILENAME>x9905.txt
+<TEXT>
+
+
+
+                                                                   EXHIBIT 99.05
+                                Southern Company
+                               Kilowatt-Hour Sales
+                              (In Millions of KWHs)
+
+<TABLE>
+<CAPTION>
+
+
+                           3 Months Ended December             12 Months Ended December
+                         ---------------------------        -------------------------------
+Kilowatt-Hour Sales       2006     2005      Change           2006       2005      Change
+(See Notes)              ------   ------    --------        --------   --------  ----------
+
+<S>                      <C>      <C>         <C>            <C>        <C>         <C>
+  Total Sales            46,954   46,492      1.0%           201,135    196,877     2.2%
+
+  Total Retail Sales-    36,874   37,518     -1.7%           161,334    159,076     1.4%
+    Residential          11,031   11,445     -3.6%            52,383     51,081     2.5%
+    Commercial           12,347   12,354     -0.1%            52,987     51,857     2.2%
+    Industrial           13,273   13,476     -1.5%            55,044     55,141    -0.2%
+    Other                   223      243     -8.2%               920        997    -7.6%
+
+  Total Wholesale Sales  10,080    8,974     12.3%            39,801     37,801     5.3%
+
+</TABLE>
+
+Notes
+
+- - Certain prior year data has been reclassified to conform with current year
+  presentation.
+- - Information contained in this report is subject to audit and adjustments and
+  certain classifications may be different from final results published in the
+  Form 10-K.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.06
+<SEQUENCE>8
+<FILENAME>x9906.txt
+<TEXT>
+
+
+
+                                                                   EXHIBIT 99.06
+                                Southern Company
+                               Financial Overview
+                            (In Millions of Dollars)
+
+<TABLE>
+<CAPTION>
+
+                                       3 Months Ended December                12 Months Ended December
+                                    ------------------------------       ---------------------------------
+                                     2006      2005      % Change          2006       2005       % Change
+                                    ------    ------    ----------       --------   --------    ----------
+ Consolidated -
+<S>                               <C>       <C>           <C>          <C>        <C>            <C>
+   Operating Revenues               $3,152    $3,290       -4.2%         $ 14,356   $ 13,554       5.9%
+   Earnings Before Income Taxes        234       174       34.5%            2,355      2,186       7.7%
+   Net Income                          188       159       18.6%            1,573      1,591      -1.1%
+
+ Alabama Power -
+   Operating Revenues               $1,120    $1,134       -1.2%          $ 5,015    $ 4,648       7.9%
+   Earnings Before Income Taxes        136       106       28.4%              873        817       6.8%
+   Net Income Available to Common       80        57       39.7%              518        508       1.9%
+
+ Georgia Power -
+   Operating Revenues               $1,579    $1,694       -6.8%          $ 7,246    $ 7,076       2.4%
+   Earnings Before Income Taxes        105        99        6.2%            1,234      1,195       3.3%
+   Net Income Available to Common       76        61       23.6%              787        744       5.8%
+
+ Gulf Power -
+   Operating Revenues                $ 275     $ 264        4.4%          $ 1,204    $ 1,084      11.1%
+   Earnings Before Income Taxes         10         5      122.2%              125        121       3.0%
+   Net Income Available to Common        7         2      265.4%               76         75       1.0%
+
+ Mississippi Power -
+   Operating Revenues                $ 235     $ 228        2.9%          $ 1,009      $ 970       4.1%
+   Earnings Before Income Taxes         11         5       96.8%              132        122       8.1%
+   Net Income Available to Common        7         3      145.4%               82         74      11.1%
+
+ Southern Power -
+   Operating Revenues                $ 174     $ 213      -18.7%            $ 777      $ 781      -0.5%
+   Earnings Before Income Taxes         44        44       -0.9%              206        187      10.5%
+   Net Income Available to Common       27        27       -1.4%              124        115       8.4%
+
+</TABLE>
+
+
+Notes
+
+- - Southern Company GAS completed the sale of substantially all of its assets on
+  January 4, 2006 and is included in consolidated earnings in all periods as
+  discontinued operations.
+- - Certain prior year data has been reclassified to conform with current year
+  presentation.
+- - Information contained in this report is subject to audit and adjustments and
+  certain classifications may be different from final results published in the
+  Form 10-K.
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
