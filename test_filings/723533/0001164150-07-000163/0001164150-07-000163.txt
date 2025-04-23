@@ -1,0 +1,167 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Snw9TB74VGdLd6lPprvRlfn6IB2S6zE0l6/3690W1FkEXaVHRC9zQvr3W+Ch1tTU
+ WCnQw4DZ1tqZ1nugW34FqA==
+
+<SEC-DOCUMENT>0001164150-07-000163.txt : 20071119
+<SEC-HEADER>0001164150-07-000163.hdr.sgml : 20071119
+<ACCEPTANCE-DATETIME>20071119144836
+ACCESSION NUMBER:		0001164150-07-000163
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20071119
+ITEM INFORMATION:		Other Events
+FILED AS OF DATE:		20071119
+DATE AS OF CHANGE:		20071119
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EXPERTELLIGENCE INC
+		CENTRAL INDEX KEY:			0000723533
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				953506403
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-16851
+		FILM NUMBER:		071255975
+
+	BUSINESS ADDRESS:	
+		STREET 1:		83 STANLEY ROAD
+		STREET 2:		UN 1 BOX 103
+		CITY:			RR6 WOODVILLE
+		STATE:			A6
+		ZIP:			K0M 2T0
+		BUSINESS PHONE:		5616978751
+
+	MAIL ADDRESS:	
+		STREET 1:		2300 PALM BEACH LAKES BLVD
+		STREET 2:		SUITE 218
+		CITY:			WEST PALM BEACH
+		STATE:			FL
+		ZIP:			33409
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ORIGINAL COMPUTER CAMP INC
+		DATE OF NAME CHANGE:	19841023
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>exgp-8k_11192007.txt
+<TEXT>
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+                       Pursuant to Section 13 OR 15(d) of
+                       The Securities Exchange Act of 1934
+
+
+Date of Report (Date of earliest event reported) November 19, 2007
+
+
+                              ExperTelligence, Inc.
+- --------------------------------------------------------------------------------
+             (Exact name of registrant as specified in its charter)
+
+
+      Nevada                    000-11596                95-3506403
+- --------------------------------------------------------------------------------
+(State or other jurisdiction  (Commission File Number)   (IRS Employer
+  of incorporation)                                          Identification No.)
+
+
+   83 Stanley Road, UN 1 Box 103, RR6 Woodville, Ontario K0M 2T0
+- --------------------------------------------------------------------------------
+(Address of principal executive offices)                            (Zip Code)
+
+
+Registrant's telephone number, including area code: (416) 554-6546
+
+
+                                      N/A
+- --------------------------------------------------------------------------------
+         (Former name or former address, if changed since last report.)
+
+
+
+- ----------------------
+Check  the  appropriate  box  below  if the  Form  8-K  filing  is  intended  to
+simultaneously  satisfy the filing obligation of the registrant under any of the
+following provisions (see General Instruction A.2. below):
+
+[_]  Written  communications  pursuant to Rule 425 under the  Securities Act (17
+     CFR 230.425)
+
+[_]  Soliciting  material pursuant to Rule 14a-12 under the Exchange Act (17 CFR
+     240.14a-12)
+
+[_]  Pre-commencement   communications  pursuant  to  Rule  14d-2(b)  under  the
+     Exchange Act (17 CFR 240.14d-2(b))
+
+[_]  Pre-commencement   communications  pursuant  to  Rule  13e-4(c)  under  the
+     Exchange Act (17 CFR 240.13e-4(C))
+
+
+
+<PAGE>
+
+
+SECTION 8- OTHER EVENTS
+
+
+Item 8.01- Other Events
+
+     On November  19, 2007 the  Company  effected a reverse  split of its common
+stock at a ratio of one (1) share for each two hundred  (200)  shares  currently
+issued and outstanding.  The effective date of the reverse split is November 19,
+2007, a date and time approved by NASD.
+
+     Under the terms of the  Resolution  approved by the Board of Directors,  no
+exchange of share  certificates is required.  The Company intends to continue to
+use its  current  transfer  agent to effect  the  exchange  of any  certificates
+following  the reverse  stock  split.  The split will occur  electronically  and
+fractional  shares are rounded to the next highest  number.  The Company and the
+transfer agent are prepared to act on this basis. As a result of the stock split
+outlined above, NASD assigned a new trading symbol of EXTL.
+
+     The purpose of the reverse split is to position the company more  favorably
+for  acquisition  or  development  of  an  operating   company  for  its  future
+development and growth.
+
+
+
+                                   SIGNATURES
+
+
+     Pursuant to the  requirements  of the Securities  Exchange Act of 1934, the
+registrant  has duly  caused  this  Report  to be  signed  on its  behalf by the
+undersigned hereunto duly authorized.
+
+
+                            EXPERTELLIGENCE, INC.
+
+
+
+Dated:  November 19, 2007     By: /s/ Jason Smart
+                                  ---------------------------------------------
+                                  Jason Smart, Chief Executive Officer,
+                                  President and Director
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

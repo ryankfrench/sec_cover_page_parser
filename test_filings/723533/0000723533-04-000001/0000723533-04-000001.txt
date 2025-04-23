@@ -1,0 +1,118 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ HijLjFKmAknnl9hKa8vlMXQOND5iSHfHdPPlVkn6KRGzNZCk1SKINS5WdxQFu1Vn
+ j1c12bLvuMqzIuyqGU0PCQ==
+
+<SEC-DOCUMENT>0000723533-04-000001.txt : 20040108
+<SEC-HEADER>0000723533-04-000001.hdr.sgml : 20040108
+<ACCEPTANCE-DATETIME>20040107180532
+ACCESSION NUMBER:		0000723533-04-000001
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20031231
+ITEM INFORMATION:		Changes in control of registrant
+FILED AS OF DATE:		20040108
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EXPERTELLIGENCE INC
+		CENTRAL INDEX KEY:			0000723533
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				953506403
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-16851
+		FILM NUMBER:		04513955
+
+	BUSINESS ADDRESS:	
+		STREET 1:		614 CHAPALA STREET
+		STREET 2:		SUITE 1
+		CITY:			SANTA BARBARA
+		STATE:			CA
+		ZIP:			93101
+		BUSINESS PHONE:		8059622558
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ORIGINAL COMPUTER CAMP INC
+		DATE OF NAME CHANGE:	19841023
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>exgp031231.txt
+<DESCRIPTION>CHANGE OF CONTROL
+<TEXT>
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+
+Date of Report: April 30, 2003
+(date of earliest event reported March 21,2003)
+
+Commission File Number:  0-11596
+
+
+ExperTelligence, Inc.
+(Exact name of registrant as specified in its charter)
+
+California                                     95-3506403
+(State or Other Jurisdiction of            (I.R.S. Employer
+     Incorporation)                        Identification No.)
+
+1616 East Valley Road, Santa Barbara, California 93108
+(Address of principal executive offices and zip code)
+
+Registrant's telephone number, including area code:
+(805) 565-4120
+
+614 Chapala Street, Santa Barbara, California 93101
+- ----------------------------------------------------------
+(Former name or former address, if changes since last report)
+
+
+
+ITEM 1.	CHANGE OF CONTROL OF REGISTRANT.
+
+On December 23, 2003, ExperTelligence, Inc. (the "Company"), a
+California corporation, issued 15,002,718 shares of the Company's
+restricted Common Stock, representing 75.0% of the class, to
+Douglas P. Martin in exchange for a cash payment of fifty
+thousand dollars ($50,000) made to the Company.  The effect of
+this transaction was a change of control, where Mr. Martin now
+beneficially directly owns 75.0% of the voting securities of
+the Company.
+
+
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act
+of 1934, the Registrant has duly caused this report to be
+signed on its behalf by the undersigned thereunto duly
+authorized.
+
+Dated: December 31, 2003
+ExperTelligence, Inc.
+By: /s/ William Urschel
+Name: William Urschel
+Title: CEO
+
+
+###
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,14 @@
+{
+    "name": "Oracle Corporation",
+    "address": "2300 Oracle Way",
+    "city": "Austin",
+    "state": "Texas",
+    "zip": "78741",
+    "state_of_incorporation": "Delaware",
+    "date": "June 13, 2022",
+    "form": "8-K",
+    "commission_file_number": "001-35992",
+    "irs_employer_id": "54-2185193",
+    "trading_symbol": "ORCL",
+    "exchange": "New York Stock Exchange"
+}

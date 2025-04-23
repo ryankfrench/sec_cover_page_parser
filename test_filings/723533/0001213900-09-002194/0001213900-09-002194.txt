@@ -1,0 +1,480 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Rw99FCIiq4/s1+7/6VOnc90eHR6Vb4TahhWVddJcyFrXbJvztvWbXZhSvcbkJCHx
+ nQyAoEjsFXquHbkEbeKJgA==
+
+<SEC-DOCUMENT>0001213900-09-002194.txt : 20090819
+<SEC-HEADER>0001213900-09-002194.hdr.sgml : 20090819
+<ACCEPTANCE-DATETIME>20090819061531
+ACCESSION NUMBER:		0001213900-09-002194
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20090819
+ITEM INFORMATION:		Changes in Registrant's Certifying Accountant
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20090819
+DATE AS OF CHANGE:		20090819
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EXPERTELLIGENCE INC
+		CENTRAL INDEX KEY:			0000723533
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				953506403
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-16851
+		FILM NUMBER:		091022804
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2101 VISTA PKWY STE 292
+		CITY:			WEST PALM BEACH
+		STATE:			FL
+		ZIP:			33411
+		BUSINESS PHONE:		561-228-6148
+
+	MAIL ADDRESS:	
+		STREET 1:		2101 VISTA PKWY STE 292
+		CITY:			WEST PALM BEACH
+		STATE:			FL
+		ZIP:			33411
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ORIGINAL COMPUTER CAMP INC
+		DATE OF NAME CHANGE:	19841023
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>f8k080309_expertil.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<html>
+  <head>
+    <title>f8k080309_expertil.htm</title>
+<!-- Licensed to: <TP> Electronic Filing Services Corp.-->
+<!-- Document Created using EDGARizer 4.0.7.0 -->
+<!-- Copyright 1995 - 2008 EDGARfilings, Ltd., an IEC company. All rights reserved -->
+</head>
+    <body bgcolor="#ffffff" style="DISPLAY: inline; FONT-SIZE: 10pt; MARGIN-LEFT: 7%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 7%; FONT-FAMILY: Times New Roman">
+    <div>
+      <hr style="MARGIN-TOP: -5px; COLOR: #000000" noshade size="4">
+      <hr style="MARGIN-TOP: -10px; COLOR: #000000" noshade size="1">
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">UNITED
+STATES</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SECURITIES
+AND EXCHANGE COMMISSION</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Washington,
+D.C. 20549</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">FORM
+8-K</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">CURRENT
+REPORT</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pursuant
+to Section 13 OR 15(d) of</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The
+Securities Exchange Act of 1934</font><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center" align="left">
+      <div>
+      </div>
+      <div>&#160;</div>
+      <div>
+        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Date of
+Report (Date of earliest event reported): August 19, 2009 (August 3,
+2009)</font></div>
+      </div>
+      <div>&#160;</div>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center" align="left">
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">ExperTelligence,
+Inc.</font></div>
+      <hr style="COLOR: black" align="center" noshade size="1" width="35%">
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center" align="left">(Exact name of registrant as specified in its charter)<br></div>
+    <div>&#160;</div>
+    <div align="center">
+      <div align="left">
+        <table bgcolor="white" cellpadding="0" cellspacing="0" width="100%">
+            <tr>
+              <td width="29%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;Nevada&#160;</font></td>
+              <td width="5%" style="PADDING-BOTTOM: 2px; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+              <td width="32%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;<font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">0-11596</font></font></td>
+              <td width="5%" style="PADDING-BOTTOM: 2px; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+              <td width="29%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: center">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">95-3506403</font></div>
+              </td>
+            </tr>
+            <tr>
+              <td width="29%" style="TEXT-ALIGN: center">
+                <div><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;(State or
+      other jurisdiction </font></div>
+                <div><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">of
+      incorporation)</font></div>
+              </td>
+              <td width="5%" style="TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+              <td width="32%" style="TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;(Commission
+      File Number)</font></td>
+              <td width="5%" style="TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+              <td width="29%" style="TEXT-ALIGN: center">
+                <div><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;(IRS Employer
+      </font></div>
+                <div><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Identification
+      No.)</font></div>
+              </td>
+            </tr>
+        </table>
+      </div>
+    </div>
+    <div>&#160;</div>
+    <div>
+      <div>
+        <div align="center">
+          <div align="center">
+            <div align="center">
+              <div align="center">
+                <div align="left">
+                  <div align="center">
+                    <div align="center">
+                      <table cellpadding="0" cellspacing="0" width="100%">
+                          <tr>
+                            <td valign="top" width="66%" style="BORDER-BOTTOM: black 2px solid">
+                              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center">
+                                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">2101
+      Vista Parkway, Suite 292</font></div>
+                              </div>
+                              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: normal; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">West
+      Palm Beach, FL</font></div>
+                            </td>
+                            <td valign="bottom" width="5%" style="PADDING-BOTTOM: 2px">&#160;</td>
+                            <td valign="bottom" width="29%" style="BORDER-BOTTOM: black 2px solid">
+                              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: normal; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">33411</font></div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td valign="top" width="66%">
+                              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(Address
+      of principal executive offices)</font></div>
+                            </td>
+                            <td valign="top" width="5%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+                            <td valign="top" width="29%">
+                              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(Zip
+      Code)</font></div>
+                            </td>
+                          </tr>
+                      </table>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Registrant's
+telephone number, including area code: (<font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">561)
+228-6148</font></font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">2300 Palm
+Beach Lakes Boulevard, Suite 218, West Palm Beach, FL
+33409</font></div>
+      </div>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center" align="left">
+      <div>
+        <hr style="COLOR: black" align="center" noshade size="1" width="35%">
+      </div>(Former name or former address, if changed since last report.)</div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: justify" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Check the
+appropriate box below if the Form 8-K filing is intended to </font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">simultaneously
+satisfy the filing obligation of the registrant under any of the </font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">following
+provisions (see General Instruction A.2. below):</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">[_]
+Written communications pursuant to Rule 425 under the Securities Act (17
+</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">CFR
+230.425)</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">[_]
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR
+</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">240.14a-12)</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">[_]
+Pre-commencement communications pursuant to Rule 14d-2(b) under the </font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Exchange
+Act (17 CFR 240.14d-2(b))</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">[_]
+Pre-commencement communications pursuant to Rule 13e-4(c) under the </font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Exchange
+Act (17 CFR 240.13e-4(C))</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">
+        </div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+        </div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">
+        </div>
+      </div>
+    </div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>
+      <div>
+        <div>The&#160;&#160;purpose of this&#160;&#160;current&#160;&#160;report on Form
+8-K is to report a change in the Company&#8217;s auditors.<a name="id_3" /><a name="id_4" /></div>
+        <div><br></div>
+        <div>ITEM 4.01 Changes in Registrant&#8217;s Certifying Accountant</div>
+        <div><br></div>
+        <div>On August 3, 2009, Lawrence Scharfman, CPA was dismissed as the Company&#8217;s
+Independent Auditor.</div>
+        <div><br></div>
+        <div>We understand that on August 11, 2009, Lawrence Scharfman, CPA&#8217;s
+registration with the Public Companies Accounting Oversight Board, (PCAOB), was
+revoked by the PCAOB.</div>
+        <div><br></div>
+        <div>During the&#160;&#160;Registrant's&#160;&#160;two most recent fiscal years
+and during any subsequent
+interim&#160;&#160;period&#160;&#160;prior&#160;&#160;to the August 3, 2009,
+dismissal as the
+Company's&#160;&#160;independent&#160;&#160;auditors,&#160;&#160;there&#160;&#160;were
+no&#160;&#160;disagreements&#160;&#160;with Lawrence Scharfman, CPA,
+with&#160;&#160;respect&#160;&#160;to&#160;&#160;accounting&#160;&#160;or&#160;&#160;auditing&#160;&#160;issues&#160;&#160;of
+the type discussed in Item 304(a)(iv) of Regulation S-K.</div>
+        <div>&#160;</div>
+        <div>On August 3, 2009, the Company retained Larry O&#8217;Donnell, CPA, PC as the
+Company&#8217;s Independent Auditor.</div>
+        <div><br></div>
+        <div>During the Registrant's two most recent fiscal years or any
+subsequent&#160;&#160;interim period prior to engaging Larry O&#8217;Donnell, CPA, PC,
+the Company, or someone on the Company's behalf, had not consulted Larry
+O&#8217;Donnell, CPA, PC regarding any of the accounting or auditing concerns stated
+in Item 304(a)(2) of Regulation S-K.</div>
+        <div>&#160;</div>
+        <div>On August 17, 2009, the Company provided Lawrence Scharfman, CPA with a
+copy of this disclosure and requested that it furnish a letter to the Company,
+addressed to the SEC, stating&#160;&#160;that
+it&#160;&#160;agreed&#160;&#160;with
+the&#160;&#160;statements&#160;&#160;made&#160;&#160;herein or the reasons why
+it disagreed.</div>
+      </div>
+    </div>
+    <div>&#160;</div>
+    <div>
+      <div>&#160;</div>
+      <div align="center">
+        <table bgcolor="white" cellpadding="0" cellspacing="0" width="100%">
+            <tr>
+              <td width="10%">
+                <div><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">EXHIBIT</font></div>
+                <div><font size="2">NUMBER</font></div>
+              </td>
+              <td width="90%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;DESCRIPTION</font></td>
+            </tr>
+            <tr>
+              <td width="10%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+              <td width="90%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+            </tr>
+            <tr>
+              <td width="10%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Exhibit
+    16.1</font></td>
+              <td width="90%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Lawrence
+      Scharfman, CPA letter regarding change of
+  accountants</font></div>
+              </td>
+            </tr>
+        </table>
+      </div>
+      <div>&#160;</div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+        <div id="FTR">
+          <div id="GLFTR" style="WIDTH: 100%" align="left">
+          </div>
+        </div>
+        <div id="PN" style="PAGE-BREAK-AFTER: always">
+          <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          </div>
+          <div style="WIDTH: 100%; TEXT-ALIGN: center">
+            <hr style="COLOR: black" noshade size="2">
+          </div>
+        </div>
+        <div id="HDR">
+          <div id="GLHDR" style="WIDTH: 100%" align="right">
+          </div>
+        </div>
+      </div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SIGNATURES</font></div>
+      </div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+        <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">In
+accordance with Section 13 of the Securities Exchange Act of 1934, the
+registrant caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized.</font></div>
+        <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+        <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+        <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+      </div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">ExperTelligence,
+Inc.</font></div>
+        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">A Nevada
+Corporation</font></div>
+        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center">
+          <div>
+            <hr style="COLOR: black" align="center" noshade size="1" width="35%">
+          </div>(Registrant)</div>
+      </div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+        <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      </div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">By:&#160;&#160;&#160;<font style="TEXT-DECORATION: underline">/s/&#160;Jason Smart<font id="TAB2" style="LETTER-SPACING: 5pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 5pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 5pt">&#160;&#160;&#160;</font>&#160;</font></font></div>
+      </div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">
+          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+            <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Jason
+Smart, CEO, CFO, Chairman</font></div>
+          </div>
+        </div>
+        <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Date:
+August 19, 2009</font></div>
+        <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+        <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+        <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+        <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+        <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      </div>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+  </body>
+</html>
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-16.1
+<SEQUENCE>2
+<FILENAME>f8k080309ex16i_expertil.htm
+<DESCRIPTION>LAWRENCE SCHARFMAN, CPA LETTER REGARDING CHANGE OF ACCOUNTANTS
+<TEXT>
+<html>
+  <head>
+    <title>f8k080309ex16i_expertil.htm</title>
+<!-- Licensed to: <TP> Electronic Filing Services Corp.-->
+<!-- Document Created using EDGARizer 4.0.7.0 -->
+<!-- Copyright 1995 - 2008 EDGARfilings, Ltd., an IEC company. All rights reserved -->
+</head>
+    <body bgcolor="#ffffff" style="DISPLAY: inline; FONT-SIZE: 10pt; MARGIN-LEFT: 7%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 7%; FONT-FAMILY: Times New Roman">
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">EXHIBIT
+16.1</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Lawrence
+Scharfman, CPA</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">9608
+Honey Bell Circle</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Boynton
+Beach, FL 33437</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(561)
+733-0296 Telephone</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(561)
+740-0613 Fax</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">August
+18, 2009</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Securities
+and Exchange Commission</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">450 Fifth
+Street, N.W.</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Washington,
+DC 20549</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 40pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">RE:
+ExperTelligence, Inc.</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 40pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">File No.
+0-11596</font></div>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: justify" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">We have
+read the&#160;&#160;statements&#160;&#160;that ExperTelligence, Inc., included
+under Item 4 of the Form 8-K report expected to be filed on August 19, 2009
+regarding the recent change of auditors.&#160;&#160;We agree with such
+statements
+made&#160;&#160;regarding&#160;&#160;our&#160;&#160;firm.&#160;&#160;We have no
+basis to agree or&#160;&#160;disagree&#160;&#160;with&#160;&#160;other
+statements made under Item 4.</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Very
+truly yours,</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">/s/
+Lawrence Scharfman, CPA</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Lawrence
+Scharfman, CPA</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    </div>
+  </body>
+</html>
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
