@@ -1,0 +1,927 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ PTDG/vRNFtRgVAKd2dh4zUuNxDTlDmQakTFjvvRuNjzgsksPVwKwhpb3RzNXJowf
+ MR+T58wieWTZ5qYtGC28eg==
+
+<SEC-DOCUMENT>0000092122-05-000042.txt : 20050125
+<SEC-HEADER>0000092122-05-000042.hdr.sgml : 20050125
+<ACCEPTANCE-DATETIME>20050125092650
+ACCESSION NUMBER:		0000092122-05-000042
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		7
+CONFORMED PERIOD OF REPORT:	20050125
+ITEM INFORMATION:		Results of Operations and Financial Condition
+FILED AS OF DATE:		20050125
+DATE AS OF CHANGE:		20050125
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ALABAMA POWER CO
+		CENTRAL INDEX KEY:			0000003153
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		IRS NUMBER:				630004250
+		STATE OF INCORPORATION:			AL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-03164
+		FILM NUMBER:		05545962
+
+	BUSINESS ADDRESS:	
+		STREET 1:		600 N 18TH ST
+		STREET 2:		P O BOX 2641
+		CITY:			BIRMINGHAM
+		STATE:			AL
+		ZIP:			35291
+		BUSINESS PHONE:		2052571000
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MISSISSIPPI POWER CO
+		CENTRAL INDEX KEY:			0000066904
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		IRS NUMBER:				640205820
+		STATE OF INCORPORATION:			MS
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11229
+		FILM NUMBER:		05545958
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2992 W BEACH
+		CITY:			GULFPORT
+		STATE:			MS
+		ZIP:			39501
+		BUSINESS PHONE:		2288641211
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SAVANNAH ELECTRIC & POWER CO
+		CENTRAL INDEX KEY:			0000086940
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		IRS NUMBER:				580418070
+		STATE OF INCORPORATION:			GA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-05072
+		FILM NUMBER:		05545957
+
+	BUSINESS ADDRESS:	
+		STREET 1:		600 BAY ST EAST
+		CITY:			SAVANNAH
+		STATE:			GA
+		ZIP:			31401
+		BUSINESS PHONE:		9122327171
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GEORGIA POWER CO
+		CENTRAL INDEX KEY:			0000041091
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		IRS NUMBER:				580257110
+		STATE OF INCORPORATION:			GA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06468
+		FILM NUMBER:		05545960
+
+	BUSINESS ADDRESS:	
+		STREET 1:		241 RALPH MCGILL BOULEVARD
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30308
+		BUSINESS PHONE:		4045066526
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SOUTHERN CO
+		CENTRAL INDEX KEY:			0000092122
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		IRS NUMBER:				580690070
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-03526
+		FILM NUMBER:		05545956
+
+	BUSINESS ADDRESS:	
+		STREET 1:		270 PEACHTREE ST
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30303
+		BUSINESS PHONE:		4045065000
+
+	MAIL ADDRESS:	
+		STREET 1:		270 PEACHTREE STREET
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30303
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GULF POWER CO
+		CENTRAL INDEX KEY:			0000044545
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		IRS NUMBER:				590276810
+		STATE OF INCORPORATION:			ME
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-31737
+		FILM NUMBER:		05545959
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE ENERGY PLACE
+		CITY:			PENSACOLA
+		STATE:			FL
+		ZIP:			32520-0102
+		BUSINESS PHONE:		8504446111
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE ENERGY PLACE
+		CITY:			PENSACOLA
+		STATE:			FL
+		ZIP:			32520-0102
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SOUTHERN POWER CO
+		CENTRAL INDEX KEY:			0001160661
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		IRS NUMBER:				582598670
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-98553
+		FILM NUMBER:		05545961
+
+	BUSINESS ADDRESS:	
+		STREET 1:		600 N 18TH ST.
+		CITY:			BIRMINGHAM
+		STATE:			AL
+		ZIP:			35291
+		BUSINESS PHONE:		4045067146
+
+	MAIL ADDRESS:	
+		STREET 1:		241 RALPH MCGILL BLVD
+		STREET 2:		NE BIN 10116
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30308
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>yearend048k.txt
+<TEXT>
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D. C. 20549
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+
+     Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported)         January 25, 2005
+                                                --------------------------------
+
+Commission       Registrant, State of Incorporation,       I.R.S. Employer
+File Number      Address and Telephone Number              Identification No.
+
+1-3526           The Southern Company                      58-0690070
+                 (A Delaware Corporation)
+                 270 Peachtree Street, N.W.
+                 Atlanta, Georgia 30303
+                 (404) 506-5000
+
+1-3164           Alabama Power Company                     63-0004250
+                 (An Alabama Corporation)
+                 600 North 18th Street
+                 Birmingham, Alabama 35291
+                 (205) 257-1000
+
+1-6468           Georgia Power Company                     58-0257110
+                 (A Georgia Corporation)
+                 241 Ralph McGill Boulevard, N.E.
+                 Atlanta, Georgia 30308
+                 (404) 506-6526
+
+0-2429           Gulf Power Company                        59-0276810
+                 (A Maine Corporation)
+                 One Energy Place
+                 Pensacola, Florida 32520
+                 (850) 444-6111
+
+001-11229        Mississippi Power Company                 64-0205820
+                 (A Mississippi Corporation)
+                 2992 West Beach
+                 Gulfport, Mississippi 39501
+                 (228) 864-1211
+
+1-5072           Savannah Electric and Power Company       58-0418070
+                 (A Georgia Corporation)
+                 600 East Bay Street
+                 Savannah, Georgia 31401
+                 (912) 644-7171
+
+333-98553        Southern Power Company                    58-2598670
+                 (A Delaware Corporation)
+                 270 Peachtree Street, N.W.
+                 Atlanta, Georgia 30303
+                 (404) 506-5000
+
+The addresses of the registrants have not changed since the last report.
+
+This combined Form 8-K is furnished separately by seven registrants: The
+Southern Company, Alabama Power Company, Georgia Power Company, Gulf Power
+Company, Mississippi Power Company, Savannah Electric and Power Company and
+Southern Power Company. Information contained herein relating to each registrant
+is furnished by each registrant solely on its own behalf. Each registrant makes
+no representation as to information relating to the other registrants.
+
+Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+[]       Written communications pursuant to Rule 425 under the Securities Act
+         (17 CFR 230.425)
+
+[]       Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17
+         CFR 240.14a-12)
+
+[]       Pre-commencement communications pursuant to Rule 14d-2(b) under the
+         Exchange Act (17 CFR 240.14d-2(b))
+
+[]       Pre-commencement communications pursuant to Rule 13e-4(c) under the
+         Exchange Act (17 CFR 240.13e-4(c))
+
+
+
+<PAGE>
+
+
+Item 2.02.        Results of Operations and Financial Condition.
+                  ---------------------------------------------
+
+         The information in this Current Report on Form 8-K, including the
+exhibits attached hereto, shall not be deemed "filed" for purposes of Section 18
+of the Securities Exchange Act of 1934, as amended, or otherwise subject to the
+liabilities under that Section. Furthermore, such information, including the
+exhibits attached hereto, shall not be deemed to be incorporated by reference in
+any filing under the Securities Act of 1933, as amended, except as shall be
+expressly set forth by specific reference in such filing.
+
+         On January 25, 2005, The Southern Company ("Southern Company") issued a
+press release regarding its earnings for the quarter and year ended December 31,
+2004. A copy of this release is being furnished as Exhibit 99.01 to this Current
+Report on Form 8-K. In addition, certain additional information regarding the
+financial results for the quarter and year ended December 31, 2004 is being
+furnished as Exhibits 99.02 through 99.06 to this Current Report on Form 8-K.
+
+                       Use of Non-GAAP Financial Measures
+
+         In the press release attached hereto as Exhibit 99.01, Southern
+Company, in addition to presenting its earnings information in conformity with
+accounting principles generally accepted in the U.S. ("GAAP"), has also provided
+non-GAAP earnings data for the quarters and years ended December 31, 2004 and
+2003. The non-GAAP earnings data for the quarter and year ended December 31,
+2004 reflects an adjustment to exclude a one-time gain related to the resolution
+of an IRS audit for the years 2000 and 2001, which had the net effect of
+increasing earnings by $24 million, or 3 cents per share. The non-GAAP earnings
+data for the quarter and year ended December 31, 2003 reflects an adjustment to
+exclude a one-time after-tax expense of $37 million, or 5 cents per share,
+associated with an interim state regulatory order in December 2003 related to
+the request of Mississippi Power Company to place additional capacity from Plant
+Daniel into retail rates. In addition, the non-GAAP earnings data for the year
+ended December 31, 2003 reflects an adjustment to exclude a one-time after-tax
+gain of $83 million in May 2003, or 11 cents per share, related to the
+termination of all long-term wholesale contracts with Dynegy, Inc. as adjusted
+for revenues that would have been recognized for the remainder of the year.
+Southern Company believes that these non-GAAP financial measures are useful to
+investors because the items excluded are not indicative of Southern Company's
+continuing operating results and are excluded by Southern Company's management
+for planning and forecasting purposes. The presentation of this additional
+information is not meant to be considered a substitute for financial measures
+prepared in accordance with GAAP.
+
+                                    Exhibits
+
+         The exhibits hereto contain business segment information for Alabama
+Power Company, Georgia Power Company, Gulf Power Company, Mississippi Power
+Company, Savannah Electric and Power Company and Southern Power Company.
+Accordingly, this report is also being furnished on behalf of each such
+registrant.
+
+
+<PAGE>
+
+
+
+         The following exhibits relate to the quarter and year ended December
+31, 2004:
+
+Exhibit 99.01         Press Release.
+
+Exhibit 99.02         Financial Highlights.
+
+Exhibit 99.03         Significant Factors Impacting EPS.
+
+Exhibit 99.04         Analysis of Consolidated Earnings.
+
+Exhibit 99.05         Kilowatt-Hour Sales.
+
+Exhibit 99.06         Financial Overview.
+
+                                   SIGNATURES
+
+                Pursuant to the requirements of the Securities Exchange Act of
+1934, each of the registrants has duly caused this report to be signed on its
+behalf by the undersigned hereunto duly authorized.
+
+Date:     January 25, 2005            THE SOUTHERN COMPANY
+
+
+
+                                      By    /s/W. Dean Hudson
+                                             W. Dean Hudson
+                                               Comptroller
+
+                                      ALABAMA POWER COMPANY
+                                      GEORGIA POWER COMPANY
+                                      GULF POWER COMPANY
+                                      MISSISSIPPI POWER COMPANY
+                                      SAVANNAH ELECTRIC AND POWER COMPANY
+                                      SOUTHERN POWER COMPANY
+
+
+
+                                      By    /s/Wayne Boston
+                                              Wayne Boston
+                                           Assistant Secretary
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.01
+<SEQUENCE>2
+<FILENAME>x9901.txt
+<TEXT>
+                                                                   Exhibit 99.01
+
+News
+
+Media Contact:    Marc Rice
+                  404-506-5333 or 1-866-506-5333
+                  media@southerncompany.com
+                  www.southerncompany.com
+
+Investor Relations Contact:
+                  Glen Kundert
+                  404-506-5135
+                  gakunder2@southernco.com
+
+
+                                                                   Jan. 25, 2005
+
+                      Economic strength in Southeast drives
+                  Southern Company earnings above expectations
+
+ATLANTA - Southern Company today reported fourth quarter earnings of $204.5
+million, or 27 cents a share, compared with $125.0 million, or 17 cents a share,
+in the fourth quarter of 2003.
+
+For the full year, Southern Company reported earnings of $1.53 billion, or $2.07
+per share, compared with reported earnings of $1.47 billion, or 2.03 per share,
+in 2003. The company's earnings target for 2004 was in a range of $1.94 and
+$1.99 per share.
+
+Continued economic vitality in the Southeast helped boost electricity sales and
+was a key contributor to the fourth quarter and full-year results, which
+exceeded analysts' expectations. Businesses and individuals continued to be
+drawn to the Southeast, boosting the number of customers Southern Company serves
+by 61,342, or 1.5 percent, in 2004.
+
+"We are pleased with the excellent results we achieved in 2004," said Chairman,
+President and CEO David M. Ratcliffe. "Our people delivered another outstanding
+performance by continuing to focus on the fundamentals of giving customers
+reliable power, low prices and great service."
+
+
+<PAGE>
+
+The 2004 earnings included one-time items in the fourth quarter related to the
+resolution of an Internal Revenue Service audit for the years 2000 and 2001,
+which had the net effect of increasing earnings by $24 million, or 3 cents per
+share. Excluding the impact of these items, fourth quarter earnings were $180.4
+million, or 24 cents a share. Earnings for the full year, excluding the one-time
+items, were $1.51 billion, or $2.04 per share.
+
+The 2003 earnings for the fourth quarter included a one-time after-tax expense
+related to a regulatory order in Mississippi which reduced earnings for that
+period by $37 million, or 5 cents a share. Excluding the impact of that one-time
+item, earnings for the fourth quarter a year ago were $162.3 million, or 22
+cents a share.
+
+The full-year results for 2003 also included a one-time after-tax gain of $88
+million related to the termination of all long-term wholesale power contracts
+with Dynegy, Inc. After adjusting for revenues that would have been recognized
+in 2003 had the contracts remained in place, the adjusted gain for 2003 was $83
+million, or 11 cents per share. Excluding the impact of the Dynegy settlement
+and the Mississippi regulatory order, full-year earnings for 2003 were $1.43
+billion, or $1.97 per share.
+
+The fourth quarter saw a continuation of the economic rebound that helped boost
+electricity sales, most notably among large industrial customers, throughout
+2004. Particularly strong growth in demand for electricity was seen during the
+fourth quarter in the building materials, carpet, automobile equipment, steel
+and paper industries.
+
+The strong results for 2004 were achieved despite the extensive damage and
+economic disruption in Florida and Alabama caused by Hurricane Ivan in
+September. "Because of the outstanding response by Southern Company employees,
+with assistance from many other companies and organizations, we were able to
+restore service to our customers in record time and withstand the most severe
+storm ever to hit our service territory," Ratcliffe said.
+
+Revenues for the fourth quarter were $2.72 billion, compared with $2.52 billion
+in the same period a year ago, an increase of 8.0 percent. Revenues for the full
+year were $11.90 billion, compared with $11.19 billion in 2003, up 6.4 percent.
+
+Kilowatt-hour sales to retail customers in Southern Company's four-state service
+area increased 3.6 percent in 2004, compared with 2003. Residential electricity
+use increased 3.9 percent. Electricity use by commercial customers -- offices,
+stores and other non-manufacturing firms - increased 3.4 percent. Industrial
+energy use increased 3.6 percent.
+
+Total sales of electricity to Southern Company's customers in the Southeast,
+including wholesale sales, increased 0.1 percent in 2004, compared with the
+previous year.
+
+In conjunction with this earnings announcement, Southern Company has posted on
+its Web site a package of detailed financial information on its fourth quarter
+and full-year 2004 performance. These materials are available at 7:30 a.m. EST
+Jan. 25 at www.southerncompany.com.
+
+
+<PAGE>
+
+Southern Company's financial analyst call will be at 1 p.m. EST Jan. 25, at
+which time Ratcliffe and Chief Financial Officer Tom Fanning will discuss
+earnings and provide earnings guidance for 2005 as well as a general business
+update. Investors, media and the public may listen to a live Webcast of the call
+at www.southerncompany.com. A replay of the Webcast will be available at the
+site for 12 months.
+
+With more than 4 million customers and nearly 39,000 megawatts of generating
+capacity, Atlanta-based Southern Company (NYSE: SO) is the premier
+super-regional energy company in the Southeast and a leading U.S. producer of
+electricity. Southern Company owns electric utilities in four states, a growing
+competitive generation company, an energy services business and a competitive
+retail natural gas business, as well as fiber optics and wireless
+communications. Southern Company brands are known for excellent customer
+service, high reliability and retail electric prices that are 15 percent below
+the national average. Southern Company has been named three consecutive years
+No. 1 on Fortune magazine's "America's Most Admired Companies" list in the
+Electric and Gas Utility industry. Southern Company has been ranked the nation's
+top energy utility in the American Customer Satisfaction Index five years in a
+row. Southern Company has more than 500,000 shareholders, making its common
+stock one of the most widely held in the United States. Visit the Southern
+Company Web site at www.southerncompany.com.
+
+Forward Looking Statements Note:
+
+Certain information contained in this release is forward-looking information
+based on current expectations and plans that involve risks and uncertainties.
+Forward-looking information includes, among other things, statements concerning
+continued customer growth and Southern Company's strategies. Southern Company
+cautions that there are certain factors that can cause actual results to differ
+materially from the forward-looking information that has been provided. The
+reader is cautioned not to put undue reliance on this forward-looking
+information, which is not a guarantee of future performance and is subject to a
+number of uncertainties and other factors, many of which are outside the control
+of Southern Company; accordingly, there can be no assurance that such suggested
+results will be realized.
+
+The following factors, in addition to those discussed in Southern Company's
+Annual Report on Form 10-K for the year ended Dec. 31, 2003, and subsequent
+securities filings, could cause results to differ materially from management
+expectations as suggested by such forward-looking information: the impact of
+recent and future federal and state regulatory change, including legislative and
+regulatory initiatives regarding deregulation and restructuring of the electric
+utility industry, and also changes in environmental, tax and other laws and
+regulations to which Southern Company and its subsidiaries are subject, as well
+as changes in application of existing laws and regulations; current and future
+litigation, regulatory investigations, proceedings or inquiries, including the
+pending EPA civil actions against certain Southern Company subsidiaries, current
+IRS audits and Mirant-related matters; the effects, extent and timing of the
+entry of additional competition in the markets in which Southern Company's
+subsidiaries operate; variations in demand for electricity and gas, including
+those relating to weather, the general economy and population and business
+growth (and declines); available sources and costs of fuels; ability to control
+costs; investment performance of Southern Company's employee benefit plans;
+advances in technology; state and federal rate regulations and the impact of
+pending and future rate cases and negotiations; the performance of projects
+undertaken by the non-traditional business and the success of efforts to invest
+in and develop new opportunities; internal restructuring or other restructuring
+options that may be pursued; potential business strategies, including
+acquisitions or dispositions of assets or businesses, which cannot be assured to
+be completed or beneficial to Southern Company or its subsidiaries; the ability
+of counterparties of Southern Company and its subsidiaries to make payments as
+and when due; the ability to obtain new short- and long-term contracts with
+neighboring utilities; the direct or indirect effect on Southern Company's
+
+<PAGE>
+
+business resulting from terrorist incidents and the threat of terrorist
+incidents; interest rate fluctuations and financial market conditions and the
+results of financing efforts, including Southern Company's credit ratings; the
+ability of Southern Company and its subsidiaries to obtain additional generating
+capacity at competitive prices; catastrophic events such as fires, earthquakes,
+floods, hurricanes or other similar occurrences; the direct or indirect effects
+on Southern Company's business resulting from incidents similar to the August
+2003 power outage in the Northeast; and the effect of accounting pronouncements
+issued periodically by standard-setting bodies. Southern Company and its
+subsidiaries expressly disclaim any obligation to update any forward-looking
+information.
+
+###
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.02
+<SEQUENCE>3
+<FILENAME>x9902.txt
+<TEXT>
+
+
+
+                                                                   Exhibit 99.02
+                                Southern Company
+                              Financial Highlights
+               (In Millions of Dollars Except Earnings Per Share)
+
+
+<TABLE>
+<CAPTION>
+
+                                                 3 Months Ended December   12 Months Ended December
+                                                 -----------------------   ------------------------
+                                                     2004       2003            2004         2003
+                                                     ----       ----            ----         ----
+                                                  (Notes)    (Notes)         (Notes)      (Notes)
+Consolidated Earnings-
+(See Notes)
+<S>                                                <C>        <C>            <C>          <C>
+Retail Business                                    $  122     $  117         $ 1,200      $ 1,153
+Competitive Generation                                 44         30             220          224
+                                                   ------     ------         -------      -------
+Total                                                 166        147           1,420        1,377
+Synthetic Fuels                                        14         14              74           58
+Leasing Business                                        1          8              24           29
+Parent Company and Other                               (1)        (7)            (10)         (36)
+                                                   ------     ------         -------      -------
+Net Income - Excluding One-Time Items (See Notes)  $  180     $  162         $ 1,508      $ 1,428
+                                                   ======     ======         =======      =======
+  - As Reported                                    $  204     $  125         $ 1,532      $ 1,474
+                                                   ======     ======         =======      =======
+
+Basic Earnings Per Share-(Notes)
+
+- - Excluding One-Time Items (See Notes)             $ 0.24     $ 0.22         $  2.04      $  1.97
+- - As Reported                                      $ 0.27     $ 0.17         $  2.07      $  2.03
+
+Operating Revenues                                 $2,721     $2,520         $11,903      $11,186
+Average Shares Outstanding (in millions)              741        733             739          727
+End of Period Shares Outstanding (in millions)                                   741          735
+
+
+</TABLE>
+
+
+Notes
+
+- -   Excludes a one-time after tax gain of $24 million in December 2004 from
+    the resolution of an IRS audit for the years 2000 and 2001.
+
+- -   Excludes a one-time after tax gain of $83 million in May 2003 from the
+    previously announced termination of all long-term wholesale power
+    contracts between Southern Company and Dynegy, Inc. as adjusted for
+    revenues that otherwise would have been recognized for the remainder of
+    the year.
+
+- -   Excludes a regulatory expense of $37 million, after taxes, for
+    Mississippi Power recorded in December, 2003.
+
+- -   Quarterly Earnings Per Share (EPS) is computed by using the current
+    year-to-date EPS less the previous period year-to-date EPS. As a result
+    of using rounded numbers, the EPS for significant factors may not
+    directly correspond to the variance in millions of dollars shown above.
+
+- -   Diluted earnings per share are not more than 1 cent for any period
+    reported above and are not material.
+
+- -   Certain prior year data has been reclassified to conform with current
+    year presentation.
+
+- -   Information contained in this report is subject to audit and
+    adjustments and certain classifications may be different from final
+    results published in the Form 10-K.
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.03
+<SEQUENCE>4
+<FILENAME>x9903.txt
+<TEXT>
+
+
+
+                                                                   Exhibit 99.03
+
+                   Significant Factors Impacting EPS (Notes)
+<TABLE>
+<CAPTION>
+
+                                     3 Months Ended December         12 Months Ended December
+                                     -----------------------         ------------------------
+                                       2004    2003  Change            2004    2003 Change
+                                      ----     ----   ------           ----    ---- ------
+
+<S>                                  <C>     <C>      <C>             <C>     <C>    <C>
+Consolidated Earnings-               $ 0.24  $ 0.22   $0.02           $2.04   $1.97  $0.07
+
+Significant Factors:
+Retail Business                                           -                           0.06
+Competitive Generation                                 0.02                          (0.01)
+Synthetic Fuels                                           -                           0.02
+Leasing Business                                          -                              -
+Parent Company and Other                               0.01                           0.04
+Impact of Additional Shares                           (0.01)                         (0.04)
+                                                      -----                          -----
+Total                                                 $0.02                          $0.07
+                                                      =====                          =====
+</TABLE>
+
+Notes
+
+- -  Excludes a one-time after tax gain of $24 million in December 2004 from
+   the resolution of an IRS audit for the years 2000 and 2001.
+
+- -  Excludes a one-time after tax gain of $83 million in May 2003 from the
+   previously announced termination of all long-term wholesale power
+   contracts between Southern Company and Dynegy, Inc. as adjusted for
+   revenues that otherwise would have been recognized for the remainder of
+   the year.
+
+- -  Excludes a regulatory expense of $37 million, after taxes, for
+   Mississippi Power recorded in December, 2003.
+
+- -  Quarterly Earnings Per Share (EPS) is computed by using the current
+   year-to-date EPS less the previous period year-to-date EPS. As a result
+   of using rounded numbers, the EPS for significant factors may not
+   directly correspond to the variance in millions of dollars shown above.
+
+- -  Diluted earnings per share are not more than 1 cent for any period
+   reported above and are not material.
+
+- -  Certain prior year data has been reclassified to conform with current
+   year presentation.
+
+- -  Information contained in this report is subject to audit and
+   adjustments and certain classifications may be different from final
+   results published in the Form 10-K.
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.04
+<SEQUENCE>5
+<FILENAME>x9904.txt
+<TEXT>
+
+
+
+                                                                   Exhibit 99.04
+
+                                Southern Company
+                        Analysis of Consolidated Earnings
+                            (In Millions of Dollars)
+
+
+<TABLE>
+<CAPTION>
+
+                                       3 Months Ended December             12 Months Ended December
+                                     ----------------------------         ---------------------------
+                                       2004       2003    Change             2004       2003  Change
+                                       ----       ----    ------             ----       ----  ------
+Income Account-
+
+<S>                                  <C>        <C>         <C>           <C>        <C>        <C>
+Retail Revenue                       $2,194     $1,968      $226          $ 9,731    $ 8,875    $856
+Wholesale Revenue                       305        324       (19)           1,343      1,358     (15)
+Other Electric Revenues                 105        105         -              392        373      19
+Contract Termination                      -          -         -                -        142    (142)
+Non-regulated Operating Revenues        117        123        (6)             437        438      (1)
+                                     ------     ------     -----          -------    -------    ----
+Total Revenues                        2,721      2,520       201           11,903     11,186     717
+                                     ------     ------     -----          -------    -------    ----
+Fuel and Purchased Power                948        824       124            4,165      3,594     571
+Non-fuel O & M                          984        953        31            3,329      3,174     155
+Depreciation and Amortization           240        263       (23)             955      1,027     (72)
+Taxes Other Than Income Taxes           153        139        14              627        586      41
+                                     ------     ------     -----          -------    -------    ----
+Total Operating Expenses              2,325      2,179       146            9,076      8,381     695
+                                     ------     ------     -----          -------    -------    ----
+Operating Income                        396        341        55            2,827      2,805      22
+Other Income, net                       (15)       (10)       (5)             (11)       (20)      9
+Interest Charges and Dividends          179        180        (1)             698        699      (1)
+Income Taxes                             (2)        26       (28)             586        612     (26)
+                                     ------     ------     -----            ----     -------    ----
+NET INCOME AS REPORTED (See Note)     $ 204      $ 125      $ 79          $ 1,532    $ 1,474    $ 58
+                                     ======     ======     =====          =======    =======    ====
+NET INCOME EXCLUDING ONE-TIME ITEMS   $ 180      $ 162      $ 18          $ 1,508    $ 1,428    $ 80
+                                     ======     ======     =====          =======    =======    ====
+
+</TABLE>
+
+Notes
+
+- -   Includes a one-time after tax gain of $24 million in December 2004 from
+    the resolution of an IRS audit for the years 2000 and 2001.
+
+- -   Includes a one-time after tax gain of $83 million in May 2003 from the
+    previously announced termination of all long-term wholesale power
+    contracts between Southern Company and Dynegy, Inc as adjusted for
+    revenues that otherwise would have been recognized for the remainder of
+    the year.
+
+- -   Includes a regulatory expense of $37 million, after taxes, for
+    Mississippi Power recorded in December, 2003.
+
+- -   Certain prior year data has been reclassified to conform with current
+    year presentation.
+
+- -   Information contained in this report is subject to audit and
+    adjustments and certain classifications may be different from final
+    results published in the Form 10-K.
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.05
+<SEQUENCE>6
+<FILENAME>x9905.txt
+<TEXT>
+
+
+
+                                                                   Exhibit 99.05
+
+
+                               Kilowatt-Hour Sales
+                              (In Millions of KWHs)
+
+<TABLE>
+<CAPTION>
+
+                           3 Months Ended December          12 Months Ended December
+                         ----------------------------     ----------------------------
+                           2004      2003    Change          2004       2003   Change
+                           ----      ----    ------          ----       ----   ------
+Kilowatt-Hour Sales-
+
+<S>                      <C>       <C>         <C>        <C>        <C>         <C>
+Total Sales              45,217    47,147     -4.1%       192,382    192,138     0.1%
+
+Total Retail Sales-      37,056    35,474      4.5%       157,143    151,618     3.6%
+Residential              10,748    10,275      4.6%        49,703     47,833     3.9%
+Commercial               12,020    11,460      4.9%        50,037     48,372     3.4%
+Industrial               14,039    13,492      4.0%        56,399     54,415     3.6%
+
+Total Wholesale Sales     8,161    11,673    -30.1%        35,239     40,520   -13.0%
+
+</TABLE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.06
+<SEQUENCE>7
+<FILENAME>x9906.txt
+<TEXT>
+
+
+
+                                                                   Exhibit 99.06
+                                Southern Company
+                               Financial Overview
+                            (In Millions of Dollars)
+<TABLE>
+<CAPTION>
+
+                                               3 Months Ended December                 12 Months Ended December
+                                           ------------------------------        -----------------------------------
+                                             2004       2003   % Change             2004          2003     % Change
+                                             ----       ----   --------             ----          ----     --------
+ Consolidated -
+
+<S>                                        <C>        <C>          <C>           <C>           <C>             <C>
+ Operating Revenues                        $2,721     $2,520       8.0%          $11,903       $11,186         6.4%
+ Earnings Before Income Taxes                 202        151      33.9%            2,118         2,086         1.5%
+ Net Income As Reported (See Note)            204        125      63.6%            1,532         1,474         4.0%
+
+ Alabama Power -
+
+ Operating Revenues                          $971       $904       7.5%           $4,236        $3,960         7.0%
+ Earnings Before Income Taxes                 117        102      13.5%              818           781         4.6%
+ Net Income Available to Common                66         58      14.7%              481           473         1.8%
+
+ Georgia Power -
+
+ Operating Revenues                        $1,238     $1,111      11.5%           $5,372        $4,914         9.3%
+ Earnings Before Income Taxes                 106        122     -13.0%            1,038           998         4.0%
+ Net Income Available to Common                71         74      -3.7%              658           631         4.3%
+
+ Gulf Power -
+
+ Operating Revenues                          $235       $212      10.8%             $960          $878         9.4%
+ Earnings Before Income Taxes                   1          4     -76.8%              108           110        -1.8%
+ Net Income Available to Common                 0          3     -86.1%               68            69        -1.1%
+
+ Mississippi Power -
+
+ Operating Revenues                          $210       $184      14.1%             $911          $870         4.7%
+ Earnings Before Income Taxes                   5        (58)        -               131           121         8.1%
+ Net Income Available to Common (See Note)      2        (36)        -                77            73         4.5%
+
+ Savannah Electric -
+
+ Operating Revenues                           $85        $68      25.6%             $355          $314        13.2%
+ Earnings Before Income Taxes                   3         (1)        -                40            38         4.6%
+ Net Income Available to Common                 2         (1)        -                24            23         5.1%
+
+ Southern Power -
+
+ Operating Revenues                          $154       $128      20.9%             $701          $682         2.9%
+ Earnings Before Income Taxes                  43         20     106.2%              185           240       -23.1%
+ Net Income Available to Common (See Note)     25         12      95.2%              112           155       -28.1%
+
+</TABLE>
+
+Notes
+
+- -        Includes a one-time after tax gain of $24 million in December 2004 from
+         the resolution of an IRS audit for the years 2000 and 2001.
+
+- -        Includes a one-time after tax gain of $83 million in May 2003 from the
+         termination of all long-term wholesale power contracts between Southern
+         Company and Dynegy, Inc. as adjusted for revenues that otherwise would
+         have been recognized for the remainder of the year.
+
+- -        Includes a regulatory expense of $37 million, after taxes, for
+         Mississippi Power recorded in December, 2003.
+
+- -        Certain prior year data has been reclassified to conform with current
+         year presentation.
+
+- -        Information contained in this report is subject to audit and
+         adjustments and certain classifications may be different from final
+         results published in the Form 10-K.
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

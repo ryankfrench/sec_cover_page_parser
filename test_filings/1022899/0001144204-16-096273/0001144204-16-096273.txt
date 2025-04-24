@@ -1,0 +1,1205 @@
+<SEC-DOCUMENT>0001144204-16-096273.txt : 20160426
+<SEC-HEADER>0001144204-16-096273.hdr.sgml : 20160426
+<ACCEPTANCE-DATETIME>20160426152045
+ACCESSION NUMBER:		0001144204-16-096273
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20160325
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20160426
+DATE AS OF CHANGE:		20160426
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Atrinsic, Inc.
+		CENTRAL INDEX KEY:			0001022899
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		IRS NUMBER:				061390025
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-51353
+		FILM NUMBER:		161591854
+
+	BUSINESS ADDRESS:	
+		STREET 1:		149 FIFTH AVENUE
+		STREET 2:		SUITE 500
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10010
+		BUSINESS PHONE:		(212) 994-8200
+
+	MAIL ADDRESS:	
+		STREET 1:		149 FIFTH AVENUE
+		STREET 2:		SUITE 500
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10010
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NEW MOTION, INC.
+		DATE OF NAME CHANGE:	20070504
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MPLC, Inc.
+		DATE OF NAME CHANGE:	20050608
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MILLBROOK PRESS INC
+		DATE OF NAME CHANGE:	19961022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>v437868_8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Washington, D.C. 20549</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">_______________________</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>FORM 8-K</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 0.5in"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>CURRENT REPORT</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 0.5in"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>PURSUANT TO SECTION 13 OR 15(d) OF THE</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SECURITIES EXCHANGE ACT OF 1934</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 0.5in"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>Date of Report (Date of Earliest Event Reported):<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9;March
+25, 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; border-bottom: black 1pt solid"><B>ATRINSIC,
+INC.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Exact name of registrant as specified in
+its charter)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 29%; border-bottom: black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt">Delaware</FONT></TD>
+    <TD STYLE="width: 6%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="width: 30%; border-bottom: black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt">000-51353</FONT></TD>
+    <TD STYLE="width: 6%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="width: 29%; border-bottom: black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt">06-1390025</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt">(State or other jurisdiction of incorporation)</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt">(Commission File Number)</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt">(I.R.S. Employer Identification No.)</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="width: 45%; border-bottom: black 1pt solid; padding-bottom: 1pt; text-align: center"><FONT STYLE="font-size: 10pt">149 Fifth Avenue, Suite 500, New York, NY</FONT></TD>
+    <TD STYLE="width: 10%; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="width: 45%; border-bottom: black 1pt solid; text-align: center"><FONT STYLE="font-size: 10pt">10010</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Address of principal executive offices)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">(Zip Code)</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 0.5in">&nbsp; &nbsp; &nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-bottom: black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt">212-994-8200&nbsp;</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; width: 31%; text-align: center">&nbsp;</TD>
+    <TD STYLE="width: 38%; text-align: center"><FONT STYLE="font-size: 10pt">(Registrant&rsquo;s telephone number, including area code)</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 0.5in">&nbsp; &nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 100%; border-bottom: black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt">(Former name or former address, if changed since last report)</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 24px"><FONT STYLE="font-family: Wingdings; font-size: 10pt"><FONT STYLE="font-family: Wingdings">&#168;</FONT></FONT></TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 24px"><FONT STYLE="font-family: Wingdings; font-size: 10pt"><FONT STYLE="font-family: Wingdings">&#168;</FONT></FONT></TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 24px"><FONT STYLE="font-family: Wingdings; font-size: 10pt"><FONT STYLE="font-family: Wingdings">&#168;</FONT></FONT></TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 24px"><FONT STYLE="font-family: Wingdings; font-size: 10pt"><FONT STYLE="font-family: Wingdings">&#168;</FONT></FONT></TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><B></B></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>Section 8 &ndash; Other Events</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>Item 8.01. Other Events</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B><I>Establishment of Board Committees
+and Adoption of Charters:</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">On March 25, 2016, the Board of Directors
+(the &ldquo;Board&rdquo;) of Atrinsic, Inc. (the &ldquo;Company&rdquo;) established an audit committee (the &quot;Audit Committee&quot;)
+and approved and adopted a charter (the &quot;Audit Committee Charter&quot;) to govern the Audit Committee. Pursuant to the Audit
+Committee Charter, the Audit Committee shall be comprised of two (2) or more independent directors who shall be appointed annually
+and subject to removal by the Board at any time. Each member of the Audit Committee shall meet the independence requirements of
+The NASDAQ Stock Market, LLC, and the Securities and Exchange Commission, as well as any other applicable requirements. In addition
+to the enumerated responsibilities of the Audit Committee in the Audit Committee Charter, the primary function of the Audit Committee
+is to assist the Board in its general oversight of the Company's accounting and financial reporting processes, audits of its financial
+statements, and internal control and audit functions. A copy of the Company's Audit Committee Charter is attached as Exhibit 99.1
+to this Current Report on Form 8-K and is incorporated herein by reference.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">On March 25, 2016, the Board established
+a compensation committee (the &quot;Compensation Committee&quot;) and approved and adopted a charter (the &quot;Compensation Committee
+Charter&quot;) to govern the Compensation Committee. Pursuant to the Compensation Committee Charter, the Compensation Committee
+shall be comprised of three (3) or more directors who shall be appointed by the Board and subject to removal by the Board at any
+time. At least two members of the Compensation Committee shall (i) be &quot;non-employee directors&quot; within the meaning of
+Rule 16b-3 under the Securities Exchange Act of 1934, as amended, and (ii) be &quot;outside directors&quot; within the meaning
+of Section 162(m) of the Internal Revenue Code of 1986. In addition to the enumerated responsibilities of the Compensation Committee
+in the Compensation Committee Charter, the primary function of the Compensation Committee is to oversee the compensation of the
+Company's executives, produce an annual report on executive compensation for inclusion in the Company's proxy statement, if and
+when required by applicable laws or regulations, and advise the Board on the adoption of policies that govern the Company's compensation
+programs. A copy of the Company's Compensation Committee Charter is attached as Exhibit 99.2 to this Current Report on Form 8-K
+and is incorporated herein by reference.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">On March 25, 2016, the Board established
+a governance and nominating committee (the &quot;Governance Committee&quot;) and approved and adopted a charter (the &quot;Governance
+Committee Charter&quot;) to govern the Governance Committee. Pursuant to the Governance Committee Charter, the Governance Committee
+shall be comprised of three (3) or more directors who shall be appointed by the Board and subject to removal by the Board at any
+time. Each member of the Governance Committee may or may not meet the independence requirements established by the Board and applicable
+laws, regulations, and listing requirements of The NASDAQ Stock Market, LLC. In addition to the enumerated responsibilities of
+the Governance Committee in the Governance Committee Charter, the primary function of the Governance Committee is to determine
+the slate of director nominees for election to the Board, to identify and recommend candidates to fill vacancies occurring between
+annual stockholder meetings, to review the Company's policies and programs that relate to matters of corporate responsibility,
+including public issues of significance to the Company and its stockholders, and any other related matters required by federal
+securities laws. A copy of the Company's Governance Committee Charter is attached as Exhibit 99.3 to this Current Report on Form
+8-K and is incorporated herein by reference.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></P>
+
+<!-- Field: Page; Sequence: 2; Options: NewSection; Value: 2 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%; text-align: center"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->2<!-- Field: /Sequence --></TD><TD STYLE="width: 33%; text-align: right">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">In connection with the establishment of
+the Audit Committee, Compensation Committee, and Governance Committee, the Board appointed members to each such committee. Currently,
+the Audit and Compensation committees each include two (2) directors meeting the independence requirements set forth in each applicable
+charter. The membership of these three standing committees of the Board is as follows:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR>
+    <TD STYLE="width: 24%; border-bottom: black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify"><FONT STYLE="font-size: 10pt"><B>Audit Committee</B></FONT></TD>
+    <TD STYLE="width: 2%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="width: 38%; border-bottom: black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify"><FONT STYLE="font-size: 10pt"><B>Compensation Committee</B></FONT></TD>
+    <TD STYLE="width: 2%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="width: 34%; border-bottom: black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify"><FONT STYLE="font-size: 10pt"><B>Governance Committee</B></FONT></TD></TR>
+<TR>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">Gregory Ekizian (Chairperson)</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify"><FONT STYLE="font-size: 10pt">Khalil Barrage (Chairperson)</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify"><FONT STYLE="font-size: 10pt">Joshua Silverman (Chairperson)</FONT></TD></TR>
+<TR>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify"><FONT STYLE="font-size: 10pt">Khalil Barrage</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify"><FONT STYLE="font-size: 10pt">Gregory Ekizian</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify"><FONT STYLE="font-size: 10pt">Garo Armen</FONT></TD></TR>
+<TR>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify"><FONT STYLE="font-size: 10pt">Robert Stein</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify"><FONT STYLE="font-size: 10pt">Robert Stein</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">The Board also designated Gregory Ekizian
+as an &quot;audit committee financial expert,&quot; as defined by Item 407(d)(5) of Regulation S-K, based on the Board's evaluation
+of his accounting knowledge, qualifications, and experience, and finding that he has appropriate experience or background that
+results in his financial sophistication in accordance with the additional requirements of the NASDAQ Listing Rules.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">The Committee Charters adopted on March
+25, 2016 will be available in the near future on the Company&rsquo;s website, www.protagenic.com. When they are available, this
+will be communicated to investors in a subsequent filing.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></P>
+
+<!-- Field: Page; Sequence: 3; Value: 2 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%; text-align: center"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->3<!-- Field: /Sequence --></TD><TD STYLE="width: 33%; text-align: right">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>SECTION 9 &ndash; FINANCIAL STATEMENTS
+AND EXHIBITS</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>Item 9.01 Financial Statements and Exhibits.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>(d) Exhibits</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR>
+    <TD STYLE="width: 16%; border-bottom: black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify"><FONT STYLE="font-size: 10pt"><B>Exhibits</B></FONT></TD>
+    <TD STYLE="width: 5%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="width: 79%; border-bottom: black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify"><FONT STYLE="font-size: 10pt"><B>Description of Exhibit</B></FONT></TD></TR>
+<TR>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD></TR>
+<TR STYLE="background-color: white">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD></TR>
+<TR STYLE="background-color: #C2EAFF">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify"><FONT STYLE="font-size: 10pt">99.1*</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify"><FONT STYLE="font-size: 10pt">Audit Committee Charter adopted by the Board of Directors of Atrinsic, Inc. on March 25, 2016</FONT></TD></TR>
+<TR STYLE="background-color: white">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD></TR>
+<TR STYLE="background-color: #C2EAFF">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify"><FONT STYLE="font-size: 10pt">99.2*</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify"><FONT STYLE="font-size: 10pt">Compensation Committee Charter adopted by the Board of Directors of Atrinsic, Inc. on March 25, 2016</FONT></TD></TR>
+<TR STYLE="background-color: white">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD></TR>
+<TR STYLE="background-color: #C2EAFF">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify"><FONT STYLE="font-size: 10pt">99.3*</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify"><FONT STYLE="font-size: 10pt">Governance and Nominating Committee Charter adopted by the Board of Directors of Atrinsic, Inc. on March 25, 2016</FONT></TD></TR>
+<TR STYLE="background-color: white">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">______________</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">*Filed herewith.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></P>
+
+<!-- Field: Page; Sequence: 4; Value: 2 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%; text-align: center"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->4<!-- Field: /Sequence --></TD><TD STYLE="width: 33%; text-align: right">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SIGNATURES</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Pursuant to the requirements of the Securities Exchange Act
+of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2"><FONT STYLE="font-size: 10pt">ATRINSIC, INC.</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 55%">&nbsp;</TD>
+    <TD STYLE="width: 3%">&nbsp;</TD>
+    <TD STYLE="width: 30%">&nbsp;</TD>
+    <TD STYLE="width: 12%">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-size: 10pt">Date: April 25, 2016</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">By:</FONT></TD>
+    <TD STYLE="border-bottom: black 1pt solid; text-decoration: none"><FONT STYLE="font-size: 10pt">/s/ Alexander Arrow</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">Name: Alexander Arrow</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">Title:&nbsp;&nbsp;&nbsp;Chief Financial Officer</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 5; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%; text-align: center"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->5<!-- Field: /Sequence --></TD><TD STYLE="width: 33%; text-align: right">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>v437868_ex99-1.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0; text-align: right"><B>Exhibit 99.1</B></P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Charter of the Audit Committee of the</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Board of Directors of Atrinsic, Inc.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>Purpose</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">The principal purpose of the Audit and Finance Committee (the
+&ldquo;Committee&rdquo;) is to assist the Board of Directors (the &ldquo;Board&rdquo;) of Atrinsic, Inc. (the &ldquo;Company&rdquo;)
+in fulfilling its responsibility to oversee the Company&rsquo;s accounting and financial reporting processes and audits of the
+Company&rsquo;s financial statements, including by reviewing the financial reports and other financial information provided by
+the Company, the Company&rsquo;s disclosure controls and procedures and internal accounting and financial controls, and the annual
+independent audit process.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">In discharging its oversight role, the Committee is granted
+the authority to investigate any matter brought to its attention with full access to all books, records, facilities and personnel
+of the Company and the authority to engage independent counsel and other advisors, as it determines necessary to carry out its
+duties. The Committee also is authorized to approve the use of Company funds to the extent it deems such expenditures necessary
+or appropriate in carrying out the responsibilities of the Committee.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">The Committee shall be responsible for the appointment (and
+where appropriate, replacement), compensation, retention and oversight of the work of the Company&rsquo;s outside auditor in preparing
+or issuing an audit report or related work, including resolving any disagreements between management and the outside auditor regarding
+financial reporting. The Committee shall receive direct reports from the outside auditor. The Committee shall be responsible for
+overseeing the independence of the outside auditor and for approving all auditing services and permitted nonaudit services provided
+by the outside auditor.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">This Charter shall be reviewed for adequacy on an annual basis
+by the Committee and any changes thereto shall be submitted to the Board for approval.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>Membership</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">The Committee shall be comprised of not less than two members
+of the Board, and the</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Committee&rsquo;s composition will meet the Nasdaq Audit Committee
+requirements. Accordingly, subject to the paragraph below, all of the members will be directors:</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">Who are &ldquo;independent&rdquo; as defined by applicable Nasdaq
+rules, who meet the criteria for independence set forth in Rule 10A-3(b)(1) under the Securities Exchange Act of 1934, as amended
+(subject to the exemptions provided in Rule 10A-3(c)), and who have not participated in the preparation of the financial statements
+of the Company or any current subsidiary of the Company at any time during the past three years. In order to ensure the independence
+of the Committee members, the Committee&rsquo;s members must be monitored throughout the year to confirm that they all remain independent
+as required by Nasdaq rules. In addition, it must be considered whether any members of the Committee have relationships with the
+Company that may create the appearance of a lack of independence, even though such relationships do not automatically disqualify
+the person from being &ldquo;independent&rdquo; under applicable laws and listing rules;</FONT></TD></TR></TABLE>
+
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<P STYLE="margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin-top: 0pt; text-align: center; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->1<!-- Field: /Sequence -->&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">Who do not receive any consulting, advisory or other compensatory
+fee from the Company, other than in the member&rsquo;s capacity as a member of the Board or any of its committees; and</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">Who must be able to read and understand fundamental financial statements,
+including the Company&rsquo;s balance sheet, income statement, and cash flow statement. In addition, at least one member must have
+past employment experience in finance or accounting, requisite professional certification in accounting, or any other comparable
+experience or background which results in the individual&rsquo;s financial sophistication, including being or having been a chief
+executive officer, chief financial officer or other senior officer with financial oversight responsibilities. Unless otherwise
+determined by the Board (in which case disclosure of such determination shall be made in the Company's annual report filed with
+the SEC), at least one member of the Committee shall be an &quot;audit committee financial expert&quot; (as defined by applicable
+SEC rules).</FONT></TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Except under exceptional circumstances approved by the Board,
+no member of the Committee may serve simultaneously on the audit committee of more than three other public companies. Subject to
+applicable law and regulations, the Board may appoint one member who does not meet the independence requirements set forth above
+and who is not a current employee of the Company or an immediate family member of such employee if the Board, under exceptional
+and limited circumstances, determines that membership on the Committee by the individual is required in the best interests of the
+Company and its shareholders. Such member may not serve for more than two years, and may not serve as the Committee chair. The
+Board shall disclose in the next proxy statement after such determination the nature of the relationship and the reasons for the
+determination.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">In order to fulfill its role, the Committee shall be organized
+and governed in the following manner:</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">Committee members and the Committee chair will be recommended by the
+Corporate Governance and Nominating Committee and appointed and removed, with or without cause, by the Board;</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">Action may be taken by the Committee (or any subcommittee of the Committee)
+upon the affirmative vote of a majority of the members of the Committee (or subcommittee);</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">Any member of the Committee may call a meeting of the Committee upon
+due notice to each other member at least twenty-four hours prior to the meeting (provided that participation in any meeting shall
+be deemed to constitute waiver of any deficiency in such notice);</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">Action may be taken by the Committee without a meeting if all of the
+members of the Committee indicate their approval thereof in writing or by electronic transmission;</FONT></TD></TR></TABLE>
+
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<P STYLE="margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin-top: 0pt; text-align: center; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->2<!-- Field: /Sequence -->&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol; font-size: 10pt">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">The Committee shall have the authority to delegate to subcommittees
+of the Committee any responsibilities of the full Committee; and</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">The Committee shall periodically perform an evaluation of the performance
+of the Committee and report to the Board on the results of such evaluation.</FONT></TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>Key Responsibilities</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">The Committee&rsquo;s role is one of oversight, and it is recognized
+that the Company&rsquo;s management is responsible for preparing the Company&rsquo;s financial statements and that the outside
+auditor is responsible for auditing those financial statements.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">The following functions shall be the common recurring activities
+of the Committee in carrying out its oversight function. The functions are set forth as a guide and may be varied from time to
+time as appropriate under the circumstances.</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">The Committee shall review with management and the outside auditor
+the audited financial statements to be included in the Company&rsquo;s Annual Report on Form 10-K and the Annual Report to Stockholders,
+including the Company&rsquo;s disclosures under &ldquo;Management&rsquo;s Discussion and Analysis of Financial Condition and Results
+of Operations,&rdquo; and shall review and consider with the outside auditor the matters required to be discussed under generally
+accepted auditing standards, including Auditing Standard No. 16, or other such requirements established by the Public Company Accounting
+Oversight Board.</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">As a whole, or through the Committee chair, the Committee shall review
+with the outside auditor, prior to filing with the SEC, the Company&rsquo;s interim financial information to be included in the
+Company&rsquo;s Quarterly Reports on Form 10-Q and the matters required to be discussed by SAS No. 61 or other such requirements
+established by the Public Company Accounting Oversight Board.</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">The Committee shall recommend to the Board whether, based on the reviews
+and discussions referred to above, the financial statements should be included in the</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">Company&rsquo;s Annual Report on Form 10-K.</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">The Committee shall periodically discuss with management and the outside
+auditor the effectiveness and adequacy of the Company&rsquo;s internal controls and internal auditing procedures, including any
+significant deficiencies or material weaknesses in the design or operation of those controls which could adversely affect the Company&rsquo;s
+ability to record, process, summarize and report financial data and any fraud, whether or not material, that involves management
+or other employees who have a significant role in the Company&rsquo;s internal controls, and discuss with the outside auditor how
+the Company&rsquo;s financial systems and controls compare with industry practices.</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">The Committee shall periodically review with management and the outside
+auditor the quality, as well as acceptability, of the Company&rsquo;s accounting policies, and discuss with the outside auditor
+how the Company&rsquo;s accounting policies compare with those in the industry and all alternative treatments of financial information
+within generally accepted accounting principles that have been discussed with management, the ramifications of use of such alternative
+disclosures and treatments and the treatment preferred by the outside auditor.</FONT></TD></TR></TABLE>
+
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<P STYLE="margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 3 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin-top: 0pt; text-align: center; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->3<!-- Field: /Sequence -->&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">The Committee shall periodically discuss with the outside auditor
+whether all material correcting adjustments identified by the outside auditor in accordance with generally accepted accounting
+principles and the rules of the SEC are reflected in the Company&rsquo;s financial statements.</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">The Committee shall review with management and the outside auditor
+any material financial or other arrangements of the Company which do not appear on the Company&rsquo;s financial statements and
+any transactions or courses of dealing with third parties that are significant in size or involve terms or other aspects that differ
+from those that would likely be negotiated with independent parties, and which arrangements or transactions are relevant to an
+understanding of the Company&rsquo;s financial statements.</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">The Committee shall review with management and the outside auditor
+the Company&rsquo;s critical accounting policies and practices.</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">The Committee shall review with the outside auditor all material communications
+between the outside auditor and management, such as any management letter or schedule of unadjusted differences.</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">The Committee shall (i) request from the outside auditor annually
+a formal written statement delineating all relationships between the auditor and the Company consistent with other requirements
+as may be consistent with requirements established by the Public Company Accounting Oversight Board; (ii) discuss with the outside
+auditor any such disclosed relationships or services and their impact on the outside auditor&rsquo;s independence; and (iii) take
+appropriate action to oversee the independence of the outside auditor.</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">The Committee shall approve the engagement of the outside auditor
+and shall approve, in advance, all audit services and all permitted non-audit services to be provided to the Company by the outside
+auditor. The committee may also delegate this responsibility (for services up to $50,000) to the chairman in between meetings,
+with those actions disclosed to the full committee at the next regularly scheduled meeting.</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">The Committee shall approve a code of ethics, as required by rules
+of the SEC, for senior financial officers and such other employees and agents of the Company as it determines.</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">The Committee shall ensure that this charter is posted to the Company&rsquo;s
+Web site in accordance with the rules and regulations of the SEC or the exchanges.</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">The Committee shall review and approve all transaction required to
+be disclosed in the Company's filings with the SEC pursuant to Item 404 of Regulation S-K (each, a &ldquo;Related Party Transaction&rdquo;).
+In considering any Related Party Transaction, the Committee shall consider the facts and circumstances regarding such transaction,
+including, among other things, the amounts involved (including whether the transaction amount exceeds $120,000), the relationship
+of the related person (including those persons identified in the instructions to Item 404(a) of Regulation S-K) with the Company
+and the terms that would be available in a similar transaction with an unaffiliated third-party. The Committee shall also consider
+its fiduciary duties<FONT STYLE="color: #000081">, </FONT>the Company's obligations under applicable securities law, including
+disclosure obligations and director independence rules, and other applicable law in evaluating any Related Party Transaction.</FONT></TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 4 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin-top: 0pt; text-align: center; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->4<!-- Field: /Sequence -->&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>Complaint Procedures</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Any issue of significant financial misconduct shall be brought
+to the attention of the Committee for its consideration. In this connection, the Committee shall establish procedures for (i) the
+receipt, retention and treatment of complaints received by the Company regarding accounting, internal accounting controls or auditing
+matters and (ii) the confidential, anonymous submission by employees of the Company of concerns regarding questionable accounting
+or auditing matters.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Adopted March 25, 2016</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">To be amended in June 2016 following expected corporate name
+change to Protagenic Therapeutics, Inc.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 5; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin-top: 0pt; text-align: center; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->5<!-- Field: /Sequence -->&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+
+
+<P STYLE="margin: 0"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>3
+<FILENAME>v437868_ex99-2.htm
+<DESCRIPTION>EXHIBIT 99.2
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0; text-align: right"><B>Exhibit 99.2</B></P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Charter of the Compensation Committee
+of the </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Board of Directors of Atrinsic, Inc.
+(the &ldquo;Company&rdquo;)</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>Purpose</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">The principal purpose of the Compensation Committee (the &ldquo;Committee&rdquo;)
+of the Board of Directors (the &ldquo;Board&rdquo;) is to approve, administer and interpret the Company&rsquo;s executive and key
+employee compensation and benefit policies, including the Company&rsquo;s equity incentive plans. The Committee shall ensure that
+the Company&rsquo;s executive and key employee compensation and benefit program is consistent with the Company&rsquo;s compensation
+philosophy and the Company&rsquo;s Guidelines on Significant Corporate Governance Issues, and determine the executive compensation
+packages offered to the Company&rsquo;s executive officers.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">The Committee&rsquo;s responsibilities and authority include
+the following:</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">The Committee shall review and approve corporate goals and objectives
+relevant to, and incentives for risk-taking created by, executive officer compensation, and evaluate the performance of executive
+officers in light of those goals, objectives and incentives;</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">The Committee shall determine the compensation of the Chief Executive
+Officer and/or Executive Chairman; provided that the Chief Executive Officer or Executive Chairman may not be present during voting
+or deliberations on his or her compensation; provided, further, that in evaluating and determining the compensation of the Chief
+Executive Officer or Executive Chairman, the Committee shall consider the results of the most recent stockholder advisory vote
+on executive compensation (&quot;Say on Pay Vote&quot;) required by Section 14A of the Securities Exchange Act of 1934, as amended
+(the &ldquo;Exchange Act&rdquo;);</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">The Committee shall review and approve the compensation of other executive
+officers and key employees; provided that in evaluating and determining the compensation of other executive officers and key employees,
+the Committee shall consider the results of the most recent Say on Pay Vote;</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">The Committee shall review and recommend compensation for members
+of the Board and Board committees; provided that no adoption, amendment or termination of any compensation plan under which a member
+of the Board who is not an employee of the Company may be a participant shall be effective unless the same shall be approved by
+the Board and, to the extent required by law or the rules of the Nasdaq Stock Market, by the Company&rsquo;s stockholders;</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">The Committee shall review and discuss with management the compensation
+discussion and analysis required to be included in the Company&rsquo;s filings with the Securities and Exchange Commission and,
+based on such review and discussion, in the case of compensation discussion and analysis proposed to be included in the Company&rsquo;s
+annual report on Form 10-K or proxy statement, recommend to the Board whether the compensation discussion and analysis should be
+included in such annual report or proxy statement;</FONT></TD></TR></TABLE>
+
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<P STYLE="margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 1; Options: NewSection; Value: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin-top: 0pt; text-align: center; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->1<!-- Field: /Sequence -->&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">The Committee shall review and consider the outcome of stockholder
+advisory votes on the compensation of the Company&rsquo;s named executive officers when considering future executive compensation
+arrangements;</FONT></TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in">The Committee shall make recommendations to the Board
+regarding the adoption of new incentive compensation plans and equity-based plans and administer the Company&rsquo;s existing incentive
+compensation plans and equity-based plans, including reviewing and approving stock option grants. To the extent permitted by applicable
+law and the provisions of a given equity-based plan, and consistent with the requirements of applicable law and such equity-based
+plan, the Committee may delegate to one or more executive officers of the Company the power to grant options or other stock awards
+pursuant to such equity-based plan to employees of the Company or any subsidiary of the Company who are not directors or executive
+officers of the Company;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">The Committee shall have authority to adopt, amend or terminate compensation
+plans applicable to any class of employees of the Company and/or any subsidiary of the Company;</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">The Committee shall consider and take actions with respect to the
+adoption, amendment, administration and termination of compensation, welfare, benefit, pension and other plans related to compensation
+of employees of the Company, in each case taking into account appropriate industry benchmarks and, as appropriate, the compensation
+policies pursued by companies similarly situated to the Company;</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">The Committee shall establish and review the Company&rsquo;s policies
+concerning perquisites provided to the Company&rsquo;s executive officers, including benefits provided upon retirement or other
+termination of employment;</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">The Committee shall review and recommend to the Board the frequency
+with which the Company will conduct Say on Pay Votes, taking into account, among other things, the results of the most recent stockholder
+advisory vote on frequency of Say on Pay Votes required by Section 14A of the Exchange Act;</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">The Committee may, in its sole discretion, retain or obtain the advice
+of any compensation consultants, legal counsel or other advisers;</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">The Committee shall be directly responsible for the appointment, compensation
+and oversight of the work of any compensation consultant, legal counsel and other adviser retained by the Committee;</FONT></TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in">The Company must provide for appropriate funding,
+as determined by the Committee, for payment of reasonable compensation to a compensation consultant, legal counsel or any other
+adviser retained by the Committee;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">The Committee may select, or receive advice from, a compensation consultant,
+legal counsel or other adviser to the Committee, other than in-house legal counsel, only after taking into consideration the following
+factors:</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.75in"></TD><TD STYLE="width: 0.25in">o</TD><TD>the provision of other services to the Company by the person that employs the compensation consultant, legal counsel or other
+adviser;</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.75in"></TD><TD STYLE="width: 0.25in">o</TD><TD>the amount of fees received from the Company by the person that employs the compensation consultant, legal counsel or other
+adviser, as a percentage of the total revenue of the person that employs the compensation consultant, legal counsel or other adviser;</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.75in"></TD><TD STYLE="width: 0.25in">o</TD><TD>the policies and procedures of the person that employs the compensation consultant, legal counsel or other adviser that are
+designed to prevent conflicts of interest;</TD></TR></TABLE>
+
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<P STYLE="margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 2; Value: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin-top: 0pt; text-align: center; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->2<!-- Field: /Sequence -->&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.75in"></TD><TD STYLE="width: 0.25in">o</TD><TD>any business or personal relationship of the compensation consultant, legal counsel or other adviser with a member of the Committee;</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.75in"></TD><TD STYLE="width: 0.25in">o</TD><TD>any stock of the Company owned by the compensation consultant, legal counsel or other adviser; and</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.75in"></TD><TD STYLE="width: 0.25in">o</TD><TD>any business or personal relationship of the compensation consultant, legal counsel, other adviser or the person employing
+the adviser with an executive officer of the Company.</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">The Committee shall, not less than annually, review and assess the
+adequacy of this charter and submit any changes to the Board for approval;</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">The Committee shall, not less than annually, perform an evaluation
+of the performance of the Committee and report to the Board on the results of such evaluation; and</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">The Committee shall review such other matters as the Board or the
+Committee shall deem appropriate.</FONT></TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>Membership</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">The Committee shall be composed of at least three directors,
+at least two of which shall satisfy the independence and eligibility requirements of the Nasdaq Stock Market and be appointed by
+the Board on the recommendation of the Corporate Governance and Nominating Committee. In addition, at least two members of the
+Committee shall qualify as &ldquo;outside directors&rdquo; within the meaning of Section 162(m) of the Internal Revenue Code, as
+amended, and shall be a &ldquo;nonemployee director&rdquo; within the meaning of Rule 16b-3 under the Exchange Act. Subject to
+applicable law and regulations, if the Committee consists of three or more members, the Board may appoint, for a period not to
+exceed two (2) years, one or more members who do not meet the independence requirements of the Nasdaq Stock Market and as otherwise
+set forth above and who is not a current employee of the Company or an immediate family member of such employee if the Board, under
+exceptional and limited circumstances, determines that membership on the Committee by the individual or individuals is required
+in the best interests of the Company and its shareholders. The Board shall disclose in the next proxy statement after such determination
+the nature of the relationship and the reasons for the determination.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">In order to fulfill its role, the Committee shall be organized
+and governed in the following manner:</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">Committee members will be appointed and removed by the Board on the
+recommendation of the Corporate Governance and Nominating Committee;</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">Action may be taken by the Committee (or any subcommittee of the Committee)
+upon the affirmative vote of a majority of the members of the Committee (or subcommittee) provided, however, at any time the Committee
+consists of two members, if one member recuses himself or herself due to a potential conflict of interest, action may be taken
+by the other member;</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">Any member of the Committee may call a meeting of the Committee upon
+due notice to each other member at least twenty-four hours prior to the meeting (provided that participation in any meeting shall
+be deemed to constitute waiver of any deficiency in such notice);</FONT></TD></TR></TABLE>
+
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<P STYLE="margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 3; Value: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin-top: 0pt; text-align: center; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->3<!-- Field: /Sequence -->&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">Action may be taken by the Committee without a meeting if all of the
+members of the Committee indicate their approval thereof in writing or electronic submission; and</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">The Committee shall have the authority to delegate to subcommittees
+of the Committee any of the responsibilities of the full Committee.</FONT></TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Adopted March 25, 2016</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">To be amended June 2016 following expected corporate name change
+to Protagenic Therapeutics, Inc.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 4; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin-top: 0pt; text-align: center; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->4<!-- Field: /Sequence -->&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.3
+<SEQUENCE>4
+<FILENAME>v437868_ex99-3.htm
+<DESCRIPTION>EXHIBIT 99.3
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0; text-align: right"><B>Exhibit 99.3</B></P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Charter of the Corporate Governance and
+Nominating Committee of the </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Board of Directors of Atrinsic, Inc.
+(the &ldquo;Company&rdquo;)</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>Function</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">The Corporate Governance and Nominating Committee (the &ldquo;Committee&rdquo;)
+shall, among other things, review and recommend policies to the Board of Directors of the Company (the &ldquo;Board&rdquo;) regarding
+Board procedures, Board leadership, the process for annual evaluations of the performance of the Board, the Chairman of the Board,
+the Executive Chairman, and/or the Chief Executive Officer and issues of corporate public responsibility, including charitable
+contributions; evaluate the independence of Board members and serve as the Company&rsquo;s nominating committee to review the requisite
+skills and criteria for new Board members as well as the composition of the Board as a whole, recommend a slate of director nominees
+to be proposed by the Board to the Company&rsquo;s stockholders, recommend any director nominees to be elected by the Board to
+fill interim vacancies and recommend directors for membership on the Board committees. If a director believes that a significant
+issue exists that implicates corporate governance at the Company, that director should promptly bring such issue directly to the
+attention of the Committee; absent unusual circumstances, discussion with the Committee should occur prior to raising the matter
+with other directors or members of management.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>Organization and Governance</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">The Committee shall consist of not less than two members appointed
+by the Board at the recommendation of the Committee who may or may not satisfy the independence and eligibility requirements of
+the Nasdaq Stock Market.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">In order to fulfill its role, the Committee shall be organized
+and governed in the following manner:</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">Committee members will be appointed and removed, with or without cause,
+by the Board;</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">Action may be taken by the Committee (or any subcommittee of the Committee)
+upon the affirmative vote of a majority of the members of the Committee (or subcommittee); provided, however, at any time the Committee
+consists of two members, if one member recuses himself or herself due to a potential conflict of interest, action may be taken
+by the other member;</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">Any member of the Committee may call a meeting of the Committee upon
+due notice to each other member at least twenty-four hours prior to the meeting (provided that participation in any meeting shall
+be deemed to constitute waiver of any deficiency in such notice);</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">Action may be taken by the Committee without a meeting if all of the
+members of the Committee indicate their approval thereof in writing or by electronic transmission; and</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">The Committee shall have the authority to delegate to subcommittees
+of the Committee any responsibilities of the full Committee.</FONT></TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin-top: 0pt; text-align: center; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->1<!-- Field: /Sequence -->&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>Management Oversight</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">The Committee shall oversee the development and presentation
+to the Board of management&rsquo;s plans for succession to senior management positions in the Company, including the position of
+Chief Executive Officer.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>Other</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">The Committee shall:</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">Periodically review and assess the adequacy of this charter and submit
+any changes to the Board for approval;</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">Periodically perform an evaluation of the performance of the Committee
+and report to the Board on the results of such evaluation;</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">Periodically evaluate the Company&rsquo;s Code of Business Conduct
+and Ethics (including the Company&rsquo;s Policy Statement on Insider Trading and Disclosure by Company Personnel, Directors and
+Executive Officers) and, if appropriate, recommend changes thereto; and</FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD><FONT STYLE="font-family: Times New Roman, Times, Serif">Review such other matters as the Board or the Committee shall deem
+appropriate.</FONT></TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>Powers of the Corporate Governance and Nominating Committee</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">In order to fulfill its role, the Committee shall have the authority
+to retain and terminate a search firm to assist in the identification of director candidates, and have the authority to approve
+the search firm&rsquo;s fees and other retention terms. The Committee shall also have the authority to obtain advice and assistance
+from internal or external legal, accounting or other advisors and to authorize payment of such advisors with Company funds.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Adopted March 25, 2016</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">To be amended June 2016 following expected corporate name change
+to Protagenic Therapeutics, Inc.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 2; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin-top: 0pt; text-align: center; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->2<!-- Field: /Sequence -->&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+
+
+<P STYLE="margin: 0"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

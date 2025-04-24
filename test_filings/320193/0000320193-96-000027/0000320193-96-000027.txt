@@ -1,0 +1,414 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ ETGOFQNhkw6oZ0j0ZRRkfv1QpJp0dUZ3Ix5YOFMiwq1VTK/2cyq0dBkY7VJXxZq4
+ YO+j0yoA09MlzaalqVtTkQ==
+
+<SEC-DOCUMENT>0000320193-96-000027.txt : 19961225
+<SEC-HEADER>0000320193-96-000027.hdr.sgml : 19961225
+ACCESSION NUMBER:		0000320193-96-000027
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19961224
+ITEM INFORMATION:		Financial statements and exhibits
+FILED AS OF DATE:		19961224
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			APPLE COMPUTER INC
+		CENTRAL INDEX KEY:			0000320193
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPUTERS [3571]
+		IRS NUMBER:				942404110
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-10030
+		FILM NUMBER:		96686001
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 INFINITE LOOP
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+		BUSINESS PHONE:		4089961010
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<TEXT>
+
+
+___________________________________________________________________________
+ 		SECURITIES AND EXCHANGE COMMISSION  
+		     Washington, D. C.  20549  
+ 
+ 
+			     FORM 8-K
+ 
+ 
+ 			   CURRENT REPORT  
+ 
+ 
+ Pursuant to Section 13 or 15(d) of  the Securities Exchange Act of 1934  
+ 
+ 
+		Date of Report:   December 24, 1996
+		Date of earliest 
+ 		event reported:   December 20, 1996
+
+
+			Apple Computer, Inc.
+	(Exact name of registrant as specified in its charter)  
+
+
+	California			0-10030		94-2404110
+(State or other jurisdiction of	   (Commission File	(I.R.S. Employer
+incorporation or organization)		Number)		Identification No.)
+	
+
+
+
+
+	   1 Infinite Loop, Cupertino, California 95014
+	     (Address of principal executive offices) 
+
+
+ Registrant's telephone number, including area code:  (408) 996-1010
+
+
+			   Not Applicable
+     (Former name or former address, if changed since last report.)    
+			Exhibit Index on Page 4
+				1
+<PAGE>
+INFORMATION INCLUDED IN THIS REPORT
+
+Items 1 through 4, 6 and 8 Not Applicable.
+
+Item 5.	Other Events.
+
+	(i)  Reference is made to the press release issued to the public by the
+registrant on December 20, 1996 announcing it has signed an agreement to
+purchase NeXT Software, Inc. for a price of $400 million ($350 million plus the
+assumption of approximately $50 million of debt), the text of which is attached
+hereto as an exhibit, for a description of the events reported pursuant to this
+Form 8-K.
+
+
+Item 7.	Financial Statements, Pro Forma Financial Information and 
+Exhibits.
+
+	(c)	Exhibits
+
+		99.1	Text of press release dated December 20, 1996.
+
+				2
+<PAGE>
+
+				
+
+			    SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+
+			APPLE COMPUTER, INC.
+
+
+
+					By:	/s/Fred D. Anderson		
+						Fred D. Anderson,
+						Executive Vice President and
+						Chief Financial Officer
+
+Date:  December 24, 1996
+
+				3
+<PAGE>
+
+
+
+			INDEX TO EXHIBITS 
+
+Exhibit		Document					Page
+99.1		Text of Press Release dated December 20, 1996	5
+
+
+				4
+<PAGE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<TEXT>
+
+			Exhibit 99.1
+
+Apple Computer, Inc. Agrees to Acquire NeXT Software Inc.
+
+CUPERTINO, Calif.--Dec. 20, 1996--Apple Computer, Inc. today 
+announced its intention to purchase NeXT Software Inc., in a friendly 
+acquisition for $400 million. Pending regulatory approvals, all NeXT 
+products, services, and technology research will become part of Apple 
+Computer, Inc. As part of the agreement, Steve Jobs, Chairman and CEO
+of NeXT Software, will return to Apple--the company he co-founded in 
+1976--reporting to Dr. Gilbert F. Amelio, Apple's Chairman and CEO.
+
+The acquisition will bring together Apple's and NeXT's innovative and 
+complementary technology portfolios and significantly strengthens 
+Apple's position as a company advancing industry standards. Apple's 
+leadership in ease-of-use and multimedia solutions will be married to 
+NeXT's strengths in development software and operating environments 
+for both the enterprise and Internet markets. NeXT's object oriented 
+software development products will contribute to Apple's goal of creating
+a differentiated and profitable software business, with a wide range of 
+products for enterprise, business, education, and home markets.
+
+Using NeXT technology to embrace open industry standards Apple 
+Computer, Inc. believes the acquisition will allow the Company to further
+develop industry alliances as the Internet/intranet market evolves. Apple
+anticipates that NeXT's expertise in next-generation operating system 
+design will allow elements of the NEXTSTEP operating system to become 
+integral features of Mac OS--providing developers a compelling OS 
+foundation on which to build next generation software solutions.
+
+"The acquisition of NeXT is the start of a new chapter in Apple's history
+and represents a milestone in our transformation as a corporation," said 
+Dr. Gilbert F. Amelio, Chairman and CEO, Apple Computer Inc. "Today 
+Apple welcomed back its most talented visionary" Steve Jobs, someone
+who can inspire a new generation of customers and software developers 
+and show that Apple remains the industry home for innovation and 
+excitement. Today Apple returns, as an open player to the  mainstream 
+and the heart of this industry, where our technology can once more set 
+standards for innovation and excellence.
+
+"Much of the industry has lived off the  Macintosh for over ten years now, 
+slowly copying the Mac's revolutionary user interface," said Steven P. 
+Jobs. "Now the time has come for new innovation, and where better  than 
+Apple for this to spring from? Who else has consistently led this industry--
+first with the Apple II, then the Macintosh and LaserWriter? With this 
+merger, the advanced software from NeXT will be married with Apple's
+				5
+<PAGE>  
+very high-volume hardware platforms and marketing channels to create 
+another breakthrough, leapfrogging existing platforms,  and fueling Apple
+and the industry copy cats for the next ten years and beyond. I still have 
+very deep feelings for Apple, and it gives me great joy to play a role in
+architecting  Apple's future."
+
+Acquisition Confirms New Open Apple
+
+The acquisition of NeXT is further evidence that Apple is fundamentally
+changing the way it does business. Embracing outside technology and 
+driving cross-platform industry standards,  Apple believes it can innovate
+in the key areas that give its products and technology differentiation. 
+NeXT's cross-platform development environments for enterprise and 
+Internet/intranet markets, allow developers to write once and deploy 
+across a range of Internet and client-server platforms.
+
+In a new era of industry collaboration and joint initiatives--brought on by
+the "megatrends" of pervasive Internet and ubiquitous multimedia--NeXT
+technology complements Apple's strength in multimedia authoring and
+playback, as well as Internet access, Internet authoring, and Internet server
+solutions.
+
+In the last year Apple has worked on a series  of collaboration initiatives
+which leverage the  Company's core strengths in Internet,  multimedia,
+and component software. Wide ranging agreements with Netscape
+Communications, Sun Microsystems, and Silicon Graphics Computer
+Systems--along with the acquisition of NeXT--confirm Apple is building
+strategic relationships at the forefront of the information industry.
+
+Developer Support
+
+Software developers believe that the integration of NEXTSTEP technology 
+in future versions of Mac OS will result in a robust, next-generation OS
+that provides developers with a multimedia-rich and Internet-savvy 
+platform.
+
+"This partnership is the best possible fit. Both companies support strong,
+open industry standards. Combined with their rich media focus and a 
+command of the Internet, these strengths will play well into Adobe's core
+markets", says  John Warnock, Chairman and CEO, Adobe Systems,  Inc. 
+"NeXT's advanced operating system design, when combined with Apple's 
+leadership in ease-of-use and multimedia, will provide Adobe and other 
+developers with a robust, compelling platform on which to build great  
+next-generation software solutions."
+				6
+<PAGE>
+Apple expects to be able to show substantial developer and industry
+endorsements for Apple's new Mac OS system software strategy at 
+MacWorld San Francisco in January 1997.
+
+Apple Computer, Inc. believes the acquisition will provide a series of 
+benefits for  customers, software developers, Apple Computer, NeXT, and 
+the information technology industry. They include the following:
+
+Enterprise Offering Enhanced
+
+The combination of Apple technology, NeXT object oriented software 
+development products,  and the "megatrend" of corporate-wide  intranets, 
+gives Apple the opportunity to reinvigorate its offering to enterprise  
+markets.
+
+NeXT's OPENSTEP Enterprise and WebObjects development 
+environments allow enterprise customers to develop software solutions 
+quickly and deploy reusable applications on either traditional client-server
+or Internet/intranet based networks. These powerful tools allow new  
+applications to access legacy data and applications, a key concern for 
+enterprise customers in the late 1990s. Customers currently using this 
+technology range from  companies such as WebCrawler, Trilobyte and ID  
+to large organizations including Fannie Mae,  Merrill Lynch, NASA, NTT, 
+and AT&T Wireless.
+
+In addition, NeXT's Sales and Professional Services team offers worldwide 
+programs to  facilitate the knowledge transfer required to quickly take 
+advantage of OPENSTEP Enterprise's unique capabilities. Apple 
+envisages this team  will become a valued part of the Apple enterprise 
+offering moving forward.
+
+Internet/intranet Position Strengthened
+
+A key strategic advantage of NeXT technology is its powerful 
+Internet/intranet software development environment--WebObjects.
+
+Today, Apple technology and customers are playing a pivotal role in the 
+evolution of the  Internet--from easy to use powerful solutions in Internet
+access, Internet authoring and Internet servers, to technologies such as  
+QuickTime Media Layer (QTML) and HotSauce/MCF that set new 
+standards in Internet multimedia and knowledge management. 
+Combining these Apple strengths with WebObjects' unique capabilities to
+access legacy data and applications will provide Apple with a strong 
+offering for  companies reengineering their businesses to  take advantage
+of the Internet. Customers currently using WebObjects technology include 
+The Sharper Image, Ford, Nissan, Lufthansa, and Bell South.
+				7
+<PAGE>
+Again, Apple foresees NeXT's Sales and Professional Services team 
+continuing to offer programs to companies who are implementing  
+corporate-wide business reengineering based upon a new 
+Internet/intranet infrastructure.
+
+In addition, the momentum of Java, Sun Microsystems' platform-
+independent programming  language, has led Apple to conclude that by  
+implementing a Java architecture across its platforms and development 
+tools portfolio, Apple systems will be at the forefront of Internet/Internet
+design--an area of enormous potential growth through the millennium.
+
+WebObjects' Java-enabled object oriented model complements Apple 
+Computer's commitment to Java, which includes Mac OS Runtime for Java 
+(currently in beta) and the integration of JavaBeans and OpenDoc 
+component technology. Apple Computer, Inc. believes the acquisition of 
+NeXT will give the Company the opportunity to become a preeminent 
+development and deployment platform for Java technology.
+
+Acquisition Kick-Starts Apple Software Business
+
+The acquisition of NeXT's development products for enterprise and 
+Internet markets will allow Apple to supplement its growing list of 
+software products with a ready-made portfolio of powerful customer-
+focused software solutions. Apple is committed to increasing the revenue 
+it makes from its software products and the acquisition of NeXT is a 
+significant development in building a differentiated, sustainable and 
+profitable software business. Apple already has a number of software  
+products--from QuickTime to HotSauce/MCF, which are driving industry 
+standards in multimedia and Internet markets--to customer applications  
+and tools such as Apple Internet Connection Kit (AICK), Apple Media 
+Tool, Language Kits, and communications software.
+
+Delivery of Next Generation Mac OS
+
+Apple's exhaustive research in operating system design, led the company 
+to conclude that NEXTSTEP's maturity, networking, customer and  
+developer acceptance, multi-tasking, protected memory, and scalability 
+from portable to server-level products make it the clear choice for 
+integration into the next major revision of Mac OS. Apple believes that the 
+integration of  NEXTSTEP technology in future versions of Mac OS will 
+result in a robust, next generation OS that provides customers and 
+developers with a multimedia-rich and Internet-savvy platform.
+
+Apple Chairman and CEO Dr. Gilbert F. Amelio, Chief Technology Officer 
+Ellen Hancock, and Steve Jobs will announce details of how Apple will
+				8
+<PAGE> 
+incorporate NeXT technology into future releases of Mac OS at MacWorld 
+San Francisco in January.
+
+Acquisition Brings New Talent to Apple
+
+The acquisition of NeXT will result in new management talent joining 
+Apple Computer, Inc. Avie Tevanian, formerly NeXT's Vice President of 
+Engineering, will join Apple to lead the Company's next generation OS 
+development  efforts, reporting to Ellen Hancock, Apple's executive vice 
+president of R&D, and Chief Technology Officer. Mitch Mandich, 
+formerly  NeXT's vice president of Worldwide Sales and Services, will also 
+join Apple, reporting to Marco Landi, Apple's executive vice president 
+and Chief Operating Officer. Dominique Trempont, NeXT's Chief 
+Financial Officer will also be joining Apple's executive team. As a  
+complement to this initiative, Apple Computer, Inc. also announces that 
+Rick LeFaivre has returned to the company as head of the newly formed 
+Apple Technology Group. This group will house Apple's research 
+laboratories, human interface technologies, and advanced systems 
+architecture, offering support for hardware and software integration. Rick 
+LeFaivre will report to Ellen Hancock in this new role. (See separate press 
+release).
+
+Apple Computer, Inc., a recognized innovator in the information industry 
+and leader in multimedia technologies, creates powerful solutions based 
+on easy-to-use personal computers, servers, peripherals, software, 
+personal digital assistants and Internet content. Headquartered in 
+Cupertino, California, Apple develops, manufactures, licenses and 
+markets solutions, products, technologies and services for business, 
+education, consumer, entertainment, scientific and engineering and 
+government customers in more than 140 countries.
+
+           ------------------------------------------------
+           [Press Information Contact:]
+           Katie Cotton
+           Apple Computer, Inc.
+           (408) 974-7269
+           email: katiec@apple.com
+
+           Russell Brady
+           Apple Computer, Inc.
+           (408) 974-6877
+           email: brady2@apple.com
+
+           Nicole Overson
+           NeXT Software Inc.
+           (415) 780-3731
+           email: nicole@next.com
+				9
+<PAGE>
+           ------------------------------------------------
+           Apple's home page on the World Wide Web:
+           http://www.apple.com/
+           ------------------------------------------------
+
+           Apple, the Apple logo, and Macintosh, are
+           registered trademarks of Apple Computer, Inc.
+           Additional company and product names may be
+           trademarks or registered trademarks of the
+           individual companies and are respectfully
+           acknowledged.
+				10
+
+<PAGE>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

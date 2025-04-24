@@ -1,0 +1,609 @@
+<SEC-DOCUMENT>0001193125-19-191922.txt : 20190710
+<SEC-HEADER>0001193125-19-191922.hdr.sgml : 20190710
+<ACCEPTANCE-DATETIME>20190710165432
+ACCESSION NUMBER:		0001193125-19-191922
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20190703
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20190710
+DATE AS OF CHANGE:		20190710
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ORACLE CORP
+		CENTRAL INDEX KEY:			0001341439
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				542185193
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35992
+		FILM NUMBER:		19949865
+
+	BUSINESS ADDRESS:	
+		STREET 1:		500 ORACLE PARKWAY
+		STREET 2:		MAIL STOP 5 OP 7
+		CITY:			REDWOOD CITY
+		STATE:			CA
+		ZIP:			94065
+		BUSINESS PHONE:		6505067000
+
+	MAIL ADDRESS:	
+		STREET 1:		500 ORACLE PARKWAY
+		STREET 2:		MAIL STOP 5 OP 7
+		CITY:			REDWOOD CITY
+		STATE:			CA
+		ZIP:			94065
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Ozark Holding Inc.
+		DATE OF NAME CHANGE:	20051013
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d776427d8k.htm
+<DESCRIPTION>8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:3pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM <FONT
+STYLE="white-space:nowrap">8-K</FONT> </B></P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>CURRENT
+REPORT </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Pursuant to Section&nbsp;13 OR 15(d) of the </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Securities Exchange Act of 1934 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Date of Report (Date of earliest event reported): July&nbsp;3, 2019 </B></P>
+<P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>Oracle Corporation </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of registrant as specified in its charter) </B></P> <P STYLE="font-size:8pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>Delaware</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B><FONT STYLE="white-space:nowrap">001-35992</FONT></B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B><FONT STYLE="white-space:nowrap">54-2185193</FONT></B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(State or other jurisdiction of</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>incorporation)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Commission</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>File Number)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(IRS Employer</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Identification No.)</B></P></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>500 Oracle Parkway, Redwood City, California 94065 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Address of principal executive offices) (Zip Code) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(650) <FONT STYLE="white-space:nowrap">506-7000</FONT> </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Registrant&#146;s telephone number, including area code) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>N/A </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Former name or
+former address, if changed since last report.) </B></P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box below
+if the Form <FONT STYLE="white-space:nowrap">8-K</FONT> filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: </P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Soliciting material pursuant to Rule <FONT STYLE="white-space:nowrap">14a-12</FONT> under the Exchange Act (17
+CFR <FONT STYLE="white-space:nowrap">240.14a-12)</FONT> </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><FONT STYLE="white-space:nowrap">Pre-commencement</FONT> communications pursuant to Rule <FONT
+STYLE="white-space:nowrap">14d-2(b)</FONT> under the Exchange Act (17 CFR <FONT STYLE="white-space:nowrap">240.14d-2(b))</FONT> </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><FONT STYLE="white-space:nowrap">Pre-commencement</FONT> communications pursuant to Rule <FONT
+STYLE="white-space:nowrap">13e-4(c)</FONT> under the Exchange Act (17 CFR <FONT STYLE="white-space:nowrap">240.13e-4(c))</FONT> </P></TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Securities registered pursuant to Section&nbsp;12(b) of the Act: </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Title of each class</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Trading Symbol(s)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Name of each
+exchange<BR>on&nbsp;which&nbsp;registered</B></P></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Common&nbsp;Stock,&nbsp;par&nbsp;value&nbsp;$0.01&nbsp;per&nbsp;share</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>2.25% senior notes due January 2021</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>3.125% senior notes due July 2025</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>ORCL</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>New York Stock Exchange</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>New York Stock Exchange</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>New York Stock Exchange</B></P></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of
+1933 </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">(&#167;230.405 of this chapter) or Rule <FONT STYLE="white-space:nowrap">12b-2</FONT> of the Securities Exchange Act of 1934 <FONT
+STYLE="white-space:nowrap">(&#167;240.12b-2</FONT> of this chapter). </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="96%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="3%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="right"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" ALIGN="right">Emerging growth company</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&#9744;&nbsp;&nbsp;&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to
+Section&nbsp;13(a) of the Exchange Act.</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&#9744;&nbsp;&nbsp;&nbsp;&nbsp;</TD></TR>
+</TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+</DIV></Center>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Section&nbsp;5 &#150; Corporate Governance and Management </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><I>Item&nbsp;5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain
+Officers. </I></B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Board of Directors (the &#147;Board&#148;) of Oracle Corporation (&#147;Oracle&#148;) unanimously elected Rona Fairhead to serve as
+a director. On July&nbsp;3, 2019, Mrs.&nbsp;Fairhead accepted the appointment effective as of July&nbsp;31, 2019. It is anticipated that Mrs.&nbsp;Fairhead will join one or more committees of the Board in the future. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">On July&nbsp;31, 2019, Mrs.&nbsp;Fairhead will be granted restricted stock units for shares of Oracle common stock (the &#147;RSUs&#148;) in accordance with
+Oracle&#146;s Amended and Restated 1993 Directors&#146; Stock Plan. The RSUs will represent a pro rata amount of the annual equity award granted to <FONT STYLE="white-space:nowrap">non-employee</FONT> directors based on the number of complete
+calendar months remaining in Oracle&#146;s current fiscal year. The RSUs will fully vest on the first anniversary of the date of grant provided Mrs.&nbsp;Fairhead continues to serve as a director on the vest date. Mrs.&nbsp;Fairhead will also
+receive the standard cash compensation for Oracle&#146;s <FONT STYLE="white-space:nowrap">non-employee</FONT> directors. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Mrs.&nbsp;Fairhead has entered
+into Oracle&#146;s standard form of indemnification agreement pursuant to which Oracle will indemnify her for certain actions taken in her capacity as a director. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Section&nbsp;9 &#150; Financial Statements and Exhibits </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><I>Item&nbsp;9.01 Financial Statements and Exhibits </I></B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">(d)&nbsp;Exhibits </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="7%"></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="90%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; display:table-cell; font-size:8pt; font-family:Times New Roman; "><B>Exhibit&nbsp;No.</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-bottom:1.00pt solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman"><B>Description</B></P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">99.1</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="d776427dex991.htm">Press Release &#150; Oracle Names Rona Fairhead to the Board of Directors, dated July&nbsp;10, 2019 </A></TD></TR>
+</TABLE>
+</DIV></Center>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SIGNATURE </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="45%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="3%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="45%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3"><B>ORACLE CORPORATION</B></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Dated: July&nbsp;10, 2019</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">By:&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000">/s/ Brian S. Higgins</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Name: Brian S. Higgins</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Title: Vice President, Associate General Counsel and Secretary</TD></TR>
+</TABLE>
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>d776427dex991.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-99.1</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>Exhibit 99.1 </B></P> <P STYLE="font-size:24pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt;margin-bottom:0pt" ALIGN="right">
+
+
+<IMG SRC="g776427g33t06.jpg" ALT="LOGO">
+ </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>For Immediate Release </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="8%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="28%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="62%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Contact:&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Ken Bond</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Deborah Hellinger</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Oracle&nbsp;Investor&nbsp;Relations&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Oracle&nbsp;Corporate&nbsp;Communications</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">1.650.607.0349</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">1.212.508.7935</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">ken.bond@oracle.com</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">deborah.hellinger@oracle.com</TD></TR>
+</TABLE> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>ORACLE NAMES RONA FAIRHEAD </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>TO THE BOARD OF DIRECTORS </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">REDWOOD SHORES, Calif., July&nbsp;10, 2019 &#151; The Oracle Board of Directors today announced that it has unanimously elected Rona A.
+Fairhead to the company&#146;s Board of Directors. The election is effective as of July&nbsp;31, 2019 and increases the size of the Board to 15 directors. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">&#147;I am very pleased to welcome Mrs.&nbsp;Fairhead to the Board,&#148; said Larry Ellison, Chairman of the Board of Directors and Chief
+Technology Officer. Bruce Chizen, Chair of the Nomination and Governance Committee, added, &#147;Mrs.&nbsp;Fairhead is an accomplished leader with extensive international experience in finance, risk management, government affairs and global
+operations. The Board will benefit from her unique perspective.&#148; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Mrs.&nbsp;Fairhead, 57, most recently served as Minister of State
+for Trade and Export Promotion, Department for International Trade in the United Kingdom from September 2017 to May 2019. She previously served as Chair of the British Broadcasting Corporation Trust (BBC) from 2014 to 2017. From 2006 to 2013,
+Mrs.&nbsp;Fairhead served as Chair and Chief Executive Officer of the Financial Times Group Limited, which was a division of Pearson plc, and, prior to that, she served as Pearson&#146;s Chief Financial Officer. Before joining Pearson,
+Mrs.&nbsp;Fairhead held a variety of leadership positions at Bombardier Inc. and Imperial Chemical Industries plc. Mrs.&nbsp;Fairhead previously served as a director of HSBC Holdings plc and PepsiCo, Inc. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Members of Oracle&#146;s Board of Directors serve <FONT STYLE="white-space:nowrap">one-year</FONT> terms and stand for election at the
+company&#146;s next annual meeting of stockholders in November 2019.<B> </B> </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>About Oracle </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Oracle Cloud offers a complete suite of integrated applications for Sales, Service, Marketing, Human Resources, Finance, Supply Chain and Manufacturing,
+plus Highly Automated and Secure Generation&nbsp;2 Infrastructure featuring the Oracle Autonomous Database. For more information about Oracle (NYSE: ORCL), visit www.oracle.com/investor or contact Investor Relations at investor_us@oracle.com or <FONT
+STYLE="white-space:nowrap">(650)&nbsp;506-4073.</FONT> </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"># # # </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Trademarks </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Oracle and Java are registered trademarks of
+Oracle and/or its affiliates. Other names may be trademarks of their respective owners. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>&#147;</B><B>Safe Harbor</B><B>&#148;</B><B> Statement:
+</B>Statements in this press release relating to Oracle&#146;s future plans, expectations, beliefs, intentions and prospects are &#147;forward-looking statements&#148; and are subject to material risks and uncertainties. Many factors could affect
+our current expectations and our actual results, and could cause actual results to differ materially. A detailed discussion of these factors and other risks that affect our business is contained in our U.S. Securities and Exchange Commission
+(&#147;SEC&#148;) filings, including our most recent reports on Form <FONT STYLE="white-space:nowrap">10-K</FONT> and Form <FONT STYLE="white-space:nowrap">10-Q,</FONT> particularly under the heading &#147;Risk Factors.&#148; Copies of these filings
+are available online from the SEC, by contacting Oracle Corporation&#146;s Investor Relations Department at <FONT STYLE="white-space:nowrap">(650)&nbsp;506-4073</FONT> or by clicking on SEC Filings on Oracle&#146;s Investor Relations website at
+http://www.oracle.com/investor. All information set forth in this press release is current as of July&nbsp;10, 2019. Oracle undertakes no duty to update any statement in light of new information or future events. </P>
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g776427g33t06.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g776427g33t06.jpg
+M_]C_X  02D9)1@ !  $ 8 !@  #__@ ?3$5!1"!496-H;F]L;V=I97,@26YC
+M+B!6,2XP,0#_VP"$  (" @(" @(" @(" @(" @(" @(" @(" @(" @(" @("
+M @(" @,# @(# @(" P0# P,#! 0$ @,$! 0$! ,$! ,! @(" @(" @(" @,"
+M @(# P,# P,# P,# P,# P,# P,# P,# P,# P,# P,# P,# P,# P,# P,#
+M P,# P,# __$ :(   $% 0$! 0$!           ! @,$!08'" D*"P$  P$!
+M 0$! 0$! 0        $" P0%!@<("0H+$  " 0,# @0#!04$!    7T! @,
+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
+MCKI_M&"_]5F"/I35)KFVTS49[-2]W!87<UJ@C,I>YBMY'@41+S(3*JC:.3G
+MZU]'5<H4JC@KSC&3BK7U2=M.NO0_%L!3HU<=@Z6(ER8>I7HPJOF4.6G*I&,W
+MS/2-HMOF>BWZ'X1_LQ^-?C%HVL>-_'/@3X+6GQ;\7ZCJS-KGBS4XKNZU71;C
+M4?M%U>6L"PW,9LWOIY)I9I54-)L$9;:I6OPWAG&YO0K8W'8')HYKBYU/WE>:
+MDYTW.\I1237*YMMR=KNUKV5C_5/QOX9\.<QR[A?A;BKQ+J^'W#N"PB6"RK#2
+MI4L+C*>']G2HU9N=.:K1PL(PA1IN3C3YO:*/-)2/LC_AH;]M ?\ -K4' _Y]
+M=8/3_N(U]A_K!QDO^:76G]VI_P#)G\X_\0?^C7_T?6:_[BX/_P"9S[;^'4OB
+MWQ/X#T+4/BIX<T32?$VHQQZG?>&;:![FST-UF\W3K207[3%M2@B2"25@2(YR
+MZQDB-6/VN7/%XG 4*F:8:G1Q,TIRHQ5XTM;PB^:_OQ23D^DKI;)G\Q\8T^'\
+MBXKS7!\!YSC<?DF"E+#4,RJ35*MC5R<F(JQ]@J:6&JR<X4HM7J4%&51)SE%>
+MD=/;'X8Q7H[>5CXL_,#]MGQ]_P *N_:Q_8'\=?\ "%?$#XB?V%_PU-_Q1WPM
+M\.?\);X[UC^T_AMX4T?_ (D7A[[9:?VA]D_M#[;=?Z1'Y5G8W<_S>3M8 R?C
+M?^T3\1_VD?A1XY^!WPO_ &-/VH]+\1_$O0;KPDNN_&KX=V'PO\#^'+;5BEO<
+M:]?:]J&O7L<DMC;F:ZBA5$=IK>$*VY@" 9_QB\&?%K1/BM^PM^ROX%^-'COP
+M'HNI?!7QGX%\?^*_"&LW&GZE?:1\-O"?@QKKQ!I]K-/]EB\67<>A3V%EJLMI
+M=7&FGQ)<7$"JRLRFWR#;Y'%_M._%ZT_9Y\3?!G]DKQ!^U1\5_AKX*E\':_\
+M$?XD?'S7AXA^(7QN\1Z3J'BG6].\'>#=*\2:%X?O9-,OI+C3]6BFU2/3(O+M
+M=%LR6#-)!J9L&QE_LV_M1^"]!_:9^&?P?^$/[5/Q+_:A^%OQ8L_%FG:S8_&7
+M3O%EWX]^&WBO0M&N/$.BZSI_C3Q3X0T"37-$U6*SO+"33D1UM/),VPEHZ-@V
+M/)IOB_>>*O'?Q5TSX]?ME_'O]EC]I#1_&WBRS^''@.6^OO"O[/.F:187DL?@
+MJ35;2W\,W.G^)_#EQ'$HFU/5+RP^U19G478(:X /KC]K+XJ_&SP?^SO^SUK&
+MK>.[S3?#OB36="LOVD?C?^S:I\1S:5X<&C&5_$?@*_DTN(Z;H6KWJ27+:O#;
+MP?93'#! LHNDAN#] _0O?L:>*;#5/B9=Q?![]LJ\_:/^"&I>#)[O5?!GQN\6
+M:EK/[0'A'QG;WT @U?28M5\+:9?W7@^6V9[>=+I+2&&2:,Q+.P61C8-C]0*
+M/PI_8J_:#_:A^%G[&?P]/@G]B[4?BU\-O"UE\0-0L_'^D_''P=HNHZ]:GXC>
+M,M1UAK/X<CPYJ?B%9M/U.?4-/$$4%U+<#3#<PIY4Z &P;'TQ^R(WC[]IOXPK
+M^W'XPMO 'A+PU+\*KGX1?#WP-X)\20^,M:2VD\3)XAUB^\>^((K.!+?5;2XW
+MVT>G"*"5?M0:2WM1%NU( ^-KW]KCX4?&GQE\1O$GQK_;D^-?[/%II'C;Q#H'
+MPL^%GP/TWQ_H5OIGA?0+MK'1O$OCC6]!\ :S#XKU'5C%)=SZ:]PHASL$D2.M
+MO; 'J-C^T)JWQS_X)\?MC:7K7C:+XI2_"E?$'@W0_BI%H5YX9F^(G@R6'2M1
+M\+>(=7T'4+&RN--\0_99;BVO(WM8RS6L<C//)))/, ='^T]^TY8>"-2_9M^
+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
+MBW9:7^R;\&?CYJ/Q#^*/BKQSX<_:2\:^/O"6E7VBV'B>=KJRT[Q?H^L:-?\
+MBJ_M]-;)DM=&^SIYES<"!Y1)YP-@V.S^!?[/7[7?PQ^&?[6'A_2_$OA[P7\9
+M/&_QHN_BMX ^)D=GX4U3P5XWNM<ATR_\0V3>%[I-:N?#&C7=U9:AI^;^Q@NK
+M8:E!/;HPMF#FP;'(?$?X,?M+?M5Z]X!T?XA_LF_"G]G_ %+PSXZ\+>*?%7[1
+M%C\2/"'BWQ?>:7X=U&&[U&Q^']KX7TLZ[I5[?-"LD,6M7D]N#%"LTD<B":,_
+M0/T/</'_ ,+OVA_@?^T3X^_:%_9P\#^'/C)X?^-NC>%+'XL?"36/%VF?#[7(
+M?$?@:P;2/#OB?PIXJUE&TZ*!]+GNUN+>Z5V$MU=.(YC<1-8FP;'M/P$;]JCQ
+M+XI\5^/_ (_6WAWX9>%K_2M/TCP-\!/#M_X>\8S^'[F*5;G5/%GBOXA6&EI-
+MJFMSD?9(;+3[W^SE@>1WMEG5)& /JB@ H * "@ H * "@ H * "@ H * "@
+MH * "@ H * "@ H * "@ H * "@ H * "@ H * "@ H * "@ H * "@ H *
+$"@#_V0$!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
