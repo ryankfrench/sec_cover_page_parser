@@ -1,0 +1,1396 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ K6sXDhaa+PXFj0Xj+krltE3Fdp7p46UKkzgmLT+mjB3Qmi2YarnLcxTRmIIj+Qt1
+ 3hVp8OBfGyIDmd+NG2W0kw==
+
+<SEC-DOCUMENT>0000891020-98-001352.txt : 19980828
+<SEC-HEADER>0000891020-98-001352.hdr.sgml : 19980828
+ACCESSION NUMBER:		0000891020-98-001352
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19980812
+ITEM INFORMATION:		
+ITEM INFORMATION:		
+FILED AS OF DATE:		19980827
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMAZON COM INC
+		CENTRAL INDEX KEY:			0001018724
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-CATALOG & MAIL-ORDER HOUSES [5961]
+		IRS NUMBER:				911646860
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		
+		SEC FILE NUMBER:	000-22513
+		FILM NUMBER:		98699136
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1516 SECOND AVE 4TH FLOOR
+		STREET 2:		PO BOX 80387
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98101
+		BUSINESS PHONE:		2066222335
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 80387
+		STREET 2:		1516 SECOND AVE 4TH FLOOR
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98101
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 8-K FOR PERIOD ENDED AUGUST 12, 1998
+<TEXT>
+
+<PAGE>   1
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             WASHINGTON, D.C. 20549
+
+                            -------------------------
+
+
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+
+
+
+                     PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+
+
+                                 AUGUST 12, 1998
+                  -------------------------------------------
+                                 Date of Report
+                        (Date of earliest event reported)
+
+
+
+                                AMAZON.COM, INC.
+- --------------------------------------------------------------------------------
+               (Exact Name of Registrant as Specified in Charter)
+
+<TABLE>
+<S>                                 <C>                                <C>
+             DELAWARE                           000-22513                          91-1646860
+- ----------------------------------  ---------------------------------  ----------------------------------
+   (State or Other Jurisdiction           (Commission File No.)                  (IRS Employer
+        of Incorporation)                                                     Identification No.)
+</TABLE>
+
+                  1516 SECOND AVENUE, SEATTLE, WASHINGTON 98101
+- --------------------------------------------------------------------------------
+          (Address of principal executive offices, including Zip Code)
+
+                                 (206) 622-2335
+- --------------------------------------------------------------------------------
+              (Registrant's telephone number, including area code)
+
+
+
+<PAGE>   2
+
+ITEM 2.  ACQUISITION OR DISPOSITION OF ASSETS
+
+         On August 12, 1998, pursuant to an Agreement and Plan of Merger dated
+as of August 3, 1998 (the "Junglee Merger Agreement"), by and among Amazon.com,
+Inc., a Delaware corporation ("Amazon.com"), Junglee Corp., a Delaware
+corporation ("Junglee") and AJ Acquisition, Inc., a Delaware corporation and
+wholly owned subsidiary of Amazon.com ("Junglee Merger Sub"), Amazon.com
+acquired all of the outstanding capital stock of Junglee and Junglee Merger Sub
+merged with and into Junglee, with Junglee as the surviving corporation (the
+"Junglee Merger").
+
+         Junglee, founded in June 1996 and based in Sunnyvale, California, has
+developed World Wide Web-based virtual database technology to help consumers
+find products on the Internet.
+
+         Amazon.com will issue approximately 1,600,000 shares of Amazon.com
+common stock, par value $.01 per share ("Amazon.com Common Stock"), and assume
+all outstanding options in connection with the acquisition of Junglee, pursuant
+to the formula set forth below.
+
+         Pursuant to the terms of the Junglee Merger Agreement, at the effective
+time of the Junglee Merger, each issued and outstanding share of Junglee common
+stock, par value $.001 per share (the "Junglee Common Stock"), including each
+share of Junglee Common Stock issued upon conversion of each issued and
+outstanding share of Junglee Series A Preferred Stock, par value $.001 per
+share, Series B Preferred Stock, par value $.001 per share, and Series C
+Preferred Stock, par value $.001 per share (together with the Junglee Common
+Stock, the "Junglee Capital Stock"), other than shares of Junglee Capital Stock,
+if any, for which dissenters' rights have been or will be perfected in
+compliance with the applicable laws of the State of Delaware and the State of
+California, was converted into the right to receive that number of shares of
+Amazon.com Common Stock, determined by dividing (i) 1,891,568 by (ii) the total
+number of shares of Junglee Capital Stock outstanding immediately prior to the
+effective time on a fully diluted basis, assuming all outstanding options and
+warrants to purchase shares of Junglee Capital Stock have been validly exercised
+and issued prior to the effective time (the "Junglee Exchange Ratio").
+
+         In addition, each option to purchase shares of Junglee Common Stock
+outstanding at the effective time of the Junglee Merger was assumed by
+Amazon.com and will be treated as an option to purchase that number of
+Amazon.com Common Shares equal to the product of the Junglee Exchange Ratio and
+the number of shares of Junglee Common Stock subject to such option. A warrant
+to purchase shares of 
+
+
+<PAGE>   3
+
+Junglee Capital Stock was assumed by Amazon.com and constitutes a warrant to
+acquire that number of shares of Amazon.com Common Stock equal to the product of
+the Junglee Exchange Ratio and the number of shares of Junglee Capital Stock
+subject to such warrant.
+
+         The Junglee Merger will be accounted for under the purchase method of
+accounting.
+
+         Pursuant to the Junglee Merger Agreement, Junglee and its stockholders
+have agreed to indemnify and hold Amazon.com and the surviving corporation
+harmless for any losses that may be suffered by Amazon.com or its affiliates
+arising out of or in connection with any inaccuracy in, or misrepresentation or
+breach of, any representation or warranty made by Junglee in the Junglee Merger
+Agreement and related agreements, or any failure by Junglee to perform its
+obligations under the Junglee Merger Agreement and related agreements.
+Approximately 190,000 of the shares of Amazon.com Common Stock issued in
+connection with the Junglee Merger will be deposited with an escrow agent to
+secure such indemnification obligations.
+
+         Pursuant to an Investor Rights Agreement, dated as of August 12, 1998
+(the "Junglee Investor Rights Agreement"), by and between Amazon.com and the
+stockholders of Junglee, Amazon.com has agreed to prepare and file with the
+Securities and Exchange Commission (the "SEC"), within 90 days of the effective
+time of the Junglee Merger, a Registration Statement on Form S-3 under the
+Securities Act of 1933, as amended, covering the resale of the Amazon.com Common
+Shares issued in the Junglee Merger and to use its best efforts to have the
+Registration Statement declared effective by the SEC as promptly as practicable
+thereafter.
+
+         The Junglee Merger Agreement and the Junglee Investor Rights Agreement
+(together with the Junglee Merger Agreement, the "Junglee Agreements"), each of
+which was filed as an exhibit to Amazon's Current Report on Form 8-K dated
+August 3, 1998, are incorporated herein by reference. The descriptions of the
+Junglee Agreements herein do not purport to be complete and are qualified in
+their entirety by the provisions of the Junglee Agreements.
+
+ITEM 7.  FINANCIAL STATEMENTS, PRO FORMA FINANCIAL INFORMATION AND EXHIBITS
+
+         (a)      Financial Statements of Business Acquired
+
+                           Audited Financial Statements:
+
+
+
+                
+<PAGE>   4
+
+                          (i)       Report of Deloitte & Touche LLP, dated
+                                    February 6, 1998.
+
+                         (ii)       Junglee Corp. Balance Sheets as of December
+                                    31, 1997 and 1996.
+
+                        (iii)       Junglee Corp. Statements of Operations for
+                                    the year ended December 31, 1997 and period
+                                    from June 3, 1996 (inception) to December
+                                    31, 1996.
+
+                         (iv)       Junglee Corp. Statements of Stockholders'
+                                    Equity for the year ended December 31, 1997
+                                    and period from June 3, 1996 (inception) to
+                                    December 31, 1996.
+
+                          (v)       Junglee Corp. Statements of Cash Flows for
+                                    the year ended December 31, 1997 and period
+                                    from June 3, 1996 (inception) to December
+                                    31, 1996.
+
+                         (vi)       Junglee Corp. Notes to Financial Statements
+                                    for the year ended December 31, 1997 and
+                                    period from June 3, 1996 (inception) to
+                                    December 31, 1996.
+
+
+                           Condensed Financial Statements (unaudited):
+
+                          (i)       Junglee Corp. Balance Sheet as of June 30,
+                                    1998 (unaudited) and December 31, 1997.
+
+                         (ii)       Junglee Corp. Statements of Operations for
+                                    the six month periods ended June 30, 1998
+                                    and 1997 (unaudited).
+
+                        (iii)       Junglee Corp. Statements of Cash Flows for
+                                    the six month periods ended June 30, 1998
+                                    and 1997 (unaudited).
+
+                         (iv)       Jungle Corp. Notes to Financial Statements
+                                    for the six month periods ended June 30,
+                                    1998 and 1997 (unaudited).
+
+         (b)      Pro Forma Financial Information
+
+         The required pro forma financial information with respect to the
+Junglee Merger is not available as of the date of this Current Report on Form
+8-K. The pro forma financial information will be filed as soon as practicable
+and not later than 60 days from the date on which this Form 8-K must be filed in
+accordance with paragraph 4 of Item 7(a) of Form 8-K.
+
+
+
+            
+<PAGE>   5
+
+         (c)      Exhibits
+
+<TABLE>
+<S>                                  <C>
+                     2.1             Agreement and Plan of Merger dated as of August 3 1998, by and among
+                                     Amazon.com, Inc., AJ Acquisition, Inc. and Junglee Corp. (incorporated
+                                     by reference from Amazon.com, Inc.'s Current Report on Form 8-K dated
+                                     August 3, 1998).
+
+                    23.1             Independent Auditors' Consent
+
+                    99.1             Form of Investor Rights Agreement by and between Amazon.com, Inc. and
+                                     the stockholders of Junglee Corp. named therein (incorporated by
+                                     reference from Amazon.com, Inc.'s Current Report on Form 8-K dated
+                                     August 3, 1998).
+</TABLE>
+
+<PAGE>   6
+
+INDEPENDENT AUDITORS' REPORT
+
+
+To the Board of Directors of
+   Junglee Corp.:
+
+We have audited the accompanying balance sheets of Junglee Corp. as of December
+31, 1997 and 1996, and the related statements of operations, stockholders'
+equity and cash flows for the year ended December 31, 1997 and for the period
+from June 3, 1996 (inception) to December 31, 1996. These financial statements
+are the responsibility of the Company's management. Our responsibility is to
+express an opinion on these financial statements based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+In our opinion, such financial statements present fairly, in all material
+respects, the financial position of Junglee Corp. at December 31, 1997 and 1996,
+and the results of its operations and its cash flows for the above-stated
+periods then ended in conformity with generally accepted accounting principles.
+
+
+
+Deloitte & Touche LLP
+
+
+San Jose, California
+February 6, 1998
+
+
+<PAGE>   7
+
+JUNGLEE CORP.
+
+BALANCE SHEETS
+DECEMBER 31, 1997 AND 1996
+- --------------------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+ASSETS                                                                             1997              1996
+<S>                                                                            <C>               <C>        
+CURRENT ASSETS:
+  Cash and equivalents                                                         $ 1,576,716       $ 2,415,200
+  Short-term investments                                                                --           977,957
+  Accounts receivable (net of allowance of $57,177)                                386,068                --
+  Accounts receivable from related party                                           128,525                --
+  Other current assets                                                              77,036            16,187
+                                                                               -----------       -----------
+
+           Total current assets                                                  2,168,345         3,409,344
+
+PROPERTY AND EQUIPMENT, Net                                                        727,234           318,915
+
+NOTE RECEIVABLE FROM OFFICER                                                       124,054                --
+
+RESTRICTED CASH                                                                     60,000            60,000
+
+OTHER ASSETS                                                                         6,605                --
+                                                                               -----------       -----------
+
+TOTAL                                                                          $ 3,086,238       $ 3,788,259
+                                                                               ===========       ===========
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+
+CURRENT LIABILITIES:
+  Accounts payable                                                             $    90,949       $    77,756
+  Accrued compensation and related benefits                                         93,385            29,376
+  Other accrued liabilities                                                        254,439           110,835
+  Deferred revenue                                                                 457,692                --
+  Deferred revenue from related party                                                   --           100,000
+  Current portion - line of credit                                                 200,000            17,769
+                                                                               -----------       -----------
+
+           Total current liabilities                                             1,096,465           335,736
+                                                                               -----------       -----------
+
+LINE OF CREDIT                                                                     179,310            48,866
+
+STOCKHOLDERS' EQUITY:
+  Convertible preferred stock, $.001 par value (liquidation preference
+    of $6,382,067):
+    Series A: 1,150,000 shares designated, issued and outstanding                  566,495           566,495
+    Series B: 2,000,000 shares designated; shares issued and outstanding:
+      1997, 1,943,666; 1996, 1,191,666                                           5,915,572         3,564,238
+  Common stock, $.001 par value: 12,000,000 shares authorized;
+    shares outstanding: 1997, 6,962,500; 1996, 6,825,000                           420,610            15,335
+  Notes receivable from sale of common stock                                      (149,700)               --
+  Accumulated deficit                                                           (4,942,514)         (742,411)
+                                                                               -----------       -----------
+
+           Total stockholders' equity                                            1,810,463         3,403,657
+                                                                               -----------       -----------
+
+TOTAL                                                                          $ 3,086,238       $ 3,788,259
+                                                                               ===========       ===========
+</TABLE>
+
+
+
+See notes to financial statements.
+
+
+
+                                      
+<PAGE>   8
+JUNGLEE CORP.
+
+STATEMENTS OF OPERATIONS
+YEAR ENDED DECEMBER 31, 1997 AND PERIOD FROM
+JUNE 3, 1996 (INCEPTION) TO DECEMBER 31, 1996
+- --------------------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+                                                    1997                1996
+<S>                                             <C>                 <C>        
+REVENUES  (Note 9):
+  License                                       $   985,495         $        --
+  Maintenance and other services                    230,860                  --
+                                                -----------         -----------
+
+           Total net revenues                     1,216,355                  --
+                                                -----------         -----------
+
+OPERATING EXPENSES:
+  Cost of revenues                                  578,887                  --
+  Research and development                        2,580,795             439,469
+  Selling and marketing                           1,545,687              70,520
+  General and administrative                        832,998             242,077
+                                                -----------         -----------
+
+LOSS FROM OPERATIONS                              4,322,012             752,066
+                                                -----------         -----------
+
+OTHER INCOME (EXPENSE):
+  Interest income                                   156,436              19,367
+  Interest expense                                  (30,998)                 --
+  Other expense                                      (3,529)             (9,712)
+                                                -----------         -----------
+
+           Total other income - net                 121,909               9,655
+                                                -----------         -----------
+
+NET LOSS                                        $ 4,200,103         $   742,411
+                                                ===========         ===========
+</TABLE>
+
+
+
+See notes to financial statements.
+
+
+
+                                      
+<PAGE>   9
+
+JUNGLEE CORP.
+
+STATEMENTS OF STOCKHOLDERS' EQUITY
+YEAR ENDED DECEMBER 31, 1997 AND PERIOD FROM
+JUNE 3, 1996 (INCEPTION) TO DECEMBER 31, 1996
+- --------------------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+                                                           CONVERTIBLE                  CONVERTIBLE                         
+                                                  PREFERRED STOCK - SERIES A    PREFERRED STOCK - SERIES B    COMMON STOCK  
+                                                  --------------------------    ---------------------------   ------------  
+                                                     SHARES        AMOUNT         SHARES          AMOUNT         SHARES     
+                                                  -----------    -----------    -----------     -----------   ------------  
+<S>                                               <C>            <C>            <C>             <C>            <C>          
+Issuance of common stock for cash to founders
+  at $.001 per share in June 1996                          --    $        --             --     $        --      6,435,000  
+Issuance of Series A preferred stock for cash at
+  $0.50 per share, net of issuance costs
+  in July 1996                                      1,150,000    $   566,495             --              --             --  
+Issuance of common stock upon exercise
+  of options for cash at $.01 per share
+  in October 1996                                          --             --             --              --        390,000  
+Grant of 60,000 options for consulting services
+  in November 1996 (see Note 5)                            --             --             --              --             --  
+Issuance of Series B preferred stock for cash at
+  $3.00 per share, net of issuance costs:
+  In November 1996                                         --             --        833,333       2,492,474             --  
+  In December 1996                                         --             --        358,333       1,071,764             --  
+Net loss                                                   --             --             --              --             --  
+                                                  -----------    -----------    -----------     -----------    -----------  
+
+BALANCES, December 31, 1996                         1,150,000        566,495      1,191,666       3,564,238      6,825,000  
+
+Grant of option to purchase 750,000 shares of
+  Series B preferred stock at $3.00 per share in
+  January 1997 (see Note 9)                                --             --             --         100,000             --  
+Issuance of common stock for cash:
+  In March 1997 at $0.30 per share                         --             --             --              --        750,000  
+  In November 1997 at $0.50 per share                      --             --             --              --         62,500  
+Repurchase of founder common stock at $.001
+  per share in July 1997                                   --             --             --              --       (975,000) 
+Issuance of common stock for cash and notes in
+  November 1997 at $0.50 per share                                                                                 300,000
+Issuance of Series B preferred stock for cash at
+  $3.00 per share, net of issuance costs:
+  In June 1997                                             --             --        750,000       2,245,346             --  
+  In November 1997                                         --             --          2,000           5,988             --  
+Net loss                                                   --             --             --              --             --  
+                                                  -----------    -----------    -----------     -----------    -----------  
+
+BALANCES, December 31, 1997                         1,150,000    $   566,495      1,943,666     $ 5,915,572      6,962,500  
+                                                  ===========    ===========    ===========     ===========    ===========  
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+                                                                       NOTE
+                                                    COMMON STOCK    RECEIVABLE
+                                                    ------------   FROM SALE OF     ACCUMULATED
+                                                       AMOUNT      COMMON STOCK       DEFICIT           TOTAL
+                                                    ------------    -----------     -----------     -----------
+<S>                                                 <C>            <C>              <C>             <C>
+Issuance of common stock for cash to founders
+  at $.001 per share in June 1996                   $     6,435     $        --     $        --     $     6,435
+Issuance of Series A preferred stock for cash at
+  $0.50 per share, net of issuance costs
+  in July 1996                                               --              --              --         566,495
+Issuance of common stock upon exercise
+  of options for cash at $.01 per share
+  in October 1996                                         3,900              --              --           3,900
+Grant of 60,000 options for consulting services
+  in November 1996 (see Note 5)                           5,000              --              --           5,000
+Issuance of Series B preferred stock for cash at
+  $3.00 per share, net of issuance costs:
+  In November 1996                                           --              --              --       2,492,474
+  In December 1996                                           --              --              --       1,071,764
+Net loss                                                     --              --        (742,411)       (742,411)
+                                                    -----------     -----------     -----------     -----------
+
+BALANCES, December 31, 1996                              15,335              --        (742,411)      3,403,657
+
+Grant of option to purchase 750,000 shares of
+  Series B preferred stock at $3.00 per share in
+  January 1997 (see Note 9)                                  --              --              --         100,000
+Issuance of common stock for cash:
+  In March 1997 at $0.30 per share                      225,000              --              --         225,000
+  In November 1997 at $0.50 per share                    31,250              --              --          31,250
+Repurchase of founder common stock at $.001
+  per share in July 1997                                   (975)             --              --            (975)
+Issuance of common stock for cash and notes in
+  November 1997 at $0.50 per share                      150,000        (149,700)                            300
+Issuance of Series B preferred stock for cash at
+  $3.00 per share, net of issuance costs:
+  In June 1997                                               --              --              --       2,245,346
+  In November 1997                                           --              --              --           5,988
+Net loss                                                     --              --      (4,200,103)     (4,200,103)
+                                                    -----------     -----------     -----------     -----------
+
+BALANCES, December 31, 1997                         $   420,610     $  (149,700)    $(4,942,514)    $ 1,810,463
+                                                    ===========     ===========     ===========     ===========
+</TABLE>
+
+
+See notes to financial statements.
+
+
+
+                                      
+<PAGE>   10
+
+
+JUNGLEE CORP.
+
+STATEMENTS OF CASH FLOWS
+YEAR ENDED DECEMBER 31, 1997 AND PERIOD FROM JUNE 3, 1996 (INCEPTION)
+TO DECEMBER 31, 1996
+- --------------------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+                                                                        1997              1996
+<S>                                                                 <C>               <C>         
+CASH FLOWS FROM OPERATING ACTIVITIES:
+  Net loss                                                          $(4,200,103)      $  (742,411)
+  Reconciliation of net loss to net cash used in operating
+    activities:
+      Depreciation                                                      213,084            16,997
+      Compensation expense related to grant of options                  100,000             5,000
+      Changes in operating assets and liabilities:
+        Accounts receivable                                            (386,068)               --
+        Accounts receivable from related party                         (128,525)               --
+        Other current assets                                            (60,849)          (16,187)
+        Accounts payable                                                 13,193            77,756
+        Accrued compensation and related benefits                        64,009            29,376
+        Other accrued liabilities                                       143,604           110,835
+        Deferred revenue                                                457,692                --
+        Deferred revenue from related party                            (100,000)          100,000
+                                                                    -----------       -----------
+
+           Net cash used in operating activities                     (3,883,963)         (418,634)
+                                                                    -----------       -----------
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+  Purchases of property and equipment                                  (621,403)         (335,912)
+  Purchases of short-term investments                                  (982,489)         (977,957)
+  Proceeds from maturity of short-term investments                    1,960,446                --
+                                                                    -----------       -----------
+
+           Net cash provided by (used in) investing activities          356,554        (1,313,869)
+                                                                    -----------       -----------
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+  Note receivable from officer                                         (135,000)               --
+  Collection on note receivable from officer                             10,946                --
+  Proceeds from borrowings                                              433,365            66,635
+  Repayments of borrowings                                             (120,690)               --
+  Sale of Series A preferred stock, net of issuance costs                    --           566,495
+  Sale of Series B preferred stock, net of issuance costs             2,251,334         3,564,238
+  Sale of common stock                                                  255,575            10,335
+  Other assets                                                           (6,605)          (60,000)
+                                                                    -----------       -----------
+
+           Net cash provided by financing activities                  2,688,925         4,147,703
+                                                                    -----------       -----------
+
+NET INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS                   (838,484)        2,415,200
+
+CASH AND EQUIVALENTS, Beginning of period                             2,415,200                --
+                                                                    -----------       -----------
+
+CASH AND EQUIVALENTS, End of period                                 $ 1,576,716       $ 2,415,200
+                                                                    ===========       ===========
+
+NONCASH INVESTING AND FINANCING ACTIVITIES -
+  Common stock issued for notes receivable                          $   149,700       $        --
+                                                                    ===========       ===========
+
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION -
+    Cash paid for interest                                          $    30,998       $        --
+                                                                    ===========       ===========
+</TABLE>
+
+
+See notes to financial statements.
+
+
+
+                                      
+<PAGE>   11
+
+JUNGLEE CORP.
+
+NOTES TO FINANCIAL STATEMENTS
+YEAR ENDED DECEMBER 31, 1997 AND PERIOD FROM JUNE 3, 1996 (INCEPTION)
+TO DECEMBER 31, 1996
+- --------------------------------------------------------------------------------
+
+
+1.    ORGANIZATION  AND  SIGNIFICANT  ACCOUNTING  POLICIES
+
+      ORGANIZATION - Junglee Corp. was incorporated in Delaware on June 3, 1996
+      to develop and market software to enable database query capability on
+      multiple disparate data sources. The Company's software has applicability
+      to the internet, intranet and other enterprise computing environments. The
+      Company was considered a development stage company until the first quarter
+      of 1997 when it began generating operating revenues.
+
+      CERTAIN SIGNIFICANT RISKS AND UNCERTAINTIES - The preparation of financial
+      statements in conformity with generally accepted accounting principles
+      requires management to make estimates and assumptions that affect the
+      reported amounts of assets and liabilities and disclosure of contingent
+      assets and liabilities at the date of the financial statements and the
+      reported amounts of expenses during the reporting period. Such estimates
+      include the estimated useful life of property and equipment and certain
+      accrued liabilities. Actual results could differ from those estimates.
+
+      The Company participates in a dynamic high technology industry, and
+      management believes that changes in any of the following areas, among
+      others, could have a material adverse affect on the Company's future
+      financial position or results of operations: ability to obtain additional
+      financing; market demand for products under development by the Company;
+      increased competition; and the ability to attract and retain employees
+      necessary to support its growth.
+
+      CASH AND EQUIVALENTS consists of highly liquid debt investments with
+      original maturities of 90 days or less.
+
+      SHORT-TERM INVESTMENTS - The Company's short-term investments consist of
+      corporate debt securities with original maturities of more than three
+      months and less than one year. All of the Company's investments are
+      classified as available-for-sale, and are stated at amortized cost
+      (specific identification basis), which approximates fair market value.
+      There were no realized gains or losses in 1997 or 1996.
+
+      PROPERTY AND EQUIPMENT are stated at cost. Depreciation is provided using
+      the straight-line method over estimated useful lives of three to five
+      years.
+
+      SOFTWARE DEVELOPMENT COSTS - The costs for the development of new software
+      products are expensed as incurred until technological feasibility has been
+      established, at which time any additional costs would be capitalized in
+      accordance with Statement of Financial Accounting Standards No. 86.
+      Because the Company believes its current process for developing software
+      is essentially completed concurrently with the establishment of
+      technological feasibility, no costs have been capitalized to date.
+
+
+
+                                      
+<PAGE>   12
+
+      REVENUE RECOGNITION - Revenue from software licenses is recognized upon
+      shipment only if no significant vendor obligations remain and collection
+      of resulting receivables is deemed probable. Maintenance contracts
+      generally require the Company to provide technical support and software
+      updates to customers. Maintenance contract revenue is recognized ratably
+      over the term of the maintenance contract. Training and consulting revenue
+      is recognized as the work is performed. Royalty revenues are earned and
+      recognized in the period reported by the customers or when cash is
+      received.
+
+      DEFERRED REVENUE represents payments received from customers for future
+      services to be performed.
+
+      STOCK-BASED COMPENSATION - The Company accounts for stock-based awards to
+      employees using the intrinsic value method in accordance with APB No. 25,
+      "Accounting for Stock Issued to Employees."
+
+      INCOME TAXES - Deferred tax liabilities and assets are recognized for the
+      expected future tax consequences of temporary differences between
+      financial statement carrying amounts and the tax bases of assets and
+      liabilities and net operating loss and tax credit carryforwards. Deferred
+      tax assets are reduced by a valuation allowance to amounts expected to be
+      realized.
+
+      RECENTLY ISSUED ACCOUNTING STANDARDS - In October 1997, Statement of
+      Position 97-2, Software Revenue Recognition (SOP 97-2) was issued, which
+      revises the accounting for recognizing revenue on software transactions.
+      SOP 97-2 is effective for the Company beginning January 1, 1998.
+      Management believes that the adoption of SOP 97-2 will not have a
+      significant impact on the Company's financial statements.
+
+2.    PROPERTY  AND  EQUIPMENT
+
+      At December 31 property and equipment consist of:
+
+<TABLE>
+<CAPTION>
+                                                  1997             1996
+<S>                                            <C>              <C>      
+      Computer equipment                       $ 681,679        $ 244,210
+      Furniture and fixtures                      72,366           36,282
+      Software                                   203,270           55,420
+                                               ---------        ---------
+
+                                                 957,315          335,912
+      Less accumulated depreciation             (230,081)         (16,997)
+                                               ---------        ---------
+
+      Property and equipment, net              $ 727,234        $ 318,915
+                                               =========        =========
+</TABLE>
+
+3.    NOTE  RECEIVABLE  FROM  OFFICER
+
+      Amount represents the balance of a $135,000 loan to an officer of the
+      Company. The note bears interest at the rate of 7.25% per annum and is
+      secured by a deed of trust encumbering certain real property in favor of
+      the Company. The principal and any unpaid accrued interest is repayable on
+      January 20, 2001.
+
+4.    RESTRICTED  CASH
+
+      Restricted cash consists of a $60,000 certificate of deposit with a bank
+      which is collateral for leasing office space. The lease expires on
+      November 30, 1999, at which time the funds become unrestricted.
+
+
+
+                                      
+<PAGE>   13
+
+5.    FINANCING  ARRANGEMENTS
+
+      At December 31, 1997, the Company had a $500,000 bank line of credit.
+      Borrowings under the line of credit are collateralized by equipment and
+      bear interest at the bank's prime rate (8.5% at December 31, 1997) plus
+      1.0%. The agreement requires the Company to maintain certain financial
+      covenants. The Company was in compliance with the covenants at December
+      31, 1997. There was $379,310 outstanding under the line of credit at
+      December 31, 1997, which is repayable in the amounts of $200,000 in 1998
+      and $179,310 in 1999.
+
+6.    STOCKHOLDERS'  EQUITY
+
+      COMMON STOCK
+
+      The Company issued common stock to officers and directors pursuant to a
+      restricted stock purchase agreement. Under the agreement, one fourth of
+      the shares shall be released from the Company's repurchase option after
+      one year and then one-forty-eighth each month thereafter. In the event
+      that the officers' status as an employee of the Company terminates or in
+      the event the director ceases to serve as a director of the Company at any
+      time during the vesting period for any reason, the Company has the option
+      to repurchase, at the original purchase price, any unvested shares as of
+      the date of termination. During 1997, 975,000 shares were repurchased
+      pursuant to this agreement. In the event of a change in control of the
+      Company and constructive termination, all of the unvested shares will be
+      immediately released from the repurchase option. As of December 31, 1997,
+      4,010,133 shares of common stock issued to officers and directors are
+      subject to this repurchase right.
+
+      In November 1997, the Company also issued 300,000 shares of restricted
+      stock at $.50 per share to consultants for services to be rendered. The
+      consideration received consisted of $300 and a note receivable for
+      $149,700. Payment of the note is secured by a security interest in the
+      shares granted to the Company by the consultants. The note receivable
+      bears interest at 6.24% per annum and is repayable in 2001. The shares are
+      subject to a right of repurchase which lapses as the shares vest over an
+      eighteen month period. As of December 31, 1997, all 300,000 shares of
+      common stock are subject to this repurchase right.
+
+      CONVERTIBLE PREFERRED STOCK
+
+      During 1996, the Board of Directors authorized and designated 1,150,000
+      shares of Series A convertible preferred stock and 2,000,000 shares of
+      Series B convertible preferred stock. In July 1996, the Company sold an
+      aggregate of 1,150,000 shares of Series A convertible preferred stock,
+      resulting in net proceeds of $566,495. In November and December of 1996,
+      the Company sold an aggregate of 1,191,666 shares of Series B convertible
+      preferred stock, resulting in net proceeds of $3,564,238. In June and
+      November of 1997, the Company sold an aggregate of 752,000 shares of
+      Series B convertible preferred stock, resulting in net proceeds of
+      $2,251,334.
+
+      Significant terms of the Series A and B convertible preferred stock are as
+      follows:
+
+         -  Each share is convertible, at the option of the holder, into one
+            share of common stock subject to adjustments for events of dilution
+            and certain other events. Shares will automatically convert upon an
+            underwritten public offering of the Company's common stock yielding
+            proceeds in excess of $10,000,000 at a price of not less than $4.00
+            per share or upon the approval (by vote or written consent) of the
+            holders of a majority of the outstanding shares of the preferred
+            stock.
+
+
+
+                                      
+<PAGE>   14
+
+         -  Holders of preferred stock are entitled to annual noncumulative
+            dividends of $0.04 and $0.24 per share for the Series A and B
+            preferred stock as declared by the Board of Directors before any
+            dividend is declared on common stock.
+
+         -  In the event of liquidation, dissolution or winding up of the
+            Company, the holders of the preferred stock are entitled to receive,
+            prior to and in preference to any distribution to holders of common
+            stock, an amount equal to the price at which the preferred was
+            purchased from the Company plus any declared but unpaid dividends.
+
+         -  Each share has the same voting rights as the number of shares of
+            common stock into which it is convertible. The preferred
+            stockholders, voting as a Series, have the right to elect two out of
+            six members of the Board of Directors.
+
+         -  The preferred stockholders have certain registration rights.
+
+      STOCK OPTION PLAN
+
+      Under the Company's 1996 Employee Stock Option Plan (the Option Plan), the
+      Company may grant options to purchase up to 2,275,000 shares of common
+      stock to employees, directors and consultants at prices not less than the
+      fair market value (as determined by the Board of Directors) at the date of
+      grant for incentive stock options and not less than 85% of fair market
+      value for nonstatutory stock options. These options generally vest over a
+      four-year period and expire no more than ten years from the date of grant.
+
+      A summary of stock option activity is as follows:
+
+
+<TABLE>
+<CAPTION>
+                                                                           WEIGHTED
+                                                                           AVERAGE
+                                                             NUMBER        EXERCISE
+                                                            OF SHARES       PRICE
+<S>                                                        <C>             <C>  
+      Outstanding, June 3, 1996 (inception)                       --       $  --
+
+      Granted (weighted average fair value of $0.04)         808,019        0.16
+      Exercised                                             (390,000)       0.01
+                                                           ---------
+
+      Outstanding, December 31, 1996                         418,019        0.30
+
+      Granted (weighted average fair value of $0.07)       1,395,273        0.44
+      Canceled                                              (262,400)       0.50
+                                                           ---------
+
+      Outstanding, December 31, 1997                       1,550,892       $0.39
+                                                           =========
+</TABLE>
+
+
+
+                                      
+<PAGE>   15
+
+      At December 31, 1997, 344,108 shares were available under the Option Plan
+for future grant.
+
+      Additional information regarding options outstanding as of December 31,
+1997 is as follows:
+
+<TABLE>
+<CAPTION>
+                                       OPTIONS OUTSTANDING           OPTIONS EXERCISABLE
+                                    -------------------------     -------------------------
+                                     WEIGHTED
+                                     AVERAGE        WEIGHTED                       WEIGHTED
+     RANGE OF                        REMAINING      AVERAGE                        AVERAGE
+     EXERCISE          NUMBER       CONTRACTUAL     EXERCISE        NUMBER         EXERCISE
+      PRICES         OUTSTANDING     LIFE (YRS)      PRICE        EXERCISABLE       PRICE
+<S>                  <C>            <C>             <C>           <C>             <C>
+      $0.30             845,292            9.0      $    0.30         92,017      $    0.30
+       0.50             705,600            9.9           0.50             --             --
+   -------------      ---------      ---------      ---------      ---------      ---------
+   $0.30 - $0.50      1,550,892            9.4      $    0.39         92,017      $    0.30
+</TABLE>
+
+      STOCK OPTIONS GRANTED OUTSIDE OF THE STOCK OPTION PLAN
+
+      Options to purchase 390,000 shares of common stock at $0.01 per share were
+      issued to certain Board members in 1996 outside of the 1996 Stock Option
+      Plan and vest over four years from the date of grant. The options are
+      immediately exercisable, but are subject to a right of repurchase by the
+      Company at its original issuance price. The Company's right of repurchase
+      lapses as the options vest. All such options were exercised in 1996.
+
+      In addition, options to purchase 60,000 shares of common stock at $0.30
+      per share were issued to a nonemployee in November 1996 outside of the
+      1996 Stock Option Plan and vest immediately. Compensation expense related
+      to the grant was $5,000 in 1996.
+
+      ADDITIONAL STOCK PLAN INFORMATION
+
+      Effective for 1996, the Company was required to adopt the disclosure
+      requirements of Statement of Financial Accounting Standards No. 123,
+      "Accounting for Stock-Based Compensation" (SFAS 123). SFAS 123 defines a
+      fair value method of accounting for stock-based compensation awards to
+      employees. The Company has elected to continue to follow the provisions of
+      Accounting Principals Board No. 25, "Accounting for Stock Issued to
+      Employees," and its related interpretations; accordingly, no compensation
+      expense has been recognized in the financial statements for employee stock
+      arrangements issued at fair market value.
+
+      SFAS 123 requires that the fair value of stock-based awards to employees
+      be calculated through the use of option pricing models, even though such
+      models were developed to estimate the fair value of freely tradable, fully
+      transferable options without vesting restrictions, which significantly
+      differ from the Company's stock option awards. These models also require
+      subjective assumptions, including future stock price volatility and
+      expected time to exercise, which greatly affect the calculated values. The
+      Company's calculations were made using the Black-Scholes option pricing
+      model with the following weighted average assumptions: expected life, five
+      years; stock volatility 0%; risk free interest rate, approximately 6%; and
+      no dividend payments during the expected term. Forfeitures are recognized
+      as they occur. If the computed fair value of the 1997 and 1996 awards had
+      been amortized to expense over the vesting period of the awards, pro forma
+      net loss would have been approximately $4,215,000 in 1997 and $744,000 in
+      1996.
+
+
+
+                                      
+<PAGE>   16
+
+      STOCK RESERVED FOR ISSUANCE
+
+      At December 31, 1997, the Company had reserved shares of common stock for
+issuance as follows:
+
+
+<TABLE>
+<S>                                                                             <C>      
+        Conversion of preferred stock                                           3,150,000
+        Issuance under stock option plan                                        2,275,000
+        Issuance of stock options granted outside of the stock option plan        450,000
+                                                                                ---------
+        Total                                                                   5,875,000
+                                                                                =========
+</TABLE>
+
+
+7.    FACILITIES  LEASE
+
+      The Company leases its facilities under an operating lease that expires in
+      1999. Rent expense was $118,386 and $27,452 in fiscal 1997 and 1996,
+      respectively. Future minimum lease payments for fiscal years 1998 and 1999
+      are $121,482 and $113,960, respectively.
+
+8.    INCOME  TAXES
+
+      No income taxes were provided in fiscal 1997 and 1996 due to the Company's
+      net losses.
+
+      At December 31, 1997, the Company has combined net operating loss
+      carryforwards of approximately $4,900,000 available to offset future
+      federal and state taxable income. Such federal and state carryforwards
+      expire in 2011 and 2004, respectively.
+
+      Research and development tax credit carryforwards of approximately $11,000
+      and $9,000 are available to offset future federal and California income
+      taxes payable, respectively.
+
+      At December 31, 1997, the net deferred tax assets generated by loss and
+      credit carryforwards and temporary differences of approximately $2,000,000
+      have been fully reserved due to the uncertainty surrounding the
+      realization of such benefits. The valuation reserve increased by
+      approximately $1,300,000 during the year.
+
+      The Tax Reform Act of 1986 and California Conformity Act of 1987 impose
+      substantial restrictions on the utilization of net operating loss and tax
+      credit carryforwards in the event of an "ownership change," as defined by
+      the Internal Revenue Code. Any such ownership change could significantly
+      limit the Company's ability to utilize its tax carryforwards.
+
+9.    RELATED  PARTY  TRANSACTIONS
+
+      During 1996, the Company signed a contract with a related company to
+      develop and license a proprietary computer program. A Director of the
+      Company is an officer of the related company. At December 31, 1996,
+      payments in the amount of $100,000 from the related party were deferred as
+      they related to future services to be performed.
+
+      During 1997, $520,529 in total revenues were recognized for services
+      performed for the related party of which $128,525 is outstanding at
+      December 31, 1997. Also see Note 10 - Significant Customers.
+
+      In January 1997, the Company sold 750,000 shares of its common stock for
+      cash at $0.30 per share to the related party. The Company also granted the
+      related party on option to purchase 750,000 shares of Series B preferred
+      stock at an exercise price of $3.00 per share. The Company recorded an
+      expense of $100,000 in 1997 for the fair value of this option. In June
+      1997, the related party exercised this option in its entirety.
+
+
+
+                                      
+<PAGE>   17
+
+      In addition to the above transactions, the Company has granted the related
+      party the right to participate in certain future offerings of the
+      Company's securities so as to maintain their proportional ownership
+      interest in the Company on a fully diluted basis.
+
+10.   SIGNIFICANT  CUSTOMERS
+
+      Four customers accounted for 43%, 20%, 14% and 12% of revenues in 1997,
+      respectively. Four customers accounted for 44%, 22%, 12% and 11% of
+      accounts receivable at December 31, 1997, respectively.
+
+11.   EMPLOYEE  BENEFIT  PLAN
+
+      The Company has established a 401(k) tax-deferred savings plan. Employees
+      meeting the eligibility requirements, as defined, may contribute specified
+      percentages of their salaries. The Company has not contributed to the plan
+      to date.
+
+12.   SUBSEQUENT  EVENT
+
+      In January 1998, the Company sold 932,500 shares of Series C convertible
+      preferred stock at $5.00 per share for net proceeds of approximately
+      $4,600,000.
+
+
+                                    * * * * *
+
+
+
+                                      
+<PAGE>   18
+JUNGLEE CORP.
+CONDENSED BALANCE SHEET
+JUNE 30, 1998 AND DECEMBER 31, 1997
+- --------------------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+                                                                   June 30, 1998         December 31, 1997  
+                                                                 
+ASSETS                                                              (Unaudited)           
+<S>                                                                <C>                   <C>
+CURRENT ASSETS:
+   Cash and equivalents                                            $ 4,031,060           $1,576,716 
+   Accounts receivable, net                                            440,152              386,068
+   Accounts receivable from related party                              160,975              128,525
+   Other current assets                                                335,069               77,036
+                                                                   -----------           ----------
+               Total current assets                                  4,967,256            2,168,345   
+
+PROPERTY AND EQUIPMENT, net                                          1,001,923              727,234
+
+NOTE RECEIVABLE FROM OFFICER                                           112,785              124,054  
+
+RESTRICTED CASH                                                         60,000               60,000
+
+OTHER ASSETS                                                             7,967                6,605 
+
+                                                                   -----------           ----------              
+TOTAL                                                              $ 6,149,931           $3,086,238   
+                                                                   ===========           ==========
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+CURRENT LIABILITIES:
+   Accounts payable                                                $   465,157             $ 90,949 
+   Convertible unsecured promissory note                             2,004,278                   --
+   Accrued compensation and related benefits                           136,581               93,385
+   Other accrued liabilities                                           486,816              254,439
+   Deferred revenue                                                    120,669              457,692
+   Current portion - line of credit                                    200,000              200,000 
+                                                                   -----------           ----------
+           Total current liabilities                                 3,413,501            1,096,465 
+                                                                   -----------           ----------
+
+LINE OF CREDIT                                                          75,862              179,310     
+
+STOCKHOLDERS' EQUITY:
+Convertible preferred stock, $.001 par value
+    (liquidation preference of $ 11,508,113):
+    Series A: 1,150,000 shares designated, issued and outstanding      566,495              566,495
+    Series B: 2,000,000 shares designated: shares issued and         5,933,752            5,915,572  
+        outstanding: 1998, 1,949,726; 1997, 1,943,666
+    Series C: 2,000,000 shares designated: shares issued and         5,023,616                   --
+        outstanding: 1998, 1,016,787; 1997, none
+Common Stock, $.001 par value: 15,000,000 shares authorized;           745,769              420,610
+         shares outstanding: 1998, 7,419,657; 1997, 6,962,500
+Notes receivable from sale of common Stock                            (149,700)            (149,700)
+Deferred compensation                                                 (277,336)                  --
+Accumulated deficit                                                 (9,182,028)          (4,942,514)   
+                                                                   -----------           ----------
+            Total stockholders' equity                               2,660,568            1,810,463   
+                                                                   -----------           ----------
+TOTAL                                                              $ 6,149,931           $3,086,238       
+                                                                   ===========           ==========
+</TABLE>
+
+
+
+See notes to unaudited condensed financial statements.
+
+<PAGE>   19
+
+JUNGLEE CORP.
+CONDENSED STATEMENTS OF OPERATIONS
+SIX MONTH PERIODS ENDED JUNE 30, 1998 AND 1997
+- --------------------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+                                                   1998                 1997
+                                                (Unaudited)         (Unaudited)
+<S>                                             <C>                 <C>        
+REVENUES:
+    License                                     $   836,827         $   625,000
+    Maintenance and other services                  561,377              53,376
+                                                -----------         -----------
+          Total net revenues                      1,398,204             678,376
+                                                -----------         -----------
+
+OPERATING EXPENSES:
+    Cost of revenues                              1,295,600             322,852
+    Research and development                        993,052           1,167,148
+    Selling and marketing                         2,480,108             549,300
+    General and administration                      944,201             283,924
+                                                -----------         -----------
+
+LOSS FROM OPERATIONS                             (4,314,757)         (1,644,848)
+                                                -----------         -----------
+
+OTHER INCOME (EXPENSE):
+    Interest income                                  98,237              74,060
+    Interest expense                                (20,499)             (9,746)
+    Other expense                                    (2,495)             (1,147)
+                                                -----------         -----------
+           Total other income - net                  75,243              63,167
+                                                -----------         -----------
+
+NET LOSS                                        $(4,239,514)        $(1,581,681)
+                                                ===========         ===========
+</TABLE>
+
+
+
+See notes to unaudited condensed financial statements.
+
+<PAGE>   20
+
+JUNGLEE CORP.
+CONDENSED STATEMENTS OF CASHFLOWS
+SIX MONTH PERIODS ENDED JUNE 30, 1998 AND 1997
+- --------------------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+                                                                  1998               1997
+                                                               (UNAUDITED)       (UNAUDITED)
+<S>                                                            <C>               <C>         
+CASH FLOWS FROM OPERATING ACTIVITIES
+Net Loss                                                       $(4,239,514)      $(1,581,681)
+Reconciliation of net loss to net cash used in
+operating activities:
+  Depreciation                                                     184,311            59,998
+  Compensation expense related to grant of options                  25,164                --
+  Changes in operating assets and liabilities:
+     Accounts receivable                                           (54,084)         (203,500)
+     Accounts receivable from related party
+            and other current assets                              (290,483)         (126,552)
+     Accounts payable                                              374,208           204,254
+     Accrued compensation and other accrued liabilities            275,573           100,102
+     Deferred revenue                                             (337,023)         (153,876)
+                                                               ------------      ------------
+        Net cash used in operations activities                  (4,061,848)       (1,701,255)
+                                                               -----------       ------------
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+  Purchases of property and equipment                             (459,000)         (298,446)
+  Proceeds from maturity of short-term investments                      --           486,651
+  Other assets                                                       9,907          (201,452)
+                                                               -----------       ------------
+       Net cash used in investing activities                      (449,093)          (13,247)
+                                                               -----------       ------------
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+  Proceeds from convertible promissory note                      2,004,278                --
+  Proceeds from borrowings                                              --           416,124
+  Repayment of borrowings                                         (103,448)               --
+  Sale of Series B preferred stock, net of issuance costs           18,180         2,246,801
+  Sale of Series C preferred stock, net of issuance costs        5,023,616                --
+  Sale of common stock                                              22,659           225,000
+                                                               -----------       -----------
+        Net cash provided by financing activities                6,965,285         2,887,925
+                                                               -----------       -----------
+
+NET INCREASE IN CASH AND CASH EQUIVALENTS                        2,454,344         1,173,423
+
+CASH AND EQUIVALENTS, Beginning of period                        1,576,716         2,415,200
+
+                                                               ------------      ------------
+CASH AND EQUIVALENTS, End of period                            $ 4,031,060       $ 3,588,623
+                                                               ===========       ============
+</TABLE>
+
+
+
+See notes to unaudited condensed financial statements.
+<PAGE>   21
+JUNGLEE CORP.
+
+NOTES TO CONDENSED FINANCIAL STATEMENTS
+SIX MONTH PERIODS ENDED JUNE 30, 1998 AND 1997 (unaudited)
+- --------------------------------------------------------------------------------
+
+
+1.       BASIS OF PRESENTATION:
+
+         The accompanying unaudited condensed financial statements have been
+         prepared in accordance with generally accepted accounting principles
+         for interim financial information and with the instructions to Form 8-K
+         and Article 10 of Regulation S-X. Accordingly, they do not include all
+         of the information and notes required by generally accepted accounting
+         principles for complete financial statements. In the opinion of
+         management, all adjustments (consisting only of normal recurring
+         accruals) considered necessary for a fair presentation have been
+         included. Operating results for the six month period ended June 30,
+         1998 are not necessarily indicative of the results that may be expected
+         for the year ending December 31, 1998. For further information, refer
+         to the consolidated financial statements for the year ended December
+         31, 1997 and the period from June 3, 1996 (inception) to December 31,
+         1996 and notes thereto included herein.
+
+
+2.       CONVERTIBLE UNSECURED PROMISSORY NOTE:
+
+         In June 1998, Junglee Corp. (the "Company") issued a convertible
+         unsecured promissory note to a significant stockholder of the Company,
+         in a principal amount of $2,000,000 bearing interest at the rate of
+         5.5% per annum, due in June 1999 (the "Note"). All principal and
+         accrued interest under the Note is convertible at the option of the
+         stockholder into shares of Conversion Stock at the price of the
+         Conversion Stock. "Conversion Stock" is defined in the Note as the
+         Company's most senior preferred stock purchased as part of the
+         Qualified Financing, and if more than one series of preferred stock
+         purchased as part of the Qualified Financing shares such seniority,
+         then the particular series of preferred stock with the highest gross
+         proceeds to the Company shall be the Conversion Stock. "Qualified
+         Financing" is defined in the Note as the Company's sale, from and after
+         the date of the Note, of preferred stock for cash capital and/or
+         retirement of debt securities in one transaction or a series of related
+         transactions.
+
+
+3.       STOCKHOLDERS' EQUITY:
+
+         During the first six months of 1998, the Company sold 1,016,787 shares
+         of Series C convertible preferred stock at $5.00 per share for net
+         proceeds of approximately $5,024,000 and increased the number of
+         authorized shares of common stock to 15,000,000.
+
+         In May 1998, the Company adopted the 1998 Equity Incentive Plan (the
+         "Incentive Plan").  Pursuant to the Incentive Plan, the Company is
+         authorized to grant options to purchase up to 2,700,000 shares of 
+         common stock to employees, directors and consultants under terms 
+         substantially consistent with the Company's 1996 Employee Stock Option 
+         Plan. 
+
+4.       SUBSEQUENT EVENT
+
+         On August 12, 1998, pursuant to an Agreement and Plan of Merger dated
+         as of August 3, 1998, by and among Amazon.com, Inc., a Delaware 
+         corporation ("Amazon.com"), the Company, a Delaware corporation, and AJ
+         Acquisition, Inc., a Delaware corporation and wholly owned subsidiary 
+         of Amazon.com ("Junglee Merger Sub"), Amazon.com acquired all of the 
+         outstanding capital stock of the Company and Junglee Merger Sub merged
+         with and into the Company, with the Company as the surviving 
+         corporation.
+
+         Amazon.com will issue approximately 1,600,000 shares of Amazon.com
+         common stock, par value $.01 per share, and assume all outstanding 
+         options in connection with the acquisition of the Company.
+<PAGE>   22
+
+                                    SIGNATURES
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+                                        AMAZON.COM, INC.
+                                        (Registrant)
+
+
+Dated:  August 27, 1998                 By: /s/ JOY D. COVEY
+                                           -----------------------------------
+                                           Joy D. Covey
+                                           Chief Financial Officer, Vice 
+                                           President of Finance and 
+                                           Administration and Secretary
+
+
+
+<PAGE>   23
+
+                                  EXHIBIT INDEX
+
+<TABLE>
+<CAPTION>
+Exhibit Number           Description
+- --------------           -----------
+<S>                      <C>
+          2.1            Agreement and Plan of Merger dated as of August 3 1998, by and among
+                         Amazon.com, Inc., AJ Acquisition, Inc. and Junglee Corp. (incorporated
+                         by reference from Amazon.com, Inc.'s Current Report on Form 8-K dated
+                         August 3, 1998).
+
+         23.1            Independent Auditors' Consent
+
+         99.1            Form of Investor Rights Agreement by and between Amazon.com, Inc.
+                         and certain stockholders of Junglee Corp. named therein
+                         (incorporated by reference from Amazon.com, Inc.'s Current Report on
+                         Form 8-K dated August 3, 1998).
+</TABLE>
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23.1
+<SEQUENCE>2
+<DESCRIPTION>INDEPENDENT AUDITORS' CONSENT
+<TEXT>
+
+<PAGE>   1
+                                                                    EXHIBIT 23.1
+
+
+
+INDEPENDENT AUDITORS' CONSENT
+
+We consent to the incorporation by reference in Registration Statement No.
+333-28763 on Form S-8 and Nos. 333-56723 and 333-55943 on Form S-4 of
+Amazon.com, Inc. of our report dated February 6, 1998, on the financial
+statements of Junglee Corp. as of December 31, 1997 and 1996 and for the year
+ended December 31, 1997 and for the period from June 3, 1996 (inception) to
+December 31, 1996, which report is included in this Current Report on Form 8-K.
+
+
+Deloitte & Touche LLP
+
+
+
+San Jose, California
+August 24, 1998
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

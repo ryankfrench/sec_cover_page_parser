@@ -1,0 +1,90 @@
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>e18506_8k.txt
+<DESCRIPTION>FORM 8-K
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                   ----------
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+                     Pursuant to Section 13 or 15(d) of the
+                         Securities Exchange Act of 1934
+
+         Date of Report (Date of earliest event reported): July 22, 2004
+
+                             SEARS, ROEBUCK AND CO.
+               (Exact name of registrant as specified in charter)
+
+                                    New York
+                 (State or Other Jurisdiction of Incorporation)
+
+          1-416                                        36-1750680
+ (Commission File Number)                   (IRS Employer Identification No.)
+
+           3333 Beverly Road                             60179
+       Hoffman Estates, Illinois                       (Zip code)
+(Address of principal executive offices)
+
+       Registrant's telephone number, including area code: (847) 286-2500
+
+  (Former name or former address, if changed since last report): Not Applicable
+<PAGE>
+
+Item 7. Financial Statements and Exhibits.
+
+      (c)   Exhibits
+
+            Exhibit 99 - Press release dated July 22, 2004, furnished
+            pursuant to Item 12
+
+Item 12. Results of Operations and Financial Condition.
+
+            On July 22, 2004, the Registrant issued a press release announcing
+            its second quarter 2004 earnings. The press release is attached
+            hereto as Exhibit 99.
+
+The information in this Form 8-K and the exhibit attached hereto shall not be
+deemed to be "filed" for purposes of Section 18 of the Securities Act of 1934,
+as amended, but shall be deemed to be incorporated by reference in, and made a
+part of, the following registration statements filed under the Securities Act of
+1933, as amended: Registration Statements No. 2-80037, 33-18081, 33-23793,
+33-41485, 33-45479, 33-55825, 33-58851, 33-64345, 33-64775, 333-08141,
+333-18591, 333-38131, 333-43309, 333-52056, 333-72514, 333-87942, 333-92082,
+333-102114 and 333-113532.
+
+
+                                        2
+<PAGE>
+
+                                   SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                                             SEARS, ROEBUCK AND CO.
+
+                                             By:   /s/ Michael J. Graham
+                                                   -----------------------------
+                                                   Michael J. Graham
+                                                   Vice President and Controller
+Date: July 22, 2004
+
+
+                                        3
+<PAGE>
+
+                                  EXHIBIT INDEX
+
+Exhibit No.
+
+   99          Press release dated July 22, 2004
+
+</TEXT>
+</DOCUMENT>

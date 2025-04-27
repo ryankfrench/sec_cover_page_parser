@@ -1,0 +1,278 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ NMF6xG2BOoXBf698kSgL7ptvlY1hhbv1FI1scmv+ER8V6CB1uGsJVoiRgyTaq1An
+ IvoWOZPHfi9P72NarbvNKg==
+
+<SEC-DOCUMENT>0000891618-95-000727.txt : 19951208
+<SEC-HEADER>0000891618-95-000727.hdr.sgml : 19951208
+ACCESSION NUMBER:		0000891618-95-000727
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19950929
+ITEM INFORMATION:		Acquisition or disposition of assets
+ITEM INFORMATION:		Financial statements and exhibits
+FILED AS OF DATE:		19951206
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CISCO SYSTEMS INC
+		CENTRAL INDEX KEY:			0000858877
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER PERIPHERAL EQUIPMENT, NEC [3577]
+		IRS NUMBER:				770059951
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0731
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-18225
+		FILM NUMBER:		95599551
+
+	BUSINESS ADDRESS:	
+		STREET 1:		170 W TASMAN DR
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95134
+		BUSINESS PHONE:		4085264000
+
+	MAIL ADDRESS:	
+		STREET 1:		170 WEST TASMAN DRIVE
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95134-1706
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 8-K - DATED OF REPORT SEPTEMBER 29, 1995
+<TEXT>
+
+<PAGE>   1
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+
+                     PURSUANT TO SECTION 13 OR 15(d) OF THE
+
+                         SECURITIES EXCHANGE ACT OF 1934
+
+DATE OF REPORT (DATE OF EARLIEST EVENT REPORTED):   SEPTEMBER 29, 1995
+
+                               CISCO SYSTEMS, INC.
+
+               (Exact name of registrant as specified in charter)
+
+         California                 0-18225                      77-0059951
+(State or other jurisdiction      (Commission                  (IRS Employer
+   of incorporation)              File Number)               Identification No.)
+
+170 West Tasman Drive, San Jose, California                         95134
+(Address of principal executive offices)                          (Zip Code)
+
+Company's telephone number, including area code:   (408) 526-4000
+
+         (Former name or former address, if changed since last report.)
+<PAGE>   2
+ITEM  2.         ACQUISITION OR DISPOSITION OF ASSETS.
+
+                 (a) On September 29, 1995, the Registrant acquired Combinet,
+Inc., a California corporation ("Combinet"), by the statutory merger (the
+"Merger") of a wholly-owned subsidiary of the Registrant, Mathilda Acquisition
+Corporation, a California corporation ("Sub"), with and into Combinet. The
+Merger was accomplished pursuant to the Agreement and Plan of Reorganization
+dated as of August 9, 1995, among the Registrant, Combinet and Sub, and a
+related Agreement of Merger (collectively, "Merger Agreements"). The Merger of
+Sub with and into Combinet occurred following the approval by written consent of
+the Merger Agreements by the shareholders of Combinet and satisfaction of
+certain other closing conditions. As a result of the Merger, the Registrant
+became the owner of 100% of the issued and outstanding common stock of Combinet
+and each outstanding share of Combinet Common stock (after conversion of
+Combinet's Preferred Stock into Combinet Common Stock) was converted into
+ .1380976 of a share of the Registrant's Common Stock. The terms of the Merger
+Agreements were the result of arm's-length negotiations among the parties.
+
+                           A total of approximately 2,000,000 shares of the 
+Registrant's Common Stock will be issued to former Combinet shareholders,
+optionholders and warrantholders in exchange for the acquisition by Sub of all
+outstanding Combinet capital stock and all unexpired and unexercised options to
+acquire Combinet capital stock. The shares issued to Combinet shareholders were
+issued pursuant to the exemption from the registration requirements of the
+Securities Act of 1933 provided by Section 3(a)(10) thereof. Combinet stock
+options to purchase Combinet Common Stock were assumed by the Registrant and
+remain outstanding as options to purchase shares of the Registrant's Common
+Stock.
+
+                 (b) Combinet sells several professional office products that
+provide small offices and residential users with easy access to remotely located
+information using telephone lines based on ISDN technology. ISDN is an advanced
+telecommunication service capable of moving information much faster than
+standard telephone service. The Registrant intends to continue such business.
+
+                                       2.
+<PAGE>   3
+ITEM 7.  FINANCIAL STATEMENTS, PRO FORMA FINANCIAL INFORMATION AND EXHIBITS.
+
+         (a)      Financial Statements of Businesses Acquired. Not applicable.
+
+         (b)      Pro Forma Financial Information. Not applicable.
+
+         (c)      Exhibits:
+
+         Exhibit 
+         Number
+
+         20.1     Press Releases of the Registrant dated August 10, 1995 and
+                  October 2, 1995.
+
+
+
+
+                                       3.
+<PAGE>   4
+                                   SIGNATURES
+
+                 Pursuant to the requirements of the Securities Exchange Act of
+1934, the Registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized.
+
+                                                 CISCO SYSTEMS, INC.
+
+Dated:  November 28, 1995                        By: /s/ Larry R. Carter
+                                                     -----------------------
+                                                     Larry R. Carter,
+                                                     Chief Financial Officer
+                                                     and Secretary
+
+                                       4.
+<PAGE>   5
+                                  EXHIBIT INDEX
+
+                             DESCRIPTION OF DOCUMENT
+
+Exhibit
+Number
+- ------
+
+20.1             Press Releases of the Registrant dated August 10, 1995
+                 and October 2, 1995  . . . . . . . . . . . . . . . . . . . . .
+
+
+
+
+
+
+                                       5.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-20.1
+<SEQUENCE>2
+<DESCRIPTION>PRESS RELEASES
+<TEXT>
+
+<PAGE>   1
+                                  EXHIBIT 20.1
+
+                                 PRESS RELEASES
+<PAGE>   2
+CISCO SYSTEMS TO ACQUIRE COMBINET INC.
+
+     San Jose, CA (August 10, 1995) -- Cisco Systems Inc. today announced an
+agreement to purchase Combinet Inc., a leading maker of ISDN remote-access
+networking products. The acquisition will broaden Cisco's offerings for small
+office and residential users, particularly in the fast-growing area of
+telecommuting.
+
+     Cisco will acquire the privately held Combinet in a stock swap in which two
+million shares of Cisco stock will be exchanged for all outstanding shares and
+options of Combinet. The transaction will be accounted for as a pooling of
+interests. The closing price of Cisco common stock on Aug. 9 was $57.125 per
+share giving the transaction as indicated value of $114.2 million. The
+transaction is expected to be completed by the end of September, and is subject
+to various conditions, including clearance under the Hart-Scott-Rodino Antitrust
+Act. Combinet's management, employees and product line will be incorporated into
+Cisco's Access Business Unit, headed by Vice President and General Manager Don
+Listwin.
+
+     Cisco's intention in acquiring Combinet is to broaden the solutions Cisco
+offers for telecommuting; strengthen its expertise in Integrated Services
+Digital Network (ISDN) technology; extend its product offerings for remote ISDN
+access; and leverage Combinet's distributors and resellers.
+
+     "The Combinet products round out Cisco's product line for remote-access
+applications and ISDN," Listwin said. Tom Williams, President and CEO of
+Combinet, said, "With remote users increasingly demanding robust solutions for
+connection to corporate enterprise networks and the Internet, the combination of
+Cisco and Combinet will establish a new standard in remote LAN access."
+
+     Combinet sells several professional-office products which provide small
+offices and residential users with easy access to remotely located information
+using telephone lines based on ISDN technology, ISDN is an 
+<PAGE>   3
+advanced telecommunication service capable of moving information much faster 
+than standard telephone service. Use of ISDN services is growing rapidly 
+worldwide, and Combinet products are approved for use in more than 20 
+countries. Both Cisco and Combinet have alliance relationships with telephone 
+companies who are in the forefront of providing ISDN service.
+        Combinet platforms and functions will interoperate and integrate within 
+the functions of the Cisco Internetwork Operating System (Cisco IOS(TM)) 
+software, allowing use throughout the enterprise. This will extend Cisco's 
+broad line of solutions for customers who want to use ISDN for wide-area 
+connectivity -- from high-performance multiprotocol routers for corporate 
+headquarters, to simple, low-cost access devices for small offices and homes.
+        Cisco currently offers ISDN connectivity on a variety of products 
+targeted at headquarters sites, departments and branch offices, including the 
+Cisco 7000, Cisco 4000, Cisco 2500 and Cisco 1000 series of routers. The 
+Combinet acquisition will enhance these offerings by adding a line of products 
+with price points and feature sets appropriate to small offices and home users.
+        Combinet, founded in 1988, employs 100 persons, most of them at the 
+company's headquarters in Sunnyvale, CA. Information about Combinet and its 
+products are available at World Wide Web site http://www.combinet.com.
+        Cisco Systems is the leading global supplier of enterprise networks, 
+including routers, LAN and ATM switches, dial-up access servers and network 
+management software. These products, integrated by the Cisco IOS(TM) software, 
+link geographically dispersed LANs, WANs and IBM networks. Cisco news and 
+product/service information are available at World Wide Web site 
+http://www.cisco.com. Cisco is headquartered in San Jose, CA. Its stock is 
+traded in the United States on NASDAQ under the symbol CSCO.
+<PAGE>   4
+
+
+        SAN JOSE, Calif.--(BUSINESS WIRE) via First!--Cisco Systems Inc. 
+(NASDAQ:CSCO) Monday announced the completion of its agreement to purchase 
+Combinet, Inc., a leading maker of ISDN remote-access networking products.
+
+        The acquisition follows an agreement signed Aug. 10, 1995, under which 
+Cisco agreed to acquire all outstanding stock and assume all outstanding 
+employee stock options and warrants of Combinet. The acquisition is already 
+broadening Cisco's offerings for small office and residential users, 
+particularly in the fast-growing area of telecommuting. Combinet's management, 
+employees and product line are now part of Cisco's Access Business Unit, headed 
+by Vice President and General Manager Don Listwin.
+
+        Combinet, founded in 1988, employs 100 persons at its headquarters in 
+Sunnyvale, Calif. Information about Combinet and its products are available at 
+World Wide Web site http://www.combinet.com.
+
+        Cisco Systems is the leading global supplier of enterprise networks, 
+including routers, LAN and ATM switches, dial-up access servers and network 
+management software. These products, integrated by the Cisco IOS software, link 
+geographically dispersed LANs, WANs and IBM networks.
+
+        Cisco news and product/service information are available at World Wide 
+Web site http://www.cisco.com. Cisco is headquartered in San Jose, Calif.
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

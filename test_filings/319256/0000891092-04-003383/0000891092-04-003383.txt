@@ -1,0 +1,791 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ P55d5X9QO58PI50Wfpn5St/L9+JdTRr/nXHEyKGXOQGggWaMmGsXFuwC3FWtAPp1
+ u0KmWHPzUEEihDwsFsP1wg==
+
+<SEC-DOCUMENT>0000891092-04-003383.txt : 20040722
+<SEC-HEADER>0000891092-04-003383.hdr.sgml : 20040722
+<ACCEPTANCE-DATETIME>20040722084507
+ACCESSION NUMBER:		0000891092-04-003383
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20040722
+ITEM INFORMATION:		
+ITEM INFORMATION:		Financial statements and exhibits
+FILED AS OF DATE:		20040722
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SEARS ROEBUCK & CO
+		CENTRAL INDEX KEY:			0000319256
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-DEPARTMENT STORES [5311]
+		IRS NUMBER:				361750680
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0103
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-00416
+		FILM NUMBER:		04925561
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3333 BEVERLY RD B-5 317A
+		CITY:			HOFFMAN ESTATES
+		STATE:			IL
+		ZIP:			60179
+		BUSINESS PHONE:		8472862500
+
+	MAIL ADDRESS:	
+		STREET 1:		3333 BEVERLY RD B-5 317A
+		CITY:			HOFFMAN ESTATES
+		STATE:			IL
+		ZIP:			60179
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>e18506_8k.txt
+<DESCRIPTION>FORM 8-K
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                   ----------
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+                     Pursuant to Section 13 or 15(d) of the
+                         Securities Exchange Act of 1934
+
+         Date of Report (Date of earliest event reported): July 22, 2004
+
+                             SEARS, ROEBUCK AND CO.
+               (Exact name of registrant as specified in charter)
+
+                                    New York
+                 (State or Other Jurisdiction of Incorporation)
+
+          1-416                                        36-1750680
+ (Commission File Number)                   (IRS Employer Identification No.)
+
+           3333 Beverly Road                             60179
+       Hoffman Estates, Illinois                       (Zip code)
+(Address of principal executive offices)
+
+       Registrant's telephone number, including area code: (847) 286-2500
+
+  (Former name or former address, if changed since last report): Not Applicable
+<PAGE>
+
+Item 7. Financial Statements and Exhibits.
+
+      (c)   Exhibits
+
+            Exhibit 99 - Press release dated July 22, 2004, furnished
+            pursuant to Item 12
+
+Item 12. Results of Operations and Financial Condition.
+
+            On July 22, 2004, the Registrant issued a press release announcing
+            its second quarter 2004 earnings. The press release is attached
+            hereto as Exhibit 99.
+
+The information in this Form 8-K and the exhibit attached hereto shall not be
+deemed to be "filed" for purposes of Section 18 of the Securities Act of 1934,
+as amended, but shall be deemed to be incorporated by reference in, and made a
+part of, the following registration statements filed under the Securities Act of
+1933, as amended: Registration Statements No. 2-80037, 33-18081, 33-23793,
+33-41485, 33-45479, 33-55825, 33-58851, 33-64345, 33-64775, 333-08141,
+333-18591, 333-38131, 333-43309, 333-52056, 333-72514, 333-87942, 333-92082,
+333-102114 and 333-113532.
+
+
+                                        2
+<PAGE>
+
+                                   SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                                             SEARS, ROEBUCK AND CO.
+
+                                             By:   /s/ Michael J. Graham
+                                                   -----------------------------
+                                                   Michael J. Graham
+                                                   Vice President and Controller
+Date: July 22, 2004
+
+
+                                        3
+<PAGE>
+
+                                  EXHIBIT INDEX
+
+Exhibit No.
+
+   99          Press release dated July 22, 2004
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>e18506ex_99.txt
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+
+                                                                      Exhibit 99
+
+                  Sears Reports Second Quarter 2004 Results
+
+    HOFFMAN ESTATES, Ill., July 22 /PRNewswire-FirstCall/ -- Sears, Roebuck
+and Co. (NYSE: S) today reported net income of $53 million, or $0.24 per share
+on an average base of 216.5 million common equivalent shares, for the second
+quarter ended July 3, 2004, compared with net income of $309 million, or $1.04
+per share on an average base of 298.0 million common equivalent shares in the
+second quarter of 2003.  The prior year results include the results of the
+domestic Credit and Financial Products and National Tire & Battery (NTB)
+businesses divested in the fourth quarter of 2003.
+
+    "Like much of the industry, we experienced weak demand in June," said
+Chairman and CEO Alan J. Lacy.  "That, combined with the overhang of our
+spring apparel assortment and inventory issues, resulted in a disappointing
+quarter."
+
+    Sears' second quarter 2004 earnings included two pretax charges, including
+$41 million, or $0.12 per share, for severance costs associated with the
+restructuring of the company's home office organization and field initiatives
+to gain efficiency, primarily in back office operations.  The second charge of
+$39 million, or $0.12 per share, was for additional depreciation expense due
+to shortening the estimated remaining useful lives for the assets sold to
+Computer Sciences Corporation under the previously announced purchased
+services arrangement.
+
+    In the second quarter of 2003, Sears recorded a pretax charge of $28
+million, or $0.06 per share, for severance costs associated with productivity
+improvement initiatives.
+
+    Domestic
+
+    The Domestic segment, which includes all domestic retail formats as well
+as the company's corporate functions, reported operating income of $42 million
+for the second quarter of 2004, compared with operating income of $466 million
+in the second quarter of 2003.  The prior year results included operating
+income of $358 million and $6 million, respectively, from the divested
+domestic Credit and Financial Products and NTB businesses.
+
+    Merchandise sales and services revenues for the 2004 second quarter were
+$7.7 billion, compared with $7.9 billion in the prior year period.  Prior year
+revenues include $106 million attributable to NTB.  Strong showings in certain
+key product areas and approximately $38 million earned under the company's
+long-term alliance with Citigroup, were more than offset by sales declines in
+most apparel categories, as well as air conditioning.  Overall, domestic
+comparable store sales decreased 2.9 percent in the second quarter of 2004.
+
+    "We were encouraged by the performance of several businesses during the
+quarter, ranging from lawn mowers and patio furniture in our Lawn & Garden
+business, to projection televisions and digital cameras in our Consumer
+Electronics business," Lacy said.  "We are also pleased with early customer
+response in the merchandise categories that are being reset, such as Home
+Fashions and Kids.  In addition, the overall performance of our off-mall
+formats was positive, including The Great Indoors, Hardware and Dealer
+stores."
+
+    The gross margin rate for the quarter increased to 27.9 percent in the
+current year from 27.5 percent in the prior year primarily due to the income
+from revenues earned under the long-term alliance with Citigroup.
+
+    Selling and administrative expenses for the second quarter were $1.8
+billion, which included a $21 million pretax charge for establishment of
+additional insurance reserves resulting from the financial difficulties being
+experienced by one of Sears' third party insurance providers.  The prior year
+selling and administrative expenses of $2.0 billion included approximately
+$243 million related to divested businesses.
+
+    Interest of $41 million for the second quarter included $19 million
+attributable to interest related to the legacy debt of the former Credit and
+Financial Products business.
+
+    Other income of $31 million for the second quarter included $18 million
+related to proceeds received in connection with the gain upon the disposition
+of the company's remaining interest in the Sears Tower.
+
+    Sears Canada
+
+    Sears Canada reported operating income of $11 million for the second
+quarter of 2004, compared with operating income of $23 million in the second
+quarter of 2003.
+
+    Revenues for the second quarter increased 4.6 percent to $1.1 billion due
+primarily to the effects of foreign exchange.
+
+    The gross margin rate declined to 27.4 percent in the current year quarter
+from 28.7 percent in the prior year, primarily due to a change in sales mix
+weighted more heavily toward lower margin products, including home appliances
+and furniture.
+
+    Selling and administrative expenses as a percentage of revenues increased
+to 26.0 percent in the current year quarter from 25.3 percent in the prior
+year, primarily due to increased employee-related costs.
+
+    Significant Developments
+
+    As previously announced, the company has entered into an agreement to
+acquire ownership or leasehold interest in up to 61 off-mall stores from Kmart
+and Wal-Mart for approximately $620 million in cash.  Most of the new stores
+will be converted to a new mid-size format based on the new Sears Grand
+format.
+
+    Financial Position
+
+    As a result of the sale of the domestic Credit and Financial Products
+business in November 2003 and related liability management actions, the
+company's domestic term debt position has been reduced to $2.9 billion as of
+the end of the current fiscal year quarter, down from $23.9 billion at the
+prior year quarter end and $5.3 billion at year end.  The company retired $600
+million of domestic term debt in the second quarter of 2004 and expects to
+retire an additional $200 million by year-end 2004.
+
+    Outlook
+
+    The company anticipates third quarter earnings per share to be between
+$0.00 and  $0.10, including $0.03 to $0.05 per share of negative carrying cost
+on the company's remaining legacy debt.  The outlook assumes third quarter
+domestic comparable store sales to be down low single-digits.  For the year,
+the company now expects earnings per share, before the cumulative effect of
+change in accounting principle, but including $0.24 per share related to the
+second quarter special charges and additional depreciation, to be between
+$2.66 and $2.86, reflecting the year-to-date results and a reduced revenue
+outlook based upon first-half trends.  This full-year outlook includes the
+negative carrying cost of approximately $0.20 to $0.25 per share on the
+company's remaining legacy debt related to its former Credit and Financial
+Products business.
+
+    Forward-Looking Statements
+
+    This release contains guidance on third quarter and full-year 2004
+revenues, gross margins and earnings per share and our expectations regarding
+additional debt retirement. These statements are forward-looking statements
+based on assumptions about the future that are subject to risks and
+uncertainties, and actual results may differ materially from the results
+projected in the forward looking statements.  Risks and uncertainties that may
+cause actual results to differ materially include competitive conditions in
+retail and related services industries; changes in consumer confidence and
+spending; the successful execution of, and customer reactions to, the
+company's strategic initiatives, including the full-line store strategy and
+the proposed acquisition, conversion and integration of the Kmart and Wal-Mart
+stores and other new store locations; the possibility that the company will
+identify new business and strategic options for one or more of its business
+segments, potentially including selective acquisitions, dispositions,
+restructurings, joint ventures and partnerships; the outcome of pending legal
+proceedings; anticipated cash flow; social and political conditions such as
+war, political unrest and terrorism or natural disasters; the possibility of
+negative investment returns in the company's pension plan; changes in interest
+rates; volatility in financial markets; changes in the company's debt ratings,
+credit spreads and cost of funds; the possibility of interruptions in
+systematically accessing the public debt markets; general economic conditions
+and normal business uncertainty.  In addition, Sears typically earns a
+disproportionate share of its operating income in the fourth quarter due to
+seasonal buying patterns, which are difficult to forecast with certainty.  The
+company intends these forward-looking statements to speak only as of the time
+of this release and does not undertake to update or revise them as more
+information becomes available.
+
+    Webcast
+
+    Sears will webcast its second quarter earnings conference call at 10:30
+a.m. EDT/9:30 a.m. CDT today. Investors and the media are invited to listen
+to the call through the company's website at http://www.sears.com/investors,
+under "Presentations & Audio Archives," or go directly to
+http://phx.corporate-ir.net/phoenix.zhtml?p=irol-
+eventDetails&c=63737&eventID=919413. Software necessary to listen to the
+webcast (Windows Media or Real Player) can be downloaded from the webcast
+site. Downloading the software may take up to 22 minutes with a 56k modem. A
+telephone replay of the call will be available beginning at approximately
+12:30 p.m. EDT/11:30 a.m. CDT today. The replay number is 1-866-499-4546,
+access code: 7072.  A replay of the conference call will also be available on
+the company's website at http://www.sears.com/investors, under "Presentations
+& Audio Archives," or go directly to
+http://phx.corporate-ir.net/phoenix.zhtml?
+           p=irol-eventDetails&c=63737&eventID=919413.
+
+    About Sears
+
+    Sears, Roebuck and Co. is a leading broadline retailer providing
+merchandise and related services. With revenues in 2003 of $41.1 billion, the
+company offers its wide range of home merchandise, apparel and automotive
+products and services through more than 2,300 Sears-branded and affiliated
+stores in the U.S. and Canada, which includes approximately 870 full-line and
+1,100 specialty stores in the U.S. Sears also offers a variety of merchandise
+and services through sears.com, landsend.com and specialty catalogs.  Sears is
+the only retailer where consumers can find each of the Kenmore, Craftsman,
+DieHard and Lands' End brands together - among the most trusted and preferred
+brands in the U.S. The company is the largest provider of product repair
+services with more than 14 million service calls made annually.
+
+
+    SEARS, ROEBUCK AND CO.
+    CONSOLIDATED INCOME
+
+                                          For the 13         For the 26
+                                          Weeks Ended        Weeks Ended
+                                        July 3, 2004 and   July 3, 2004 and
+                                         June 28, 2003      June 28, 2003
+    (millions, except earnings per
+     common share)                       2004     2003      2004      2003
+
+    REVENUES
+     Merchandise sales and services     $8,700  $ 8,851   $16,403   $16,325
+     Credit and financial products
+      revenues                              81    1,345       172     2,751
+              Total revenues             8,781   10,196    16,575    19,076
+
+    COSTS AND EXPENSES
+     Cost of sales, buying and
+      occupancy                          6,282    6,402    11,903    11,876
+     Selling and administrative          2,064    2,299     3,958     4,409
+     Provision for uncollectible
+      accounts                              11      461        27       944
+     Depreciation and amortization         262      230       490       455
+     Interest, net                          68      287       144       566
+     Special charges and impairments        41       28        41        28
+              Total costs and expenses   8,728    9,707    16,563    18,278
+
+    Operating income                        53      489        12       798
+    Other income, net                       36       13        52        14
+
+    Income before income taxes, minority
+     interest and cumulative effect of
+     change in accounting principle         89      502        64       812
+
+    Income tax expense                     (32)    (186)      (23)     (301)
+
+    Minority interest                       (4)      (7)       (8)      (10)
+
+    Income before cumulative effect of
+     change in accounting principle         53      309        33       501
+
+    Cumulative effect of change in
+     accounting principle                    -        -      (839)        -
+
+    NET INCOME/ (LOSS)                   $  53   $  309   $  (806)  $   501
+
+    EARNINGS/ (LOSS) PER COMMON SHARE
+
+    Basic
+      Earnings per share before
+       cumulative effect of change in
+       accounting principle             $ 0.25   $ 1.04   $  0.15   $  1.63
+
+      Cumulative effect of change in
+       accounting principle             $    -   $    -   $ (3.86)  $     -
+
+      Earnings/ (loss) per share        $ 0.25   $ 1.04   $ (3.71)  $  1.63
+
+    Diluted
+      Earnings per share before
+       cumulative effect of change in
+       accounting principle             $ 0.24   $ 1.04   $  0.15   $  1.63
+
+      Cumulative effect of change in
+       accounting principle             $    -   $    -   $ (3.86)  $     -
+
+      Earnings/ (loss) per share        $ 0.24   $ 1.04   $ (3.71)  $  1.63
+
+    Average common equivalent shares
+     outstanding                         216.5    298.0     217.1     307.9
+
+
+    SEARS, ROEBUCK AND CO.
+    CONSOLIDATED BALANCE SHEET
+
+        (millions)
+                                            July 3,   June 28,  January 3,
+                                             2004       2003       2004
+    Assets
+      Current assets
+        Cash and cash equivalents          $ 3,559    $ 2,921    $ 9,057
+        Domestic credit card receivables         -     29,465          -
+        Sears Canada credit card
+         receivables                         1,813      1,849      1,998
+          Less allowance for
+           uncollectible accounts               31      1,953         42
+          Net credit card receivables        1,782     29,361      1,956
+        Other receivables                      557        733        733
+        Merchandise inventories, net         5,543      5,447      5,335
+        Prepaid expenses, deferred charges
+         and other current assets              891        620        407
+        Deferred income taxes                  588        839        708
+          Total current assets              12,920     39,921     18,196
+
+      Property and equipment, net            6,565      6,909      6,788
+      Deferred income taxes                    245        627        378
+      Goodwill                                 943        945        943
+      Tradenames and other intangible
+       assets                                  709        703        710
+      Other assets                             545      1,268        708
+          Total assets                     $21,927    $50,373    $27,723
+
+    Liabilities
+      Current liabilities
+        Short-term borrowings              $   770    $ 5,464    $ 1,033
+        Current portion of long-term debt
+         and capitalized lease obligations     678      5,050      2,950
+        Merchandise payables                 3,014      2,879      3,106
+        Income taxes payable                   462        724      1,867
+        Other liabilities                    2,408      3,156      2,950
+        Unearned revenues                    1,256      1,256      1,244
+        Other taxes                            496        496        609
+          Total current liabilities          9,084     19,025     13,759
+
+      Long-term debt and capitalized lease
+       obligations                           4,123     21,462      4,218
+      Pension and postretirement benefits    1,635      2,336      1,956
+      Minority interest and other
+       liabilities                           1,384      1,318      1,389
+          Total liabilities                 16,226     44,141     21,322
+
+    Commitments and Contingent Liabilities
+
+    Shareholders' Equity
+      Common shares                            323        323        323
+      Capital in excess of par value         3,516      3,501      3,519
+      Retained earnings                     10,731      8,861     11,636
+      Treasury stock - at cost              (8,740)    (5,463)    (7,945)
+      Deferred ESOP expense                    (12)       (34)       (26)
+      Accumulated other comprehensive loss    (117)      (956)    (1,106)
+          Total shareholders' equity         5,701      6,232      6,401
+          Total liabilities and
+           shareholders' equity            $21,927    $50,373    $27,723
+
+          Total common shares outstanding    213.1      282.6      230.4
+
+
+    SEARS, ROEBUCK AND CO.
+    Segment Income Statements
+    (millions)
+
+    For the 13 Weeks Ended July 3, 2004 and June 28, 2003
+
+                            Domestic        Sears Canada      Consolidated
+
+                         2004     2003*    2004     2003     2004     2003
+
+    Merchandise sales
+     and services       $7,673   $7,871   $1,027   $  980   $8,700  $ 8,851
+    Credit and financial
+     products revenues       -    1,266       81       79       81    1,345
+
+    Total revenues       7,673    9,137    1,108    1,059    8,781   10,196
+
+    Costs and expenses
+      Cost of sales,
+       buying and
+       occupancy         5,536    5,703      746      699    6,282    6,402
+      Selling and
+       administrative    1,776    2,031      288      268    2,064    2,299
+      Provision for
+       uncollectible
+       accounts              -      446       11       15       11      461
+      Depreciation and
+       amortization        237      202       25       28      262      230
+      Interest, net         41      261       27       26       68      287
+      Special charges
+       and impairments      41       28        -        -       41       28
+        Total costs and
+         expenses        7,631    8,671    1,097    1,036    8,728    9,707
+
+    Operating income    $   42   $  466   $   11   $   23   $   53  $   489
+
+    Foreign exchange rate
+     (quarterly average)                  0.7353   0.7109
+
+    Net income                                              $   53  $   309
+
+    EPS - Diluted                                           $ 0.24  $  1.04
+
+      Average shares
+       outstanding                                           216.5    298.0
+
+    * Domestic segment detail for the 13 weeks ended June 28, 2003
+
+
+                                Retail &     Credit &
+                                Related      Financial  Corporate &   Total
+                                Services     Products     Other     Domestic
+
+    Merchandise sales and
+     services                     $7,771     $    -      $  100      $7,871
+    Credit and financial
+     products revenues                 -      1,266           -       1,266
+
+    Total revenues                 7,771      1,266         100       9,137
+
+    Costs and expenses
+      Cost of sales, buying
+       and occupancy               5,662          -          41       5,703
+      Selling and
+       administrative              1,707        215         109       2,031
+      Provision for
+       uncollectible accounts          -        446           -         446
+      Depreciation and
+       amortization                  187          5          10         202
+      Interest, net                   16        245           -         261
+      Special charges and
+       impairments                    16          -          12          28
+        Total costs and expenses   7,588        911         172       8,671
+
+    Operating income/ (loss)      $  183     $  355      $  (72)     $  466
+
+
+    SEARS, ROEBUCK AND CO.
+    Segment Income Statements
+    (millions)
+
+    For the 26 Weeks Ended July 3, 2004 and June 28, 2003
+
+                            Domestic        Sears Canada      Consolidated
+
+                         2004    2003**    2004     2003     2004     2003
+
+    Merchandise sales
+     and services      $14,462  $14,578   $1,941   $1,747  $16,403  $16,325
+    Credit and
+     financial
+     products revenues       -    2,596      172      155      172    2,751
+
+    Total revenues      14,462   17,174    2,113    1,902   16,575   19,076
+
+    Costs and expenses
+      Cost of sales,
+       buying and
+       occupancy        10,506   10,641    1,397    1,235   11,903   11,876
+      Selling and
+       administrative    3,387    3,911      571      498    3,958    4,409
+      Provision for
+       uncollectible
+       accounts              -      917       27       27       27      944
+      Depreciation and
+       amortization        435      400       55       55      490      455
+      Interest, net         90      512       54       54      144      566
+      Special charges
+       and impairments      41       28        -        -       41       28
+        Total costs and
+         expenses       14,459   16,409    2,104    1,869   16,563   18,278
+
+    Operating income   $     3  $   765   $    9   $   33  $    12  $   798
+
+    Foreign exchange
+     rate (annual
+     average)                             0.7473   0.6844
+
+    Net income before
+     cumulative effect
+     of change in
+     accounting
+     principle                                             $    33  $   501
+
+    Cumulative effect
+     of change in
+     accounting
+     principle                                             $  (839) $     -
+
+    Net (loss)/
+     income                                                $  (806) $   501
+
+    EPS - Diluted                                          $ (3.71) $  1.63
+
+    Average shares outstanding                                217.1   307.9
+
+    ** Domestic segment detail for the 26 weeks ended June 28, 2003
+
+
+                                Retail &     Credit &
+                                Related      Financial  Corporate &   Total
+                                Services     Products     Other     Domestic
+
+    Merchandise sales and
+     services                    $14,415     $    -       $ 163     $14,578
+    Credit and financial
+     products revenues                 -      2,596           -       2,596
+
+    Total revenues                14,415      2,596         163      17,174
+
+    Costs and expenses
+      Cost of sales, buying
+       and occupancy              10,576          -          65      10,641
+      Selling and
+       administrative              3,268        433         210       3,911
+      Provision for
+       uncollectible accounts          -        917           -         917
+      Depreciation and
+       amortization                  370          9          21         400
+      Interest, net                   25        487           -         512
+      Special charges and
+       impairments                    16          -          12          28
+        Total costs and expenses  14,255      1,846         308      16,409
+
+    Operating income/ (loss)     $   160     $  750       $(145)    $   765
+
+
+    SEARS, ROEBUCK AND CO.
+    SUPPLEMENTAL INFORMATION - INVENTORY, STORE COUNT AND SUMMARY OF CERTAIN
+     SIGNIFICANT ITEMS
+
+    ($ in millions, except earnings per share)
+
+    Domestic Inventories:
+                               July 3,  June 28, January 3,
+                                2004     2003      2004
+
+                    -LIFO      $4,945   $4,881    $4,728
+                    -FIFO      $5,526   $5,507    $5,308
+
+
+    Domestic Retail Stores:
+                               July 3,  June 28, January 3,
+                                2004     2003      2004
+      Full-line                   871      869       871
+      Specialty                 1,109    1,307     1,105
+      Lands' End                   16       15        16
+        Total Domestic Retail
+         Stores                 1,996    2,191     1,992
+
+
+    Summary of Certain Significant Items:(1)
+
+                                   For the 13 Weeks     For the 13 Weeks
+                                  Ended July 3, 2004   Ended June 28, 2003
+                                            Earnings             Earnings
+                                  Pretax   Per Share   Pretax    Per Share
+
+    Negative carry related to
+     Credit legacy debt             $19      $0.05     $   -      $    -
+
+    Special Charges                  41       0.12        28        0.06
+
+    Accelerated Depreciation
+     resulting from CSC Purchased
+     Services transaction            39       0.12         -           -
+
+    Proforma effects on the
+     prior year:
+      Divested Businesses:
+        Operating income              -         -       (364)      (0.78)
+        Zero-percent financing
+         costs                        -         -         60        0.13
+        Pro forma revenues
+         earned under Citigroup
+         alliance                     -         -         40        0.09
+        Total divested businesses     -         -       (264)      (0.56)
+
+    Retirement plan accounting
+     change (2)                       -         -         17        0.04
+
+    Total                           $99      $0.29     $(219)     $(0.46)
+
+    Average common equivalent
+     shares outstanding                     216.5                  298.0
+
+    (1) These items relate to the Company's initiatives to streamline its home
+        office and field operations, the results of operations of divested
+        businesses and the change in accounting for retirement plans.
+        Management believes that consideration of these items in addition to
+        reported results provides a better understanding of the Company's
+        financial performance.
+
+    (2) Represents the effect on the 13 weeks ended June 28, 2003 assuming
+        that the change in accounting for retirement plans occurred at the
+        beginning of fiscal 2003.
+
+
+    SEARS, ROEBUCK AND CO.
+    SUPPLEMENTAL INFORMATION - INVENTORY, STORE COUNT AND SUMMARY OF CERTAIN
+     SIGNIFICANT ITEMS
+
+    ($ in millions, except earnings per share)
+
+    Summary of Certain Significant Items: (1)
+
+                                 For the 26 Weeks       For the 26 Weeks
+                                Ended July 3, 2004     Ended June 28, 2003
+                                          Earnings              Earnings
+                                  Pretax  Per Share    Pretax   Per Share
+
+    Cumulative effect of
+     change in accounting for
+     retirement plans              $  -     $3.86     $   -      $    -
+
+    Curtailment gain on medical
+     plans                          (30)    (0.09)        -           -
+
+    Negative carry related to
+     Credit legacy debt and
+     related debt retirement
+     costs                           57      0.17         -           -
+
+    Special Charges                  41      0.12        28        0.06
+
+    Accelerated Depreciation
+     resulting from CSC Purchased
+     Services transaction            39      0.12         -           -
+
+    Proforma effects on the
+     prior year:
+      Divested Businesses:
+        Operating income              -         -      (769)      (1.59)
+        Zero-percent financing
+         costs                        -         -       116        0.24
+        Pro forma revenues
+         earned under Citigroup
+         alliance                     -         -        72        0.15
+        Total divested businesses     -         -      (581)      (1.20)
+
+    Retirement plan accounting
+     change (2)                       -         -        33        0.07
+
+    Total                          $107     $4.18     $(520)     $(1.07)
+
+    Average common equivalent
+     shares outstanding                     217.1                 307.9
+
+    (1) These items relate to the Company's initiatives to streamline its
+        home office and field operations, the results of operations of
+        divested businesses and the change in accounting for medical and
+        retirement plans.  Management believes that consideration of these
+        items in addition to reported results provides a better understanding
+        of the Company's financial performance.
+
+    (2) Represents the effect on the 26 weeks ended June 28, 2003 assuming
+        that the change in accounting for retirement plans occurred at the
+        beginning of fiscal 2003.
+
+SOURCE  Sears, Roebuck and Co.
+    -0-                             07/22/2004
+    /CONTACT:  News Media Contact, Edgar P. McDougal, +1-847-286-9669, or
+Investor Contact, Scott A. Bohaboy, +1-847-286-7419, both of Sears, Roebuck
+and Co./
+    /Web site:  http://www.sears.com
+                http://www.sears.com/investors /
+    (S)
+
+CO:  Sears, Roebuck and Co.
+ST:  Illinois
+IN:  REA
+SU:  ERN ERP CCA
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
