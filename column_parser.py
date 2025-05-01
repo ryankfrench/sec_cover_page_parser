@@ -7,10 +7,6 @@ It handles ASCII text with complex formatting by analyzing the visual (normalize
 layout and determining column boundaries based on the gaps between content across 
 multiple lines.
 
-TODO: Currently the parser chunks based on blank lines. This is not always correct.
-If there isn't a line break between a table and the following text, the parser will
-force the text into columns. 
-
 The parser operates in two passes per text section (chunk):
 1. First pass establishes column boundaries based on consistent gaps between content.
 2. Second pass extracts content from each line using those boundaries.
