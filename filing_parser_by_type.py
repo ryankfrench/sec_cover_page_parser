@@ -1,9 +1,11 @@
 from bs4 import BeautifulSoup
-from typing import Dict, Optional, Union, List
+from typing import Dict, Optional, Union, List, Tuple
 import re
 import json
 import math
 from filing_data import FilingData
+import column_parser
+import boundary_parser as bp
 
 def parse_xbrl_filing(file_content: str) -> FilingData:
     """
@@ -237,7 +239,7 @@ def parse_txt_filing(file_content: str) -> FilingData:
     
     return result
 
-def parse_name_txt(doc_section, line_search_limit: Optional[int] = None) -> Optional[str]:
+def parse_name_txt(doc_section) -> Optional[str]:
     """
     Parse the company name from the document section.
     The name is typically found in a centered div with specific formatting.
@@ -252,12 +254,14 @@ def parse_name_txt(doc_section, line_search_limit: Optional[int] = None) -> Opti
         r'registrant',
         r'as',
         r'specified',
-        r'in (?:its|its\')?',
-        r'charter'
+        #r'in(?:its|its\')?',
+        r'in\s+(?:.*?)\s*charter'
+        # r'.*?',
+        # r'charter'
     ]
     value_pattern = r'(?=\S*[A-Za-z])\S+(?:\s\S+)*'
     
-    return find_value_by_label(text, label_word_patterns, value_pattern, line_search_limit=line_search_limit)
+    return bp.find_value_by_label(text, label_word_patterns, value_pattern, line_search_limit=(4, 0))
 
 def parse_date_txt(doc_section) -> Optional[str]:
     """
@@ -274,7 +278,7 @@ def parse_date_txt(doc_section) -> Optional[str]:
     ]
     value_pattern = r'(?<!\(|\()\b(?:JANUARY|FEBRUARY|MARCH|APRIL|MAY|JUNE|JULY|AUGUST|SEPTEMBER|OCTOBER|NOVEMBER|DECEMBER|January|February|March|April|May|June|July|August|September|October|November|December|Jan\.|Feb\.|Mar\.|Apr\.|May|Jun\.|Jul\.|Aug\.|Sep\.|Oct\.|Nov\.|Dec\.)\s+\d{1,2},\s+\d{4}\b(?!\)|\))'
     
-    return find_value_by_label(text, label_word_patterns, value_pattern, '','', line_search_limit=3)
+    return bp.find_value_by_label(text, label_word_patterns, value_pattern, '','', line_search_limit=(3, 3))
 
 def parse_incorporation_txt(doc_section) -> Optional[str]:
     """
@@ -297,7 +301,7 @@ def parse_incorporation_txt(doc_section) -> Optional[str]:
     # value_pattern = r'(?<!\s)\b[A-Za-z]{2,}(?:\s+[A-Za-z]{2,})*\b'
     value_pattern = r'(?=\S*[A-Za-z])\S+(?:\s\S+)*'
 
-    return find_value_by_label(text, label_word_patterns, value_pattern, line_search_limit=10)
+    return bp.find_value_by_label(text, label_word_patterns, value_pattern, line_search_limit=(4, 0))
 
 def parse_file_no_txt(doc_section) -> Optional[str]:
     """
@@ -314,7 +318,7 @@ def parse_file_no_txt(doc_section) -> Optional[str]:
     ]
     value_pattern = r'\b(?:\d{1,3})-\d{3,5}\b'
     
-    return find_value_by_label(text, label_word_patterns, value_pattern, line_search_limit=10)
+    return bp.find_value_by_label(text, label_word_patterns, value_pattern, line_search_limit=(10, 10))
 
 def parse_irs_no_txt(doc_section) -> Optional[str]:
     """
@@ -332,7 +336,7 @@ def parse_irs_no_txt(doc_section) -> Optional[str]:
     ]
     value_pattern = r'\b\d{2}-\d{7}\b'
     
-    return find_value_by_label(text, label_word_patterns, value_pattern, line_search_limit=10)
+    return bp.find_value_by_label(text, label_word_patterns, value_pattern, line_search_limit=(10, 10))
 
 def parse_address_txt(doc_section) -> Optional[str]:
     """
@@ -358,12 +362,12 @@ def parse_address_txt(doc_section) -> Optional[str]:
     #value_pattern = r'\b\d+\s+[A-Za-z\s\.\,]+(?:N\.|S\.|E\.|W\.|N\.W\.|S\.W\.|N\.E\.|S\.E\.)?\s*(?:St\.|Ave\.|Blvd\.|Dr\.|Ln\.|Rd\.|Way\.|Pl\.|Ct\.)?\s*(?:,\s*|\s+)[A-Za-z\s]+(?:,\s*|\s+)[A-Z]{2}(?:\s*\d{5}(?:-\d{4})?)?\b'
     value_pattern = r'\s*\d+\s+[A-Za-z\s\.,]+(?:N\.|S\.|E\.|W\.|N\.W\.|S\.W\.|N\.E\.|S\.E\.)?\s*(?:St\.|Ave\.|Blvd\.|Dr\.|Ln\.|Rd\.|Way\.|Pl\.|Ct\.)?\s*,\s*[A-Za-z\s]+,\s*[A-Za-z\s]+'
     # Find the address using the label and value patterns
-    address = find_value_by_label(text, label_word_patterns, value_pattern, line_search_limit=10)
+    address = bp.find_value_by_label(text, label_word_patterns, value_pattern, line_search_limit=(4, 0))
     
     # If no match found, try a simpler pattern that matches just the street address
     if not address:
         value_pattern = r'\b\d+\s+[A-Za-z\s\.\,]+(?:N\.|S\.|E\.|W\.|N\.W\.|S\.W\.|N\.E\.|S\.E\.)?\s*(?:St\.|Ave\.|Blvd\.|Dr\.|Ln\.|Rd\.|Way\.|Pl\.|Ct\.)?\b'
-        address = find_value_by_label(text, label_word_patterns, value_pattern, line_search_limit=10)
+        address = bp.find_value_by_label(text, label_word_patterns, value_pattern, line_search_limit=(4, 0))
     
     return address
 
@@ -383,7 +387,7 @@ def parse_zip_txt(doc_section) -> Optional[str]:
     ]
     value_pattern = r'\b\d{5}(?:-\d{4})?\b'
     
-    zip = find_value_by_label(text, label_word_patterns, value_pattern, line_search_limit=10)
+    zip = bp.find_value_by_label(text, label_word_patterns, value_pattern, line_search_limit=(4, 0))
     if not zip:
         # Try again by searching in the address section.
         label_word_patterns = [
@@ -393,7 +397,7 @@ def parse_zip_txt(doc_section) -> Optional[str]:
             r'executive',
             r'offices'
         ]
-        zip = find_value_by_label(text, label_word_patterns, value_pattern, line_search_limit=10)
+        zip = bp.find_value_by_label(text, label_word_patterns, value_pattern, line_search_limit=(4, 0))
     return zip
 
 def approx_relative_euclidean_distance(L1, C1, L2, C2, line_height_factor=2.0):
@@ -476,175 +480,6 @@ def exponential_vertical_distance(L1, C1, L2, C2,
 
     return distance
 
-def find_value_by_label(text: str, label_word_patterns: List[str], value_pattern: str, 
-                       label_start: str = '(', label_end: str = ')',
-                       line_search_limit: Optional[int] = None,
-                       ) -> Optional[str]:
-    """
-    Find a value based on its proximity to a label in the text.
-    Handles labels that may be split across multiple lines.
-    
-    Args:
-        text: The text to search in
-        label_word_patterns: List of regex patterns for each word in the label, in order
-        value_pattern: Regex pattern to match the value
-        label_start: Optional string that must appear at the start of the label (e.g. '(')
-        label_end: Optional string that must appear at the end of the label (e.g. ')')
-        line_search_limit: Optional maximum number of lines to search above and below the label.
-                          If None, will search the entire text. Use this to limit the search range when
-                          labels and values are expected to be close together.
-    Returns:
-        The value that is closest to a matching label, or None if no match found
-    """
-    # Split text into lines for processing
-    lines = text.split('\n')
-    
-    # Create patterns for each word, with special handling for first and last
-    patterns = []
-    for i, word_pattern in enumerate(label_word_patterns):
-        if i == 0:
-            # First word pattern includes label_start if provided
-            pattern = (re.escape(label_start) if label_start else '') + r'\s*' + word_pattern + r'\s*'
-            patterns.append(pattern)
-        elif i == len(label_word_patterns) - 1:
-            # Last word pattern includes label_end if provided
-            pattern = word_pattern + r'\s*' + (re.escape(label_end) + r'?' if label_end else '')
-            patterns.append(pattern)
-        else:
-            pattern = word_pattern + r'\s*'
-            patterns.append(pattern)
-    
-    # Find the first label start
-    label_start_line = None
-    label_end_line = None
-    label_start_pos = None
-    label_start_end_pos = None
-    label_start_value = None
-    full_label_text = []  # Track the full label text
-    
-    for i, line in enumerate(lines):
-        # Convert tabs to spaces for visual column position
-        expanded_line = line.expandtabs(tabsize=4)
-        match = re.search(patterns[0], expanded_line, re.I)
-        if match:
-            label_start_line = i
-            label_start_pos = match.start()
-            label_start_value = match.group()
-            label_start_end_pos = match.end()
-            full_label_text.append(label_start_value.strip())
-            break
-    
-    if label_start_line is None:
-        return None
-    
-    # Continue searching for remaining words
-    current_line_idx = label_start_line
-    current_line = lines[current_line_idx].expandtabs(tabsize=4)[label_start_pos + len(label_start_value):]
-    
-    continue_count = 0
-    word_idx = 1
-    last_match_end = 0
-    
-    while word_idx < len(patterns):
-        match = re.search(patterns[word_idx], current_line, re.I)
-        if match:
-            continue_count = 0
-            last_match_end = match.end()
-            current_line = current_line[last_match_end:]
-            full_label_text.append(match.group().strip())
-            word_idx += 1
-            if current_line_idx == label_start_line:
-                label_start_end_pos += match.end()
-            if word_idx == len(patterns):
-                label_end_line = current_line_idx
-        else:
-            continue_count += 1
-            if continue_count == 2:
-                return None
-            current_line_idx += 1
-            if current_line_idx >= len(lines):
-                return None
-            current_line = lines[current_line_idx].expandtabs(tabsize=4)  # Convert tabs to spaces for visual column position
-            last_match_end = 0
-    
-    # Join the full label text and normalize whitespace
-    full_label_text = ' '.join(full_label_text).strip()
-    
-    # Calculate the center position of the label using expanded tabs
-    label_center_pos = (label_start_pos + label_start_end_pos) / 2
-    
-    # Create a limited search window around the label
-    if line_search_limit is not None:
-        start_line = max(0, label_start_line - line_search_limit)
-        end_line = min(len(lines), label_end_line + line_search_limit + 1)
-        search_lines = lines[start_line:end_line]
-    else:
-        start_line = 0
-        end_line = len(lines)
-        search_lines = lines
-    
-    # Find all values within the search window
-    value_positions = []
-    for i, line in enumerate(search_lines):
-        # Convert tabs to spaces for visual column position
-        expanded_line = line.expandtabs(tabsize=4)
-        for match in re.finditer(value_pattern, expanded_line, re.I):
-            value = match.group().strip()
-            # Skip if the value matches the label text
-            if value in full_label_text:
-                continue
-            value_positions.append({
-                'value': value,
-                'line': start_line + i,  # Adjust line number to account for window offset
-                'char_pos': (match.start() + match.end()) / 2        # we now use the midpoint of the value too.
-            })
-    
-    if not value_positions:
-        return None
-    
-    # Calculate distances from each value to the label
-    best_distance = float('inf')
-    best_value = None
-    
-    for value_pos in value_positions:
-        distance = exponential_vertical_distance(
-            value_pos['line'], value_pos['char_pos'],
-            current_line_idx, label_center_pos
-        )
-        
-        if distance < best_distance:
-            best_distance = distance
-            best_value = value_pos['value']
-    
-    return best_value.strip() if best_value else None
-
-def find_pattern_positions(text: str, pattern: str, flags: int = 0) -> List[Dict[str, Union[str, int]]]:
-    """
-    Find all occurrences of a pattern in text and return their positions.
-    
-    Args:
-        text: The text to search in
-        pattern: The regex pattern to search for
-        flags: Optional regex flags
-        
-    Returns:
-        List of dictionaries containing the match and its position information
-    """
-    lines = text.split('\n')
-    positions = []
-    
-    for i, line in enumerate(lines):
-        for match in re.finditer(pattern, line, flags):
-            # char_pos is now just the position within the current line
-            char_pos = match.start()
-            positions.append({
-                'value': match.group(),
-                'line': i,
-                'char_pos': char_pos
-            })
-    
-    return positions
-
 def test_txt_parsing():
     """Test the parsing of company names, ZIP codes, IRS numbers, file numbers, addresses, incorporation states, and dates with various test files."""
     test_files = [
@@ -668,11 +503,31 @@ def test_txt_parsing():
         try:
             with open(file_path, 'r') as file:
                 content = file.read()
-                soup = BeautifulSoup(content, 'html.parser')
-                doc_section = soup.find('document')
+                if '<SEC-HEADER>' in content:
+                    header_start = content.find('<SEC-HEADER>')
+                    header_end = content.find('</SEC-HEADER>')
+                    if header_end != -1:
+                        content = content[:header_start] + content[header_end + len('</SEC-HEADER>'):]
                 
+                doc_section = "\n".join(content.split("\n")[:100])
+                #doc_section = re.sub(r'^[-\s]+$\n?', '', content, flags=re.MULTILINE)
+                doc_section = re.sub(r'^[-\s]+$', '', doc_section, flags=re.MULTILINE)
+                # parsed_columns = column_parser.parse_columns(doc_section)
+
+                # # now, let's flatten this document so columns are vertically stacked.
+                # aggregated_columns = {}
+                # for line_data in parsed_columns:
+                #     for column_name, column_value in line_data.items():
+                #         if column_name not in aggregated_columns:
+                #             aggregated_columns[column_name] = []
+                #         aggregated_columns[column_name].append(column_value)
+
+                # flat_doc = "\n".join("\n".join(aggregated_columns[column_name]) for column_name in aggregated_columns)
+
+                #print(flat_doc)
+
                 if doc_section:
-                    found_name = parse_name_txt(doc_section, line_search_limit=10)
+                    found_name = parse_name_txt(doc_section)
                     found_zip = parse_zip_txt(doc_section)
                     found_irs = parse_irs_no_txt(doc_section)
                     found_file_no = parse_file_no_txt(doc_section)
@@ -694,29 +549,22 @@ def test_txt_parsing():
         except Exception as e:
             print(f"\nError testing {file_path}: {str(e)}")
 
-if __name__ == "__main__":
-    # Test file path
-    cik = "320193"
-    accession_number = "0000320193-19-000032"
-    filings_dir = f"test_filings/{cik}/{accession_number}"
+def test_txt_sample():
+    """
+    Test a sample of filings.
+    """
+    ciks = [4405, 4507, 11806, 13338, 13610, 16868, 25793, 44135, 59255, 1249128, 1290900, 1452766, 1627253]
+    path = "C:\\Users\\rfrench\\Documents\\projects\\sec_submissions\\"
+    # for cik in ciks:
+    #     for accession_number in os.listdir(f"{path}{cik}"):
+    #         with open(f"{path}{cik}\\{accession_number}", "r") as file:
+    #             text = file.read()
+    #             print(text)
+    #             break
+    #         break
+    pass
 
-    with open(f"{filings_dir}/{accession_number}.txt", "r") as file:
-        text = file.read()
+if __name__ == "__main__":
+    # test_txt_parsing()
+    test_txt_sample()
     
-    # print("\n--- Testing XBRL parsing method ---")
-    # xbrl_data = parse_xbrl_filing(text)
-    # print(json.dumps(xbrl_data.to_dict(), indent=2))
-    
-    # print("\n--- Testing HTML parsing method ---")
-    # html_data = parse_html_filing(text)
-    # print(json.dumps(html_data.to_dict(), indent=2))
-    
-    # print("\n--- Testing TXT parsing method ---")
-    # txt_data = parse_txt_filing(text)
-    # print(json.dumps(txt_data.to_dict(), indent=2))
-    
-    print("\n--- Testing company names, ZIP codes, IRS numbers, file numbers, addresses, incorporation states, and dates ---")
-    test_txt_parsing()
-    
-    print("\n--- Testing date parsing ---")
-    test_txt_parsing() 

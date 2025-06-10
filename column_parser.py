@@ -16,6 +16,11 @@ This approach is particularly useful for parsing:
 - Log files with columnar data
 - ASCII reports and text tables
 - Any text with visual alignment but inconsistent delimiters
+
+NOTE: Overall this seems to work well. However, the proper way to search this data is
+not clear or being utilize. If I flatten it by appending other cols ot the end, I 
+lose some of the positional data and most importantly WHITESPACE IS LOST BECAUSE IT'S
+ONLY COL1. 
 """
 
 import re
@@ -202,18 +207,19 @@ def parse_columns(text: str, tabsize: int = 8) -> List[Dict[str, str]]:
     
     # Process each line sequentially
     for line_num, line in enumerate(lines):
-        # Skip blank lines (but don't reset boundaries)
+        # Do not skkip blank lines because they are used for distance metrics
         if not line.strip():
+            all_results.append({f"col{id}": line for id in range(1, max_cols_seen + 1)})
+            boundary_estimates = {}
+            cut_points = []
+            max_cols_seen = 0
             continue
         
         # Prepare line metadata for processing
         normalized_line = line.expandtabs(tabsize)
-        norm_to_orig_map = get_norm_to_orig_map(line, tabsize)
-        max_orig_idx = len(line)
-        max_norm_idx = len(normalized_line)
         
         # Find content groups in this line
-        matches = list(re.finditer(r'[^\s]+([\s][^\s]+)*', line))
+        matches = list(re.finditer(r'[^\s]+([\s][^\s]+)*', normalized_line))
         if not matches:
             continue
             
@@ -221,9 +227,7 @@ def parse_columns(text: str, tabsize: int = 8) -> List[Dict[str, str]]:
         norm_extents = []
         for m in matches:
             try:
-                start_pos = get_norm_pos(line, m.start(), tabsize)
-                end_pos = get_norm_pos(line, m.end(), tabsize)
-                norm_extents.append((start_pos, end_pos))
+                norm_extents.append((m.start(), m.end()))
             except IndexError as e:
                 print(f"Warning: Error getting norm pos for match {m.span()} on line {line_num}: {e}")
                 continue
@@ -420,5 +424,5 @@ def cover_page_example():
 
 # Example usage
 if __name__ == "__main__":
-    basic_example()
-    # cover_page_example()
+    # basic_example()
+    cover_page_example()
