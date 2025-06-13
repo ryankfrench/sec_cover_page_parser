@@ -114,7 +114,7 @@ def boundary_distance(group1: ContentGroup, group2: ContentGroup) -> float:
     # This means we need to go around a corner
     return float(vertical_dist + horizontal_dist)
 
-def find_pattern_match(text: str, patterns: List[str], start_line: int = 1, start_char: int = 0) -> Tuple[Optional[ContentGroup], int]:
+def find_pattern_match(text: str, patterns: List[str], start_line: int = 1, start_char: int = 0) -> Tuple[Optional[List[ContentGroup]], int]:
     """
     Find the best matching pattern in the text starting from a given position.
     
@@ -125,7 +125,7 @@ def find_pattern_match(text: str, patterns: List[str], start_line: int = 1, star
         start_char: Character position to start searching from
         
     Returns:
-        Tuple of (ContentGroup if match found, index of last matched pattern)
+        Tuple of (List of ContentGroup if match found, index of last matched pattern)
     """
     # Expand tabs in text
     expanded_text = text.expandtabs(tabsize=8)
@@ -133,51 +133,55 @@ def find_pattern_match(text: str, patterns: List[str], start_line: int = 1, star
     
     # Adjust text to start from specified position
     start_text = '\n'.join(lines[start_line-1:])
-    if start_line == 1:
-        start_text = start_text[start_char:]
+    # if start_line == 1:
+    #     start_text = start_text[start_char:]
+    start_text = start_text[start_char:]
     
     # Start with all patterns and remove until we find a match
     current_pattern_idx = len(patterns)
     while current_pattern_idx > 0:
-        current_pattern = r'\s+'.join(patterns[:current_pattern_idx])
+        current_pattern = r'(?i)' + r'\s+'.join(patterns[:current_pattern_idx])
         matches = list(re.finditer(current_pattern, start_text, re.I))
         
         if matches:
-            # Get the first match
-            first_match = matches[0]
-            match_start = first_match.start()
-            match_end = first_match.end()
+            labels = []
+            for match in matches:
+                # Get the first match
+                match_start = match.start()
+                match_end = match.end()
+                
+                # Calculate line and character positions
+                # if start_line == 1:
+                #     match_start += start_char
+                #     match_end += start_char
+                # match_start += start_char
+                # match_end += start_char
+                
+                # Count newlines before the match to determine line number
+                line_start = start_line + start_text[:match_start].count('\n')
+                line_end = line_start
+                
+                # Get the specific line containing the match
+                target_line = lines[line_start - 1]  # -1 because line_start is 1-based
+                
+                # Calculate character positions within the line
+                if line_start == start_line:
+                    char_start = match_start - start_char
+                else:
+                    char_start = match_start - start_text[:match_start].rfind('\n') - 1
+                
+                char_end = char_start + (match_end - match_start)
+                
+                # Create ContentGroup for the match
+                labels.append(ContentGroup(
+                    target_line[char_start:char_end],
+                    line_start,
+                    char_start,
+                    char_end,
+                    line_end
+                ))
             
-            # Calculate line and character positions
-            if start_line == 1:
-                match_start += start_char
-                match_end += start_char
-            
-            # Count newlines before the match to determine line number
-            line_start = start_line + start_text[:match_start].count('\n')
-            line_end = line_start
-            
-            # Get the specific line containing the match
-            target_line = lines[line_start - 1]  # -1 because line_start is 1-based
-            
-            # Calculate character positions within the line
-            if line_start == start_line:
-                char_start = match_start - start_char
-            else:
-                char_start = match_start - start_text[:match_start].rfind('\n') - 1
-            
-            char_end = char_start + (match_end - match_start)
-            
-            # Create ContentGroup for the match
-            label = ContentGroup(
-                target_line[char_start:char_end],
-                line_start,
-                char_start,
-                char_end,
-                line_end
-            )
-            
-            return label, current_pattern_idx - 1
+            return labels, current_pattern_idx - 1
             
         current_pattern_idx -= 1
     
@@ -210,6 +214,73 @@ def find_pattern_positions(text: str, pattern: str, flags: int = 0) -> List[Dict
     
     return positions
 
+def choose_best_label(label_starts: List[ContentGroup]) -> ContentGroup:
+    """
+    Choose the best label from a list of labels. Look first for in parentheses, then for ending in colon. Tie breaker is 
+    the earliest match. 
+    """
+    if len(label_starts) == 1:
+        return label_starts[0]
+    
+    # Initialize priority groups
+    priority_1 = []  # Labels in parentheses
+    priority_2 = []  # Labels ending with colon
+    priority_3 = []  # All other labels
+    
+    # Classify labels by priority
+    for label in label_starts:
+        text = label.content
+        if text.startswith('(') and text.endswith(')'):
+            priority_1.append(label)
+        elif text.endswith(':'):
+            priority_2.append(label)
+        else:
+            priority_3.append(label)
+    
+    # Select the lowest priority group that has labels
+    selected_group = None
+    if priority_1:
+        selected_group = priority_1
+    elif priority_2:
+        selected_group = priority_2
+    elif priority_3:
+        selected_group = priority_3
+    else:
+        return None
+    
+    # Return the label with the lowest line_start
+    return min(selected_group, key=lambda x: x.line_start)
+
+def choose_best_label_continuation(current_label: ContentGroup, label_continuations: List[ContentGroup]) -> Optional[ContentGroup]:
+    """Select the most appropriate continuation for *current_label*.
+
+    Ordering rules:
+    1)  Primary key   → smallest positive line gap (continuation.line_start − current_label.line_end)
+    2)  Secondary key → horizontal distance |continuation.char_start − current_label.char_start|
+
+    If the best candidate starts more than one line below the current label, we treat it
+    as *not* a continuation and return ``None``.
+    """
+    if not label_continuations:
+        return None
+
+    # Sort by vertical gap first, then horizontal distance
+    ordered = sorted(
+        label_continuations,
+        key=lambda c: (
+            c.line_start - current_label.line_end,
+            abs(c.char_start - current_label.char_start),
+        ),
+    )
+
+    best = ordered[0]
+
+    # Accept only if it is on the same line or the very next line.
+    if best.line_start - current_label.line_end > 1:
+        return None
+
+    return best
+
 def find_label(text: str, label_word_patterns: List[str], label_start: str = '(', label_end: str = ')') -> Optional[ContentGroup]:
     """
     Find a label in the text by matching patterns sequentially.
@@ -228,54 +299,66 @@ def find_label(text: str, label_word_patterns: List[str], label_start: str = '('
     for i, word_pattern in enumerate(label_word_patterns):
         if i == 0:
             # First word pattern includes label_start if provided
-            pattern = (f'(?:{re.escape(label_start)})?' if label_start else '') + r'\s*' + word_pattern
+            # pattern = (f'(?:{re.escape(label_start)})?' if label_start else '') + r'\s*' + word_pattern
+            pattern = rf'(?:\(\s*)?{word_pattern}'
             patterns.append(pattern)
         elif i == len(label_word_patterns) - 1:
             # Last word pattern includes label_end if provided
-            pattern = word_pattern + r'\s*' + (re.escape(label_end) + r'?' if label_end else '')
+            # pattern = word_pattern + r'\s*' + (re.escape(label_end) + r'?' if label_end else '')
+            pattern = rf'{word_pattern}\s*(?:[):])?'
             patterns.append(pattern)
         else:
             pattern = word_pattern
             patterns.append(pattern)
     
-    # Start with first pattern match
-    first_label, first_idx = find_pattern_match(text, patterns)
-    if not first_label:
+    # Find all matches to the start of the label
+    label_starts, first_idx = find_pattern_match(text, patterns)
+    if not label_starts:     # If no matches, return None
         return None
         
     # If we matched all patterns, return the result
     if first_idx == len(patterns) - 1:
-        return first_label
+        return choose_best_label(label_starts)
         
     # Continue matching remaining patterns
     remaining_patterns = patterns[first_idx + 1:]
-    current_label = first_label
-    current_line = current_label.line_start
-    current_char = current_label.char_end
-    
-    while remaining_patterns:
-        next_label, next_idx = find_pattern_match(text, remaining_patterns, current_line, current_char)
-        if not next_label:
-            break
+
+    # we need to continue all potential matches until we find a full label match.
+    for current_label in label_starts:
+        current_line = current_label.line_start #+ 1           # we add 1 to start looking on the next line as the current has already been searched.
+        current_char = current_label.char_end
+
+        # This logic is flawed. We keep sending the whole text in to be searched when it should be a subset. It must be after the original match.
+        # If we send the entire text it can match a pattern that is before the initial match even or 20 lines after. This makes no sense.
+        # We are looking for consecutive strings that are either on consecutive lines or concurrent. 
+        
+        while remaining_patterns:
+            label_continuations, next_idx = find_pattern_match(text, remaining_patterns, current_line, current_char)
+            if not label_continuations:
+                break
+                
+            # Update the current label with the new match
+            next_label = choose_best_label_continuation(current_label, label_continuations)
+            if not next_label:
+                break
+
+            current_label.content += " " + next_label.content
+            current_label.char_start = min(current_label.char_start, next_label.char_start)
+            current_label.char_end = max(current_label.char_end, next_label.char_end)
+            current_label.line_end = next_label.line_end
             
-        # Update the current label with the new match
-        current_label.content += " " + next_label.content
-        current_label.char_start = min(current_label.char_start, next_label.char_start)
-        current_label.char_end = max(current_label.char_end, next_label.char_end)
-        current_label.line_end = next_label.line_end
-        
-        # Update position for next search
-        current_line = next_label.line_end
-        current_char = next_label.char_end
-        
-        # Update remaining patterns
-        remaining_patterns = remaining_patterns[next_idx + 1:]
-        
-        # If we matched all remaining patterns, we're done
-        if not remaining_patterns:
-            return current_label
+            # Update position for next search
+            current_line = next_label.line_end
+            current_char = next_label.char_end
+            
+            # Update remaining patterns
+            remaining_patterns = remaining_patterns[next_idx + 1:]
+            
+            # If we matched all remaining patterns, we're done
+            if not remaining_patterns:
+                return current_label
     
-    return current_label
+    return None
 
 def find_value_by_label(text: str, label_word_patterns: List[str], value_pattern: str, 
                        label_start: str = '(', label_end: str = ')',
