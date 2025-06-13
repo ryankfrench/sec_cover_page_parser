@@ -1,0 +1,136 @@
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>doc1.txt
+<TEXT>
+
+                                  United States
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 8-K
+                                 CURRENT REPORT
+
+     PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                       Date of Report:  February 14, 2002
+
+                       Commission File Number : 000-28881
+
+                OASIS ENTERTAINMENT'S FOURTH MOVIE PROJECT, INC.
+
+Nevada                                                                76-0528600
+(Jurisdiction  of  Incorporation)                                      (I.R.S.
+                                                  Employer  Identification  No.)
+
+24843  Del  Prado,  Suite  326  Dana  Point,  California                   92629
+(Address of principal executive offices)                              (Zip Code)
+
+Registrant's  telephone  number,  including  area  code:         (949)  487-7295
+
+             ITEM 4. CHANGES IN REGISTRANT'S CERTIFYING ACCOUNTANT.
+
+
+     We  have  engaged  a  new Independent Auditor, prospectively, to review and
+comment  on  our next Annual Report, and to assist management in preparing other
+current  reports. There has been no dispute of any kind or sort with any auditor
+on  any  subject.
+
+     The  new  principal  independent  accounting firm is Chisholm & Associates,
+Inc.,  replacing  our  initial  principal  auditor,  HJ  &  Associates, LLC. The
+decision  to  change  accountants  was  recommended and approved by our Board of
+Directors.  The  firm of Chisholm & Associates, Inc. was engaged by the Board of
+Directors  as  the  new  certifying  accountants  on  February  12,  2002.
+
+     The  former  auditing  firm,  HJ  &  Associates,  LLC  neither resigned nor
+declined  to  stand  for election. The former auditor's reports on the financial
+statements  for  either  of  the  past two years contained no adverse opinion or
+disclaimer  of  opinion,  nor  were  modified  as to uncertainty, audit scope or
+accounting principles. During the two most recent fiscal years and later interim
+periods  through  the termination of the client-auditor relationship, there were
+no disagreements of the type described under Item 304(a)(1)(iv)(A) of Regulation
+S-B.
+
+                                        1
+<PAGE>
+
+     A  letter  addressed  to  the  Securities and Exchanges Commission from the
+former auditor stating his agreement with the disclosures made in this filing is
+filed  as  an  exhibit  16.1  hereto.
+
+
+                                    EXHIBITS
+
+ The  following  exhibit  is furnished in accordance with the provisions of Item
+601  and  Regulation  S-B.
+
+    Exhibit  No.       Description
+
+    16.1              Letter  on  change  in  certifying  accountant  from
+          HJ  &  Associates,  LLC  (Filed  herewith.)
+
+
+
+                                   SIGNATURES
+
+     Pursuant  to  the requirements of the Securities Exchange Act of 1934, this
+report  has  been  signed  below  by  the  following  persons  on  behalf of the
+Registrant  and  in  the  capacities  and  on  the  date  indicated.
+
+February  14,  2002
+
+
+                OASIS ENTERTAINMENT'S FOURTH MOVIE PROJECT, INC.
+
+                                       by
+
+
+                              /s/J. Dan Sifford
+                                 J. Dan Sifford
+                               President/Director
+
+                                        2
+<PAGE>
+
+--------------------------------------------------------------------------------
+                                  EXHIBIT 16.1
+
+                    LETTER ON CHANGE IN CERTIFYING ACCOUNTANT
+                            FROM HJ & ASSOCIATES, LLC
+--------------------------------------------------------------------------------
+
+                                        3
+<PAGE>
+
+                      [LETTERHEAD OF HJ & ASSOCIATES, LLC]
+
+
+
+Office  of  the  Chief  Accountant
+Securities  and  Exchange  Commission
+450  Fifth  Street,  N.W.
+Washington,  D.C.  20549
+
+
+Gentlemen:
+
+We  have read Item 4 included in the Form 8-K, dated February 14, 2002, of Oasis
+Entertainment's  Fourth  Movie  Project, Inc. (Commission File Number 000-28881)
+filed  with the Securities and Exchange Commission and are in agreement with the
+statements  contained  therein.  We  are  not in a position to agree or disagree
+with  the  disclosures  regarding  Chisholm  &  Associates,  PC.
+
+
+/s/HJ  &  ASSOCIATES,  LLC
+
+HJ  &  ASSOCIATES,  LLC
+Salt  Lake  City,  Utah
+February  15,  2002
+
+                                        4
+<PAGE>
+
+
+
+</TEXT>
+</DOCUMENT>
