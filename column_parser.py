@@ -219,7 +219,8 @@ def parse_columns(text: str, tabsize: int = 8) -> List[Dict[str, str]]:
         normalized_line = line.expandtabs(tabsize)
         
         # Find content groups in this line
-        matches = list(re.finditer(r'[^\s]+([\s][^\s]+)*', normalized_line))
+        # matches = list(re.finditer(r'[^\s]+([\s][^\s]+)*', normalized_line))
+        matches = list(re.finditer(r'[^\s]+(?:\s{1,2}[^\s]+)*', normalized_line))
         if not matches:
             continue
             
