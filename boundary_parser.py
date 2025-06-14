@@ -360,6 +360,39 @@ def find_label(text: str, label_word_patterns: List[str], label_start: str = '('
     
     return None
 
+def find_value_by_label_patterns(text: str, label_patterns: List[List[str]], value_pattern: str, 
+                                 line_search_limit: Optional[Union[List[int], Tuple[int, int]]] = None
+                                 ) -> Optional[str]:
+    """
+    Find a value based on its proximity to a label in the text.
+    Handles multiple label wordings and labels that may be split across 
+    multiple lines.
+    
+    Args:
+        text: The text to search in
+        label_patterns: List of regex patterns for each label. Each regex is a list of regex word in the label, in order
+        value_pattern: Regex pattern to match the value
+        line_search_limit: Optional tuple or list (lines_above, lines_below) specifying the max number
+                          of lines to search above and below the label. If None, searches the entire text.
+    
+        TODO: determine search above or below based on label type {parenthesis, colon, etc.}
+    Returns:
+        The value that is closest to a matching label, or None if no match found
+    """
+    matched_labels = []
+    for label_pattern in label_patterns:
+        label = find_label(text, label_pattern)
+        if label:
+            matched_labels.append(label)
+    
+    if not matched_labels:
+        return None
+    
+    label = choose_best_label(matched_labels)
+
+    lines = text.expandtabs(tabsize=8).split('\n')
+    return find_value(lines, label, value_pattern, line_search_limit)
+
 def find_value_by_label(text: str, label_word_patterns: List[str], value_pattern: str, 
                        label_start: str = '(', label_end: str = ')',
                        line_search_limit: Optional[Union[List[int], Tuple[int, int]]] = None,
@@ -379,12 +412,21 @@ def find_value_by_label(text: str, label_word_patterns: List[str], value_pattern
     Returns:
         The value that is closest to a matching label, or None if no match found
     """
-    lines = text.expandtabs(tabsize=8).split('\n')
+    
 
     label = find_label(text, label_word_patterns)
     if not label:
         return None
 
+    lines = text.expandtabs(tabsize=8).split('\n')
+    return find_value(lines, label, value_pattern, line_search_limit)
+
+def find_value(lines: List[str], label: ContentGroup, value_pattern: str,
+               line_search_limit: Optional[Union[List[int], Tuple[int, int]]] = None
+               ) -> Optional[str]:
+    """
+    Find a value based on its proximity to a label in the text.
+    """
     # Create a limited search window around the label
     if line_search_limit is not None:
         if not isinstance(line_search_limit, (list, tuple)) or len(line_search_limit) != 2:
@@ -431,7 +473,6 @@ def find_value_by_label(text: str, label_word_patterns: List[str], value_pattern
             best_value = value_pos.content
     
     return best_value.strip() if best_value else None
-
 
 def parse_content(text: str, tabsize: int = 8) -> List[ContentGroup]:
     """

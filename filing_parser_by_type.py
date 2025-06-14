@@ -289,7 +289,7 @@ def parse_incorporation_txt(doc_section) -> Optional[str]:
     # State or Other Jurisdiction of Incorporation
     text = doc_section.get_text() if hasattr(doc_section, 'get_text') else str(doc_section)
 
-    label_word_patterns = [
+    label_patterns = [
         [
             r'state\b',
             r'or\b',
@@ -346,11 +346,7 @@ def parse_incorporation_txt(doc_section) -> Optional[str]:
     # value_pattern = r'(?<!\s)\b[A-Za-z]{2,}(?:\s+[A-Za-z]{2,})*\b'
     value_pattern = r'(?=\S*[A-Za-z])\S+(?:\s\S+)*'
 
-    for label_word_pattern in label_word_patterns:
-        result = bp.find_value_by_label(text, label_word_pattern, value_pattern, line_search_limit=(4, 0))
-        if result:
-            return result
-    return None
+    return bp.find_value_by_label_patterns(text, label_patterns, value_pattern, line_search_limit=(4, 0))
 
 def parse_file_no_txt(doc_section) -> Optional[str]:
     """
