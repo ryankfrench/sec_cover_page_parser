@@ -4,7 +4,10 @@ from typing import Optional
 @dataclass
 class FilingData:
     """Class to hold parsed SEC filing information."""
+    file_name: Optional[str] = None
+    url: Optional[str] = None
     cik: Optional[str] = None
+    accession_number: Optional[str] = None
     form: Optional[str] = None
     date: Optional[str] = None
     company_name: Optional[str] = None
@@ -22,6 +25,7 @@ class FilingData:
         """Convert the FilingData object to a dictionary."""
         return {
             'cik': self.cik,
+            'accession_number': self.accession_number,
             'form': self.form,
             'date': self.date,
             'company_name': self.company_name,

@@ -493,7 +493,7 @@ def parse_usaddress(doc_section):
                 if column_value.strip() == '':
                     continue
 
-                if column_value in label.content:
+                if column_value in label.content or label.content in column_value:
                     address_column = column_name
                     break
 

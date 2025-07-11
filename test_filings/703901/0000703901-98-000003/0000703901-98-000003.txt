@@ -1,0 +1,194 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ MwqfEeGrJ+dT1+cpXKt59gZDDSgTvMRsbKDAB7V6MLORfDjlGLshrB8QmAmvEpO8
+ W+ppMIdzNovZDBKABteVaA==
+
+<SEC-DOCUMENT>0000703901-98-000003.txt : 19980204
+<SEC-HEADER>0000703901-98-000003.hdr.sgml : 19980204
+ACCESSION NUMBER:		0000703901-98-000003
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19971216
+ITEM INFORMATION:		
+FILED AS OF DATE:		19980203
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FOOD CONCEPTS INC
+		CENTRAL INDEX KEY:			0000703901
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-GROCERIES & GENERAL LINE [5141]
+		IRS NUMBER:				133124057
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		
+		SEC FILE NUMBER:	333-06718
+		FILM NUMBER:		98520155
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6601 LYONS ROAD SUITE C-11
+		CITY:			COCONUT CREEK
+		STATE:			FL
+		ZIP:			33073
+		BUSINESS PHONE:		9544202882
+
+	MAIL ADDRESS:	
+		STREET 1:		6601 LYONS RD
+		STREET 2:		STE C 12
+		CITY:			COCONUT CREEK
+		STATE:			FL
+		ZIP:			33073
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SAVON COFFEE INC
+		DATE OF NAME CHANGE:	19951129
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GRANITE LTD
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<TEXT>
+
+                               SECURITIES AND EXCHANGE COMMISSION
+                                      Washington, D.C.  20549
+                                         ______________
+
+
+
+                                             FORM 8-K
+
+                                          CURRENT REPORT
+                                 PURSUANT TO SECTION 13 OR 15(d) OF THE
+                                   SECURITIES EXCHANGE ACT OF 1934
+
+
+
+Date of report (Date of earliest event reported) January 26, 1998 
+         
+
+                                               ______
+
+   Nevada             Food Concepts, Inc.                     13-3124057
+_____________      _______________________________________    __________
+(State or other    (Exact Name of registrant asspecified      (I.R.S.
+incorporation or    in its charter)                            Employer
+organization)                                                  Identification
+                                                               Number)
+ 
+
+                        6601 Lyons Road, Suite C-12,
+                            Coconut Creek, Florida               33073
+               (Address of Principal Executive Offices)        (Zip Code)
+
+     Registrant's telephone number, including area code: (954) 420-0882
+
+                                _____________ 
+
+
+Former Name, Former Address and Former Fiscal Year, if Changed Since Last 
+Report
+
+
+
+
+
+
+
+
+<PAGE>
+Item 5.  Press Release
+
+       On January 26, 1996, the Registrant issued the following press release:
+
+
+Date:       January 26, 1998
+Contact:    Food Concepts, Inc
+            954.420.0882, Fax: 954.420.0811
+
+
+
+
+Food Concepts Announces New Majority Shareholder
+
+Jersey City, New Jersey-- Food Concepts, Inc., (OTC BB: JAVA), announces that 
+Bishop Management, Inc. has acquired a majority interest in Food Concepts and 
+is currently looking for acquisitions in an effort to bolster shareholder 
+equity through a diversification of holdings and business operations for Food 
+Concepts.
+
+
+<PAGE> 
+                                   SIGNATURES
+
+       Pursuant to the requirements of the Securities Exchange Act of 1934, 
+each Registrant has duly caused this report to be signed on its behalf by the 
+undersigned, thereunto duly authorized.
+
+
+                                                 FOOD CONCEPTS, INC.
+                                                                         
+                                                 Registrant
+                                                 By: /s/ Herb Glaubman
+                                                     Herbert Glaubman, President
+Dated:    January 26, 1998
+<PAGE>
+                                  INDEX TO EXHIBITS
+
+
+(1)    Underwriting agreement
+
+         Not Applicable.
+
+(2)    Plan of acquisition, reorganization, arrangement, liquidation or 
+       succession
+
+         Not Applicable.
+
+(4)    Instruments defining the rights of security holders, including 
+       indentures
+
+         Not Applicable.
+
+(16)   Letter referencing change in certifying accountant
+
+          Not Applicable.
+
+(17)    Letter referencing director resignation
+
+          Not Applicable.
+
+(20)    Other documents or statements to security holders
+
+           Not Applicable.
+<PAGE>
+(23)     Consents of experts and counsel
+
+            Not Applicable.
+
+(24)      Power of attorney
+
+             Not Applicable.
+
+(27)      Financial Data Schedule
+
+             Not Applicable.
+
+(99)       Additional Exhibits
+
+             None.
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -6,6 +6,10 @@ def get_dei_value(soup, dei_name):
     tag = soup.find("ix:nonnumeric", attrs={"name": dei_name})
     return tag.get_text(strip=True) if tag else None
 
+def has_xbrl(html_doc: str):
+    soup = BeautifulSoup(html_doc, 'html.parser')
+    return get_dei_value(soup, DocumentEntityInformation.CompanyName.value) is not None
+
 def find_name(soup):
     """Find the company name in the coverpage."""
     return get_dei_value(soup, DocumentEntityInformation.CompanyName.value)
@@ -55,7 +59,7 @@ def parse_coverpage(html_doc: str):
     result.irs_number = find_irs_employer_number(soup)
     result.commission_file_number = find_document_number(soup)
     
-    return results
+    return result
 
 class DocumentEntityInformation(Enum):
     """Constants for XBRL document entity information tags."""

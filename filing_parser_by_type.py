@@ -1,14 +1,19 @@
+import os
 from bs4 import BeautifulSoup
 from typing import Dict, Optional, Union, List, Tuple
 import re
 import json
 import math
+
+import requests
 from filing_data import FilingData
 import column_parser
 import boundary_parser as bp
 import usaddress
 import text_parser.txt_cover_page_parser as txt_parser
 import html_parser.html_cover_page_parser as html_parser
+import xbrl_parser.xbrl_cover_page_parser as xbrl_parser
+import test_filings.download_filing as download_filing
 import subprocess
 
 def parse_xbrl_filing(file_content: str) -> FilingData:
@@ -192,6 +197,70 @@ def parse_html_filing(file_content: str) -> FilingData:
     
     return result
 
+def parse_cover_page(cik: int, accession_number: str, user_agent: str = 'Your Name your_email@address.com') -> FilingData:
+    # Format CIK and accession number
+    accession = accession_number.replace('-', '')
+    
+    # Define base URL for SEC EDGAR
+    base_url = f"https://www.sec.gov/Archives/edgar/data/{cik}"
+    
+    # Define headers with User-Agent
+    headers = {
+        'User-Agent': user_agent
+    }
+
+    # Create formatted accession with dashes
+    acc_with_dashes = f"{accession[0:10]}-{accession[10:12]}-{accession[12:]}"
+
+    # Define file URLs
+    filing_txt_url = f"{base_url}/{accession}/{acc_with_dashes}.txt"
+
+    filing_txt_response = requests.get(filing_txt_url, headers=headers)
+    filing_txt_response.raise_for_status()
+
+    filing_name = download_filing.extract_filename(filing_txt_response.text)
+    
+    filing_data: Optional[FilingData] = None
+
+    # Try to use the (usually richer) HTML/XBRL document first
+    if filing_name is not None:
+        try:
+            filing_url = f"{base_url}/{accession}/{filing_name}"
+            filing_response = requests.get(filing_url, headers=headers)
+            filing_response.raise_for_status()
+
+            filing_data = parse_cover_page_by_type(filing_name, filing_response.text)
+            filing_data.file_name = filing_name
+            filing_data.url = filing_url
+        except Exception as e:
+            # Log the problem and fall through to the .txt fallback
+            print(f"Error parsing {filing_name}, will fall back to .txt: {e}")
+
+    # Fallback: parse the raw .txt version only if needed
+    if filing_data is None:
+        filing_data = txt_parser.parse_txt_filing(filing_txt_response.text)
+        filing_data.file_name = filing_name
+        filing_data.url = filing_txt_url
+
+    filing_data.accession_number = accession_number
+    return filing_data
+    
+def parse_cover_page_by_type(filename: str, file_content: str) -> FilingData:
+    if filename.endswith('.htm'):
+        if xbrl_parser.has_xbrl(file_content):
+            return xbrl_parser.parse_xbrl_filing(file_content)
+        else:
+            return html_parser.parse_coverpage(file_content)
+    else:
+        return txt_parser.parse_txt_filing(file_content)
+
+def test_cover_page_parsing():
+    cik = 1493040
+    accession_number = "0001056520-11-000233"
+    results = parse_cover_page(cik, accession_number, "Ryan French rfrench@chapman.edu")
+    print(results)
+        
+
 def test_txt_parsing():
     """Test the parsing of company names, ZIP codes, IRS numbers, file numbers, addresses, incorporation states, and dates with various test files."""
     test_files = [
@@ -206,6 +275,8 @@ def test_txt_parsing():
         ("test_filings/858877/0000891618-95-000727/0000891618-95-000727.txt", "CISCO SYSTEMS, INC.", "95134", "77-0059951", "0-18225", "170 West Tasman Drive, San Jose, California", "California", "SEPTEMBER 29, 1995"),
         # Oasis entertainment
         ("test_filings/1063262/0001104540-02-000064/0001104540-02-000064.txt", "OASIS ENTERTAINMENT'S FOURTH MOVIE PROJECT, INC.", "92629", "76-0528600", "000-28881", "24843 Del Prado, Suite 326, Dana Point, California", "Nevada", "February 14, 2002"),
+        # Food concepts
+        ("test_filings/703901/0000703901-98-000003/0000703901-98-000003.txt", "Food Concepts, Inc.", "33073", "13-3124057", "", "6601 Lyons Road, Suite C-12, Coconut Creek, Florida", "Nevada", "January 26, 1998"),
     ]
     
     print("\nTesting company names, ZIP codes, IRS numbers, file numbers, addresses, incorporation states, and dates:")
@@ -218,7 +289,8 @@ def test_txt_parsing():
             with open(file_path, 'r') as file:
                 content = file.read()
 
-                data = txt_parser.parse_txt_filing(content)
+                filename = os.path.basename(file_path)
+                data = parse_cover_page_by_type(filename, content)
 
                 name_match = (data.company_name or '').lower() == (expected_name or '').lower()
                 zip_match = (data.document_zip or '').lower() == (expected_zip or '').lower()
@@ -359,10 +431,11 @@ def test_html_links2():
 if __name__ == "__main__":
     # test_txt_sample()
     # test_txt_parsing()
-    test_html_parsing()
+    # test_html_parsing()
     # test_html_w3m()
     # test_html_markdownify()
     # test_html_html2text()
     # test_html_lynx()
     # test_html_elinks()
     # test_html_links2()
+    test_cover_page_parsing()
