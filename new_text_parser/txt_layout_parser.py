@@ -4,6 +4,7 @@ from enum import Enum, auto
 from typing import List, Dict, Tuple
 import column_parser
 from .document_section import DocumentSection
+from nlp_text_search import nlp_text_search
 
 
 class DocumentSectionType(Enum):
@@ -145,8 +146,10 @@ class TextLayoutParser:
             # Get the character position boundaries for each content group (column)
             horizontal_boundaries = [m.span() for m in matches]
 
-            if len(horizontal_boundaries) != len(boundary_estimates):
-                # We need to reset the boundary estimates.
+            if len(horizontal_boundaries) > len(boundary_estimates):
+                # We need to reset the boundary estimates if the number of columns has increased.
+                # it's not possible to increase the number from 1 to any because all will fit in 1.
+                # decreasing could be ok.
                 boundary_estimates = horizontal_boundaries
                 vertical_subsections.append([])
                 prefix = ""
@@ -154,8 +157,8 @@ class TextLayoutParser:
             column_assignments = self.assign_columns(boundary_estimates, horizontal_boundaries)
 
             prefix = "\n"
-            if len(set(column_assignments)) != len(boundary_estimates):
-                # violation, create a new vertical subsection because this one does not fit in current columns.
+            if len(set(column_assignments)) != len(horizontal_boundaries):
+                # violation, create a new vertical subsection because multiple data has been assigned to the same column.
                 boundary_estimates = horizontal_boundaries
                 vertical_subsections.append([])
                 prefix = ""
@@ -212,16 +215,43 @@ class TextLayoutParser:
     def assess_section_type(self, content: str) -> DocumentSectionType:
         pass
 
-def main():
-    path = '/home/rfrench/projects/sec_cover_page_parser/test_filings/1018724/0000891020-98-001352/0000891020-98-001352.txt'
-    with open(path, 'r') as f:
-        text = f.read()
-
+def main(text: str):
+    # remove header
+    if '<SEC-HEADER>' in text:
+            header_start = text.find('<SEC-HEADER>')
+            header_end = text.find('</SEC-HEADER>')
+            if header_end != -1:
+                text = text[:header_start] + text[header_end + len('</SEC-HEADER>'):]
     # Extract just a portion of the file for demonstration
     lines = text.split('\n')
     text = '\n'.join(lines[:104])
     #parsed_columns = column_parser.parse_columns(text)
     txt_layout_parser = TextLayoutParser()
-    parsed_columns = txt_layout_parser.parse_document(text)
-    for line_data in parsed_columns:
-        print(line_data)
+    parsed_document = txt_layout_parser.parse_document(text)
+
+    search_terms = {
+        "name": "(Exact Name of Registrant as Specified in Charter)",
+        "date": "Date of Report",
+        "irs_no":"(IRS Employer Identification Number)",
+        "address": "(Address of Executive Offices)",
+        "zip": "(Zip Code)",
+        "state_of_incorporation": "(State or Other Jurisdiction of Incorporation)",
+        "commission_file_number": "(Commission File Number)",
+    }
+
+    results = {}
+    for key, term in search_terms.items():
+        max_score = 0
+        best_match = None
+        for vert_section in parsed_document:
+            for section in vert_section:
+                result = nlp_text_search.find_best_match(term, section.content)
+                if result is not None:
+                    score = result[3]
+                    if score > max_score:
+                        max_score = score
+                        best_match = section.content
+        results[key] = best_match
+        print(f"{key}: {best_match}")
+
+    
