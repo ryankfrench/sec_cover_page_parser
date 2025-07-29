@@ -5,6 +5,8 @@ from typing import List, Dict, Tuple
 import column_parser
 from .document_section import DocumentSection
 from nlp_text_search import nlp_text_search
+from nlp_text_search.nlp_text_search import NLPTextSearch
+import time
 
 
 class DocumentSectionType(Enum):
@@ -215,6 +217,95 @@ class TextLayoutParser:
     def assess_section_type(self, content: str) -> DocumentSectionType:
         pass
 
+    def search_terms_original(self, parsed_document: List[List[DocumentSection]], search_terms: Dict[str, str]) -> Dict[str, str]:
+        """
+        Original approach: Process each section individually
+        """
+        results = {}
+        for key, term in search_terms.items():
+            max_score = 0
+            best_match = None
+            for vert_section in parsed_document:
+                for section in vert_section:
+                    result = nlp_text_search.find_best_match(term, section.content)
+                    if result is not None:
+                        score = result[3]
+                        if score > max_score:
+                            max_score = score
+                            best_match = result[0]
+            results[key] = best_match
+        return results
+
+    def search_terms_optimized(self, parsed_document: List[List[DocumentSection]], search_terms: Dict[str, str]) -> Dict[str, str]:
+        """
+        Optimized approach: Use NLPTextSearch batch processing with generic mapper
+        """
+        searcher = NLPTextSearch()
+        
+        # Use the generalized batch search method with a content mapper
+        results = searcher.batch_search_nested_objects(
+            nested_objects=parsed_document,
+            search_terms=search_terms,
+            content_mapper=lambda section: section.content if section else "",
+            threshold=0.7,
+            batch_size=50
+        )
+        
+        return results
+
+    def compare_search_performance(self, parsed_document: List[List[DocumentSection]], search_terms: Dict[str, str], runs: int = 3) -> Dict[str, float]:
+        """
+        Compare performance between original and optimized search methods
+        """
+        print("Comparing search performance...")
+        
+        # Warm up (exclude from timing)
+        self.search_terms_original(parsed_document, {"test": "test"})
+        self.search_terms_optimized(parsed_document, {"test": "test"})
+        
+        # Time original method
+        original_times = []
+        for i in range(runs):
+            start_time = time.time()
+            results_original = self.search_terms_original(parsed_document, search_terms)
+            end_time = time.time()
+            original_times.append(end_time - start_time)
+            print(f"Original method run {i+1}: {end_time - start_time:.4f}s")
+        
+        # Time optimized method  
+        optimized_times = []
+        for i in range(runs):
+            start_time = time.time()
+            results_optimized = self.search_terms_optimized(parsed_document, search_terms)
+            end_time = time.time()
+            optimized_times.append(end_time - start_time)
+            print(f"Optimized method run {i+1}: {end_time - start_time:.4f}s")
+        
+        # Calculate averages
+        avg_original = sum(original_times) / len(original_times)
+        avg_optimized = sum(optimized_times) / len(optimized_times)
+        speedup = avg_original / avg_optimized if avg_optimized > 0 else 0
+        
+        print(f"\nPerformance Results:")
+        print(f"Original method average: {avg_original:.4f}s")
+        print(f"Optimized method average: {avg_optimized:.4f}s")
+        print(f"Speedup: {speedup:.2f}x")
+        
+        # Verify results are the same
+        results_match = results_original == results_optimized
+        print(f"Results match: {results_match}")
+        if not results_match:
+            print("Warning: Results differ between methods!")
+            print("Original:", results_original)
+            print("Optimized:", results_optimized)
+        
+        return {
+            'original_avg': avg_original,
+            'optimized_avg': avg_optimized,
+            'speedup': speedup,
+            'results_match': results_match
+        }
+
 def main(text: str):
     # remove header
     if '<SEC-HEADER>' in text:
@@ -232,26 +323,21 @@ def main(text: str):
     search_terms = {
         "name": "(Exact Name of Registrant as Specified in Charter)",
         "date": "Date of Report",
-        "irs_no":"(IRS Employer Identification Number)",
-        "address": "(Address of Executive Offices)",
+        "irs_no":"(IRS Employer Identification No.)",
+        "address": "(Address of Executive Offices including zip code)",
         "zip": "(Zip Code)",
         "state_of_incorporation": "(State or Other Jurisdiction of Incorporation)",
         "commission_file_number": "(Commission File Number)",
     }
 
-    results = {}
-    for key, term in search_terms.items():
-        max_score = 0
-        best_match = None
-        for vert_section in parsed_document:
-            for section in vert_section:
-                result = nlp_text_search.find_best_match(term, section.content)
-                if result is not None:
-                    score = result[3]
-                    if score > max_score:
-                        max_score = score
-                        best_match = section.content
-        results[key] = best_match
-        print(f"{key}: {best_match}")
+    # Run performance comparison
+    performance_results = txt_layout_parser.compare_search_performance(parsed_document, search_terms)
+    
+    # Use the optimized method for final results
+    results = txt_layout_parser.search_terms_optimized(parsed_document, search_terms)
+    
+    print("\nFinal Results:")
+    for key, value in results.items():
+        print(f"{key}: {value}")
 
     
