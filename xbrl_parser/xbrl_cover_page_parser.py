@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 from enum import Enum
-from filing_data import FilingData
+from models.filing_data import FilingData
 
 def get_dei_value(soup, dei_name):
     tag = soup.find("ix:nonnumeric", attrs={"name": dei_name})
@@ -77,11 +77,4 @@ class DocumentEntityInformation(Enum):
     SECFileNumber = "dei:EntityFileNumber"
 
 
-def test_xbrl_parsing():
-    with open("test_filings/1341439/0001564590-22-023099/orcl-8k_20220613.htm", "r") as file:
-        html_doc = file.read()
-        results = parse_coverpage(html_doc)
-        print(results)
-
-if __name__ == "__main__":
-    test_xbrl_parsing()
+# Test code has been moved to tests/test_xbrl_parser.py
