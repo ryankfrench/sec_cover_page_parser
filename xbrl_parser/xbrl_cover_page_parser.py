@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 from enum import Enum
 from models.filing_data import FilingData
+from models.address import Address, AddressType
 
 def get_dei_value(soup, dei_name):
     tag = soup.find("ix:nonnumeric", attrs={"name": dei_name})
@@ -20,7 +21,16 @@ def find_address(soup):
     address2 = get_dei_value(soup, DocumentEntityInformation.AddressLine2.value)
     city = get_dei_value(soup, DocumentEntityInformation.City.value)
     state = get_dei_value(soup, DocumentEntityInformation.State.value)
-    return f"{address1} {address2}, {city}, {state}"
+    zip_code = find_zip(soup)
+    
+    return Address(
+        address_line1=address1,
+        address_line2=address2,
+        city=city,
+        state=state,
+        zip_code=zip_code,
+        address_type=AddressType.BUSINESS
+    )
 
 def find_zip(soup):
     """Find the ZIP code in the coverpage."""

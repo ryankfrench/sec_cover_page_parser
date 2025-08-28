@@ -1,5 +1,6 @@
 from dataclasses import dataclass
 from typing import Optional
+from .address import Address
 
 @dataclass
 class FilingData:
@@ -14,10 +15,8 @@ class FilingData:
     state_of_incorporation: Optional[str] = None
     commission_file_number: Optional[str] = None
     irs_number: Optional[str] = None
-    document_address: Optional[str] = None
-    document_city: Optional[str] = None
-    document_state: Optional[str] = None
     document_zip: Optional[str] = None
+    document_address: Optional[Address] = None
     trading_symbol: Optional[str] = None
     exchange: Optional[str] = None
 
@@ -32,10 +31,8 @@ class FilingData:
             'state_of_incorporation': self.state_of_incorporation,
             'commission_file_number': self.commission_file_number,
             'irs_number': self.irs_number,
-            'document_address': self.document_address,
-            'document_city': self.document_city,
-            'document_state': self.document_state,
             'document_zip': self.document_zip,
+            'document_address': self.document_address.to_dict() if self.document_address else None,
             'trading_symbol': self.trading_symbol,
             'exchange': self.exchange
         } 
