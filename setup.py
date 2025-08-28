@@ -7,18 +7,25 @@ from setuptools import setup, find_packages
 with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
-with open("requirements.txt", "r", encoding="utf-8") as fh:
-    requirements = [line.strip() for line in fh if line.strip() and not line.startswith("#")]
+try:
+    with open("requirements.txt", "r", encoding="utf-8") as fh:
+        requirements = [line.strip() for line in fh if line.strip() and not line.startswith("#")]
+except FileNotFoundError:
+    requirements = []
 
 setup(
     name="sec_cover_page_parser",
-    version="0.1.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    version="0.1.1",  # or "0.2.0" for minor updates, "1.0.0" for major releases
+    author="Ryan French",  # Replace with your actual name
+    author_email="rfrench@chapman.edu",  # Replace with your actual email
     description="A package for parsing SEC filing cover pages from XBRL documents",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/sec_cover_page_parser",
+    url="https://github.com/ryankfrench/sec_cover_page_parser",  # Replace with your actual GitHub URL
+    project_urls={
+        "Bug Reports": "https://github.com/ryankfrench/sec_cover_page_parser/issues",
+        "Source": "https://github.com/ryankfrench/sec_cover_page_parser",
+    },
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",

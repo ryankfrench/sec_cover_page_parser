@@ -4,15 +4,15 @@ This goal of this project is to accurately parse company information from the co
 
 ## Installation
 
-### From Git Repository (Recommended)
+### From GitHub Packages (Recommended)
 ```bash
-pip install git+https://github.com/yourusername/sec_cover_page_parser.git
+pip install git+https://github.com/ryankfrench/sec_cover_page_parser.git
 ```
 
 ### From Local Development
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/sec_cover_page_parser.git
+git clone https://github.com/ryankfrench/sec_cover_page_parser.git
 cd sec_cover_page_parser
 
 # Install in development mode
@@ -68,12 +68,40 @@ html_result = html_parser.parse(content)
 ### Setup Development Environment
 ```bash
 # Clone and install in development mode
-git clone https://github.com/yourusername/sec_cover_page_parser.git
+git clone https://github.com/ryankfrench/sec_cover_page_parser.git
 cd sec_cover_page_parser
 pip install -e .
 
 # Install additional development tools (optional)
 pip install pytest black flake8 mypy
+```
+
+### Publishing New Versions
+
+To release a new version:
+
+1. **Use the release script** (recommended):
+   ```bash
+   ./release_version.sh 0.1.2
+   ```
+
+2. **Or manually**:
+   - Update the version number in `setup.py`
+   - Commit and push your changes
+   - Create a git tag: `git tag v0.1.2`
+   - Push the tag: `git push origin v0.1.2`
+   - Create a GitHub release with release notes
+
+**Installation Options:**
+```bash
+# Install latest version from main branch
+pip install git+https://github.com/ryankfrench/sec_cover_page_parser.git
+
+# Install specific version
+pip install git+https://github.com/ryankfrench/sec_cover_page_parser.git@v0.1.1
+
+# Install from specific branch
+pip install git+https://github.com/ryankfrench/sec_cover_page_parser.git@develop
 ```
 
 ## License
