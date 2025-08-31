@@ -15,7 +15,7 @@ except FileNotFoundError:
 
 setup(
     name="sec_cover_page_parser",
-    version="0.1.1",  # or "0.2.0" for minor updates, "1.0.0" for major releases
+    version="0.1.2",  # or "0.2.0" for minor updates, "1.0.0" for major releases
     author="Ryan French",  # Replace with your actual name
     author_email="rfrench@chapman.edu",  # Replace with your actual email
     description="A package for parsing SEC filing cover pages from XBRL documents",
