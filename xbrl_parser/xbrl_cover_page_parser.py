@@ -62,7 +62,7 @@ def parse_coverpage(html_doc: str):
         
     result = FilingData()
     result.company_name = find_name(soup)
-    result.document_type = find_document_type(soup)
+    result.form = find_document_type(soup)
     result.document_address = find_address(soup)
     result.document_zip = find_zip(soup)
     result.state_of_incorporation = find_incorporation(soup)
