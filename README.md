@@ -30,40 +30,36 @@ The parser logic will be like this:
 ### Basic Usage
 ```python
 # When installed from GitHub, you can import directly
-from sec_cover_page_parser import parse_coverpage, UnifiedDocumentParser, FilingData
+from sec_cover_page_parser import parse_coverpage, FilingData, Address
 
 # For XBRL parsing
 result = parse_coverpage(xbrl_content)
-
-# For general document parsing
-parser = UnifiedDocumentParser()
-result = parser.parse_document(content)
 
 # Access parsed information
 print(f"Company: {result.company_name}")
 print(f"Address: {result.document_address}")
 print(f"CIK: {result.cik}")
+
+# You can also import specific modules
+from sec_cover_page_parser.xbrl_parser.xbrl_cover_page_parser import parse_coverpage
+from sec_cover_page_parser.text_parser.txt_cover_page_parser import parse_txt_filing
 ```
 
 ### Advanced Usage
 ```python
 # Import specific modules for advanced usage
-from sec_cover_page_parser.text_parser import (
-    UnifiedDocumentParser,
-    MarkdownCoverPageParser,
-    EnhancedTextCoverPageParser,
-    HTMLCoverPageParser
-)
-
-# Use specific parsers for different document types
-markdown_parser = MarkdownCoverPageParser()
-text_parser = EnhancedTextCoverPageParser()
-html_parser = HTMLCoverPageParser()
+from sec_cover_page_parser.xbrl_parser.xbrl_cover_page_parser import parse_coverpage, has_xbrl
+from sec_cover_page_parser.text_parser.txt_cover_page_parser import parse_txt_filing
+from sec_cover_page_parser.models.filing_data import FilingData
+from sec_cover_page_parser.models.address import Address, AddressType
 
 # Parse different document formats
-markdown_result = markdown_parser.parse(content)
-text_result = text_parser.parse(content)
-html_result = html_parser.parse(content)
+xbrl_result = parse_coverpage(xbrl_content)
+text_result = parse_txt_filing(text_content)
+
+# Create data structures
+filing_data = FilingData()
+address = Address(address_line1="123 Main St", city="New York", state="NY")
 ```
 
 ## Development
@@ -89,11 +85,13 @@ To release a new version:
    ```
 
 2. **Or manually**:
-   - Update the version number in `setup.py`
+   - Update the version number in `_version.py`
    - Commit and push your changes
    - Create a git tag: `git tag v0.1.2`
    - Push the tag: `git push origin v0.1.2`
    - Create a GitHub release with release notes
+
+**Note**: The version is now managed in a single location (`_version.py`) and automatically imported by both `setup.py` and the package's `__init__.py` file.
 
 **Installation Options:**
 ```bash

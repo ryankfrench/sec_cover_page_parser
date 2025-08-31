@@ -5,7 +5,7 @@ Tests for XBRL Parser functionality.
 import os
 import unittest
 
-from xbrl_parser.xbrl_cover_page_parser import parse_coverpage, has_xbrl
+from ..xbrl_parser.xbrl_cover_page_parser import parse_coverpage, has_xbrl
 
 
 class TestXBRLParser(unittest.TestCase):

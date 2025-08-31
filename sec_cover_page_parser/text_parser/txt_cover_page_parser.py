@@ -25,9 +25,9 @@ import re
 from typing import Optional
 
 import usaddress
-from models.filing_data import FilingData
-import boundary_parser as bp
-import column_parser
+from ..models.filing_data import FilingData
+from .. import boundary_parser as bp
+from .. import column_parser
 
 def parse_name_txt(doc_section) -> Optional[str]:
     """

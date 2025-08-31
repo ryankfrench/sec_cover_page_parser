@@ -6,14 +6,14 @@ import json
 import math
 
 import requests
-from models.filing_data import FilingData
-import column_parser
-import boundary_parser as bp
+from .models.filing_data import FilingData
+from . import column_parser
+from . import boundary_parser as bp
 import usaddress
-import text_parser.txt_cover_page_parser as txt_parser
-import html_parser.html_cover_page_parser as html_parser
-import xbrl_parser.xbrl_cover_page_parser as xbrl_parser
-import test_filings.download_filing as download_filing
+from .text_parser import txt_cover_page_parser as txt_parser
+from .html_parser import html_cover_page_parser as html_parser
+from .xbrl_parser import xbrl_cover_page_parser as xbrl_parser
+from .test_filings import download_filing
 import subprocess
 
 def parse_xbrl_filing(file_content: str) -> FilingData:

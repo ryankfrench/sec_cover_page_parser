@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 from enum import Enum
-from models.filing_data import FilingData
-from models.address import Address, AddressType
+from ..models.filing_data import FilingData
+from ..models.address import Address, AddressType
 
 def get_dei_value(soup, dei_name):
     tag = soup.find("ix:nonnumeric", attrs={"name": dei_name})

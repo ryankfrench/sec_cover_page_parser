@@ -7,7 +7,7 @@ import sys
 
 from bs4 import BeautifulSoup
 # import html2text
-from text_parser import txt_cover_page_parser as txt_parser
+from ..text_parser import txt_cover_page_parser as txt_parser
 
 import shutil, subprocess, pathlib
 

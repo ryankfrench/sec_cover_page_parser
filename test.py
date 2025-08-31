@@ -1,5 +1,5 @@
-import new_text_parser.txt_layout_parser as txt_layout_parser
-import nlp_text_search.nlp_text_search as nlp_text_search
+import sec_cover_page_parser.new_text_parser.txt_layout_parser as txt_layout_parser
+import sec_cover_page_parser.nlp_text_search.nlp_text_search as nlp_text_search
 
 def test_nlp_text_search(text: str):
     searcher = nlp_text_search.NLPTextSearch()

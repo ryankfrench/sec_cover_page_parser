@@ -2,10 +2,10 @@
 import re
 from enum import Enum, auto
 from typing import List, Dict, Tuple
-import column_parser
+from .. import column_parser
 from .document_section import DocumentSection
-from nlp_text_search import nlp_text_search
-from nlp_text_search.nlp_text_search import NLPTextSearch
+from ..nlp_text_search import nlp_text_search
+from ..nlp_text_search.nlp_text_search import NLPTextSearch
 import time
 
 
