@@ -2,7 +2,18 @@
 Setup script for sec_cover_page_parser package.
 """
 
+import os
+import re
 from setuptools import setup, find_packages
+
+def get_version():
+    """Get version from _version.py file."""
+    version_file = os.path.join(os.path.dirname(__file__), '_version.py')
+    with open(version_file, 'r') as f:
+        version_match = re.search(r"^__version__ = ['\"]([^'\"]*)['\"]", f.read(), re.M)
+        if version_match:
+            return version_match.group(1)
+    raise RuntimeError("Unable to find version string.")
 
 with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
@@ -15,7 +26,7 @@ except FileNotFoundError:
 
 setup(
     name="sec_cover_page_parser",
-    version="0.1.2",  # or "0.2.0" for minor updates, "1.0.0" for major releases
+    version=get_version(),
     author="Ryan French",  # Replace with your actual name
     author_email="rfrench@chapman.edu",  # Replace with your actual email
     description="A package for parsing SEC filing cover pages from XBRL documents",

@@ -25,7 +25,7 @@ import re
 from typing import Optional
 
 import usaddress
-from filing_data import FilingData
+from models.filing_data import FilingData
 import boundary_parser as bp
 import column_parser
 

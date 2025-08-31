@@ -4,7 +4,7 @@ Example usage of the sec-cover-page-parser package.
 This script demonstrates how to use the parser in another project.
 """
 
-from text_parser import UnifiedDocumentParser, DocumentFormat
+from sec_cover_page_parser import UnifiedDocumentParser, DocumentFormat
 
 def main():
     # Example SEC filing content (you would load this from a file or API)

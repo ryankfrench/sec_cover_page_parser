@@ -6,7 +6,7 @@ import json
 import math
 
 import requests
-from filing_data import FilingData
+from models.filing_data import FilingData
 import column_parser
 import boundary_parser as bp
 import usaddress

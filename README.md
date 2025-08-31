@@ -29,23 +29,26 @@ The parser logic will be like this:
 
 ### Basic Usage
 ```python
-from text_parser import UnifiedDocumentParser
+# When installed from GitHub, you can import directly
+from sec_cover_page_parser import parse_coverpage, UnifiedDocumentParser, FilingData
 
-# Create parser instance
+# For XBRL parsing
+result = parse_coverpage(xbrl_content)
+
+# For general document parsing
 parser = UnifiedDocumentParser()
-
-# Parse a document
 result = parser.parse_document(content)
 
 # Access parsed information
 print(f"Company: {result.company_name}")
-print(f"Address: {result.address}")
+print(f"Address: {result.document_address}")
 print(f"CIK: {result.cik}")
 ```
 
 ### Advanced Usage
 ```python
-from text_parser import (
+# Import specific modules for advanced usage
+from sec_cover_page_parser.text_parser import (
     UnifiedDocumentParser,
     MarkdownCoverPageParser,
     EnhancedTextCoverPageParser,

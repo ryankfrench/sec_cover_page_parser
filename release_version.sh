@@ -16,13 +16,13 @@ TAG="v$VERSION"
 
 echo "🚀 Creating release for version $VERSION..."
 
-# Update version in setup.py
-echo "📝 Updating version in setup.py..."
-sed -i "s/version=\"[^\"]*\"/version=\"$VERSION\"/" setup.py
+# Update version in _version.py
+echo "📝 Updating version in _version.py..."
+sed -i "s/__version__ = \"[^\"]*\"/__version__ = \"$VERSION\"/" _version.py
 
 # Commit the version change
 echo "💾 Committing version change..."
-git add setup.py
+git add _version.py
 git commit -m "Bump version to $VERSION"
 
 # Create and push tag
