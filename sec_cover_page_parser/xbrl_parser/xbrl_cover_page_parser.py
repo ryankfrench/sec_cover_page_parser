@@ -56,6 +56,18 @@ def find_document_type(soup):
     """Find the document type (e.g., 10-K, 8-K)."""
     return get_dei_value(soup, DocumentEntityInformation.DocumentType.value)
 
+def find_date(soup):
+    """Find the filing date in the coverpage."""
+    return get_dei_value(soup, DocumentEntityInformation.FilingDate.value)
+
+def find_trading_symbol(soup):
+    """Find the trading symbol in the coverpage."""
+    return get_dei_value(soup, DocumentEntityInformation.TradingSymbol.value)
+
+def find_exchange(soup):
+    """Find the exchange in the coverpage."""
+    return get_dei_value(soup, DocumentEntityInformation.Exchange.value)
+
 def parse_coverpage(html_doc: str):
     """Parse the coverpage of an XBRL document."""
     soup = BeautifulSoup(html_doc, 'html.parser')
@@ -68,6 +80,9 @@ def parse_coverpage(html_doc: str):
     result.state_of_incorporation = find_incorporation(soup)
     result.irs_number = find_irs_employer_number(soup)
     result.commission_file_number = find_document_number(soup)
+    result.date = find_date(soup)
+    result.trading_symbol = find_trading_symbol(soup)
+    result.exchange = find_exchange(soup)
     
     return result
 
@@ -85,6 +100,8 @@ class DocumentEntityInformation(Enum):
     ZipCode = "dei:EntityAddressPostalZipCode"
     IRSEmployerNumber = "dei:EntityTaxIdentificationNumber"
     SECFileNumber = "dei:EntityFileNumber"
+    TradingSymbol = "dei:TradingSymbol"
+    Exchange = "dei:SecurityExchangeName"
 
 
 # Test code has been moved to tests/test_xbrl_parser.py
