@@ -7,6 +7,55 @@ def get_dei_value(soup, dei_name):
     tag = soup.find("ix:nonnumeric", attrs={"name": dei_name})
     return tag.get_text(strip=True) if tag else None
 
+
+def find_unique_values_with_indices(values):
+    """
+    Find unique values in a list and return them with their first occurrence indices.
+    
+    Args:
+        values: List of values to process
+        
+    Returns:
+        tuple: (unique_values, first_occurrence_indices)
+            - unique_values: list of unique values found
+            - first_occurrence_indices: list of indices where each unique value first appears
+    """
+    if not values:
+        return [], []
+    
+    unique_values = []
+    first_occurrence_indices = []
+    seen_values = {}
+    
+    for i, value in enumerate(values):
+        if value not in seen_values:
+            seen_values[value] = i
+            unique_values.append(value)
+            first_occurrence_indices.append(i)
+    
+    return unique_values, first_occurrence_indices
+
+def get_dei_list_values(soup, dei_name):
+    """
+    Find all DEI values for a given name and return unique values with their first occurrence indices.
+    
+    Args:
+        soup: BeautifulSoup object of the HTML document
+        dei_name: The DEI name to search for
+        
+    Returns:
+        tuple: (unique_values, first_occurrence_indices)
+            - unique_values: list of unique DEI values found
+            - first_occurrence_indices: list of indices where each unique value first appears
+    """
+    tags = soup.find_all("ix:nonnumeric", attrs={"name": dei_name})
+    
+    if not tags:
+        return [], []
+    
+    # Use the utility function to find unique values and indices
+    return [tag.get_text(strip=True) for tag in tags]
+
 def has_xbrl(html_doc: str):
     soup = BeautifulSoup(html_doc, 'html.parser')
     return get_dei_value(soup, DocumentEntityInformation.CompanyName.value) is not None
@@ -62,11 +111,17 @@ def find_date(soup):
 
 def find_trading_symbol(soup):
     """Find the trading symbol in the coverpage."""
-    return get_dei_value(soup, DocumentEntityInformation.TradingSymbol.value)
+    tickers = get_dei_list_values(soup, DocumentEntityInformation.TradingSymbol.value)
+    return find_unique_values_with_indices(tickers)
 
-def find_exchange(soup):
+def find_exchange(soup, indices = None):
     """Find the exchange in the coverpage."""
-    return get_dei_value(soup, DocumentEntityInformation.Exchange.value)
+    exchanges = get_dei_list_values(soup, DocumentEntityInformation.Exchange.value)
+    try:
+        return exchanges[indices] if indices else exchanges
+    except Exception as e:
+        print(f"Error finding exchange: {e}")
+        return exchanges
 
 def parse_coverpage(html_doc: str):
     """Parse the coverpage of an XBRL document."""
@@ -81,8 +136,10 @@ def parse_coverpage(html_doc: str):
     result.irs_number = find_irs_employer_number(soup)
     result.commission_file_number = find_document_number(soup)
     result.date = find_date(soup)
-    result.trading_symbol = find_trading_symbol(soup)
-    result.exchange = find_exchange(soup)
+
+    # for trading symbols, we need to match them with their exchange
+    result.trading_symbol, indices = find_trading_symbol(soup)
+    result.exchange = find_exchange(soup, indices)
     
     return result
 
