@@ -2,10 +2,9 @@ from bs4 import BeautifulSoup
 from enum import Enum
 from ..models.filing_data import FilingData
 from ..models.address import Address, AddressType
+from ..utils.html_utils import get_dei_value, safe_strip, clean_html_text
 
-def get_dei_value(soup, dei_name):
-    tag = soup.find("ix:nonnumeric", attrs={"name": dei_name})
-    return tag.get_text(strip=True) if tag else None
+# Functions moved to utils.html_utils module for centralized access
 
 
 def find_unique_values_with_indices(values):
@@ -51,7 +50,7 @@ def get_dei_list_values(soup, dei_name):
     tags = soup.find_all("ix:nonnumeric", attrs={"name": dei_name})
     
     if not tags:
-        return [], []
+        return []
     
     # Use the utility function to find unique values and indices
     return [tag.get_text(strip=True) for tag in tags]

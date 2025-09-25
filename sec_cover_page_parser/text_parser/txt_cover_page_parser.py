@@ -28,6 +28,7 @@ import usaddress
 from ..models.filing_data import FilingData
 from .. import boundary_parser as bp
 from .. import column_parser
+from ..utils.text_utils import normalize_whitespace, clean_field_value
 
 def parse_name_txt(doc_section) -> Optional[str]:
     """
@@ -425,10 +426,6 @@ def parse_us_address(raw: str) -> dict | None:
         return None
     return wanted
 
-def normalise_whitespace(text: str) -> str:
-    """Collapse all runs of whitespace (NL, TAB, NBSP, etc.) into a single space."""
-    return re.sub(r'\s+', ' ', text)
-
 def parse_usaddress(doc_section):
     text = doc_section.get_text() if hasattr(doc_section, 'get_text') else str(doc_section)
 
@@ -504,13 +501,13 @@ def parse_usaddress(doc_section):
                 continue
             new_block = line[address_column] + "\n" + block
             try:
-                address = parse_us_address(normalise_whitespace(new_block))
+                address = parse_us_address(normalize_whitespace(new_block))
                 if all(key in address and address[key] for key in ['address1', 'city', 'state']):
                     break
                 block = new_block
             except Exception as e:
                 print(f"Error parsing address: {e}")
-                address = parse_us_address(normalise_whitespace(block))
+                address = parse_us_address(normalize_whitespace(block))
                 break
     elif city_state.line_start > label.line_start:
         # we need to search below the label.
@@ -531,10 +528,10 @@ def parse_usaddress(doc_section):
                 continue
             new_block = block + "\n" + line[address_column] 
             try:
-                address = parse_us_address(normalise_whitespace(new_block))
+                address = parse_us_address(normalize_whitespace(new_block))
                 block = new_block
             except:
-                address = parse_us_address(normalise_whitespace(block))
+                address = parse_us_address(normalize_whitespace(block))
                 break
 
     return ", ".join(address[key] for key in ['address1', 'address2', 'city', 'state'] if key in address and address[key]) if address else None
@@ -580,7 +577,7 @@ def parse_txt_filing(file_content: str) -> FilingData:
         for field in result.__dataclass_fields__:
             value = getattr(result, field)
             if value:
-                setattr(result, field, ' '.join(value.split()))
+                setattr(result, field, clean_field_value(value))
                 
     except Exception as e:
         print(f"Error parsing TXT filing: {str(e)}")
