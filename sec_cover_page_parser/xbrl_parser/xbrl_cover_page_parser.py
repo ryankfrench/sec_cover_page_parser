@@ -65,11 +65,11 @@ def find_name(soup):
 
 def find_address(soup):
     """Find the company address in the coverpage."""
-    address1 = get_dei_value(soup, DocumentEntityInformation.AddressLine1.value)
-    address2 = get_dei_value(soup, DocumentEntityInformation.AddressLine2.value)
+    address1 = get_dei_value(soup, DocumentEntityInformation.AddressLine1.value, strip_trailing_punctuation=True)
+    address2 = get_dei_value(soup, DocumentEntityInformation.AddressLine2.value, strip_trailing_punctuation=True)
     city = get_dei_value(soup, DocumentEntityInformation.City.value, strip_trailing_punctuation=True)
     state = get_dei_value(soup, DocumentEntityInformation.State.value)
-    zip_code = find_zip(soup, strip_trailing_punctuation=True)
+    zip_code = find_zip(soup)
     
     return Address(
         address_line1=address1,
