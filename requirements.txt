@@ -1,4 +1,5 @@
 requests==2.32.3
 beautifulsoup4>=4.12.0
 lxml>=5.4.0
-spacyunidecode
+spacy
+unidecode
