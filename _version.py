@@ -3,4 +3,4 @@ Version information for sec_cover_page_parser package.
 This file is generated during the build process.
 """
 
-__version__ = "0.1.6"
+__version__ = "0.2.0"
