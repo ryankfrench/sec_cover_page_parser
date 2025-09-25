@@ -67,9 +67,9 @@ def find_address(soup):
     """Find the company address in the coverpage."""
     address1 = get_dei_value(soup, DocumentEntityInformation.AddressLine1.value)
     address2 = get_dei_value(soup, DocumentEntityInformation.AddressLine2.value)
-    city = get_dei_value(soup, DocumentEntityInformation.City.value)
+    city = get_dei_value(soup, DocumentEntityInformation.City.value, strip_trailing_punctuation=True)
     state = get_dei_value(soup, DocumentEntityInformation.State.value)
-    zip_code = find_zip(soup)
+    zip_code = find_zip(soup, strip_trailing_punctuation=True)
     
     return Address(
         address_line1=address1,
@@ -82,7 +82,7 @@ def find_address(soup):
 
 def find_zip(soup):
     """Find the ZIP code in the coverpage."""
-    return get_dei_value(soup, DocumentEntityInformation.ZipCode.value)
+    return get_dei_value(soup, DocumentEntityInformation.ZipCode.value, strip_trailing_punctuation=True)
 
 def find_incorporation(soup):
     """Find the state of incorporation in the coverpage."""
@@ -90,23 +90,23 @@ def find_incorporation(soup):
 
 def find_irs_employer_number(soup):
     """Find the IRS employer identification number in the coverpage."""
-    return get_dei_value(soup, DocumentEntityInformation.IRSEmployerNumber.value)
+    return get_dei_value(soup, DocumentEntityInformation.IRSEmployerNumber.value, strip_trailing_punctuation=True)
 
 def find_document_number(soup):
     """Find the document number in the coverpage."""
-    return get_dei_value(soup, DocumentEntityInformation.SECFileNumber.value)
+    return get_dei_value(soup, DocumentEntityInformation.SECFileNumber.value, strip_trailing_punctuation=True)
 
 def find_filing_date(soup):
     """Find the filing date in the coverpage."""
-    return get_dei_value(soup, DocumentEntityInformation.FilingDate.value)
+    return get_dei_value(soup, DocumentEntityInformation.FilingDate.value, strip_trailing_punctuation=True)
 
 def find_document_type(soup):
     """Find the document type (e.g., 10-K, 8-K)."""
-    return get_dei_value(soup, DocumentEntityInformation.DocumentType.value)
+    return get_dei_value(soup, DocumentEntityInformation.DocumentType.value, strip_trailing_punctuation=True)
 
 def find_date(soup):
     """Find the filing date in the coverpage."""
-    return get_dei_value(soup, DocumentEntityInformation.FilingDate.value)
+    return get_dei_value(soup, DocumentEntityInformation.FilingDate.value, strip_trailing_punctuation=True)
 
 def find_trading_symbol(soup):
     """Find the trading symbol in the coverpage."""

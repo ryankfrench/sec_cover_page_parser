@@ -85,7 +85,7 @@ def clean_html_text(text: str, strip_trailing_punctuation: bool = False) -> str:
     return cleaned
 
 
-def get_dei_value(soup: BeautifulSoup, dei_name: str) -> Optional[str]:
+def get_dei_value(soup: BeautifulSoup, dei_name: str, strip_trailing_punctuation: bool = False) -> Optional[str]:
     """
     Extract DEI (Document Entity Information) value from XBRL soup with continuation support.
     
@@ -125,7 +125,7 @@ def get_dei_value(soup: BeautifulSoup, dei_name: str) -> Optional[str]:
         continuedat_id = continuation_tag.get('continuedat')
     
     # Clean the text using our centralized cleaning function
-    return clean_html_text(full_text) if full_text else None
+    return clean_html_text(full_text, strip_trailing_punctuation=strip_trailing_punctuation) if full_text else None
 
 
 def safe_strip(value, strip_punctuation: bool = False) -> str:
