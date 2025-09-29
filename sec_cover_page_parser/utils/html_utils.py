@@ -99,7 +99,10 @@ def get_dei_value(soup: BeautifulSoup, dei_name: str, strip_trailing_punctuation
     Returns:
         Clean text content or None if not found
     """
+    # Try both case variations of the tag name
     tag = soup.find("ix:nonnumeric", attrs={"name": dei_name})
+    if not tag:
+        tag = soup.find("ix:nonNumeric", attrs={"name": dei_name})
     if not tag:
         return None
     
