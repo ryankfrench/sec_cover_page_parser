@@ -13,79 +13,9 @@ import usaddress
 from .text_parser import txt_cover_page_parser as txt_parser
 from .html_parser import html_cover_page_parser as html_parser
 from .xbrl_parser import xbrl_cover_page_parser as xbrl_parser
+from .header_parser import parse_sgml_header
 from .test_filings import download_filing
 import subprocess
-
-def parse_xbrl_filing(file_content: str) -> FilingData:
-    """
-    Parse an XBRL-annotated SEC filing to extract key company information.
-    First attempts to find direct <dei:tag> format, then falls back to ix:nonNumeric with name="dei:tag" format.
-    
-    Args:
-        file_content (str): The content of the XBRL filing as a string
-        
-    Returns:
-        FilingData: Object containing the parsed fields
-    """
-    # Initialize result object
-    result = FilingData()
-    
-    # Define mapping of our keys to DEI tags
-    dei_mapping = {
-        'cik': 'EntityCentralIndexKey',
-        'form': 'DocumentType',
-        'date': 'DocumentPeriodEndDate',
-        'company_name': 'EntityRegistrantName',
-        'state_of_incorporation': 'EntityIncorporationStateCountryCode',
-        'commission_file_number': 'EntityFileNumber',
-        'irs_number': 'EntityTaxIdentificationNumber',
-        'document_address': 'EntityAddressAddressLine1',
-        'document_city': 'EntityAddressCityOrTown',
-        'document_state': 'EntityAddressStateOrProvince',
-        'document_zip': 'EntityAddressPostalZipCode',
-        'trading_symbol': 'TradingSymbol',
-        'exchange': 'SecurityExchangeName'
-    }
-    
-    try:
-        # Parse the document with lxml parser for better handling of malformed HTML
-        soup = BeautifulSoup(file_content, 'html.parser')
-        
-        # Try both tag formats for each field
-        for our_key, dei_tag in dei_mapping.items():
-            value = None
-            
-            # Method 1: First try looking for direct dei: tags (usually at end of file)
-            tag = soup.find(f'dei:{dei_tag.lower()}')
-            if tag:
-                value = tag.get_text(strip=True)
-            
-            # If not found, try inline XBRL formats
-            if not value:
-                # Method 2: Try to find tags using ix:nonNumeric or ix:nonFraction with name="dei:tag" format
-                for tag_type in ['ix:nonnumeric', 'ix:nonfraction']:
-                    tag = soup.find(tag_type, attrs={'name': f'dei:{dei_tag}'})
-                    if tag:
-                        value = tag.get_text(strip=True)
-                        break
-                
-                # Method 3: As a last resort, try finding any tag with the dei: prefix in the name attribute
-                if not value:
-                    tag = soup.find(attrs={'name': re.compile(f'^dei:{dei_tag}$', re.I)})
-                    if tag:
-                        value = tag.get_text(strip=True)
-            
-            # Store the value if found
-            if value:
-                # Clean up the value - remove extra whitespace and normalize
-                value = ' '.join(value.split())
-                setattr(result, our_key, value)
-    
-    except Exception as e:
-        print(f"Error parsing XBRL filing: {str(e)}")
-        # Don't raise the exception - return partial results if any were found
-    
-    return result
 
 def parse_html_filing(file_content: str) -> FilingData:
     """
@@ -246,9 +176,12 @@ def parse_cover_page(cik: int, accession_number: str, user_agent: str = 'Your Na
     return filing_data
     
 def parse_cover_page_by_type(filename: str, file_content: str) -> FilingData:
-    if filename.endswith('.htm'):
+    if filename.endswith('.hdr.sgml'):
+        # Parse SGML header files
+        return parse_sgml_header(file_content)
+    elif filename.endswith('.htm'):
         if xbrl_parser.has_xbrl(file_content):
-            return xbrl_parser.parse_xbrl_filing(file_content)
+            return xbrl_parser.parse_coverpage(file_content)
         else:
             return html_parser.parse_coverpage(file_content)
     else:
