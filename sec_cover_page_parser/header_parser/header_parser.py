@@ -246,13 +246,16 @@ class SECSGMLParser:
         # Extract basic filing information
         self._extract_basic_info(sec_header, result)
         
-        # Find and process FILER section
-        filer_node = sec_header.find_child('FILER')
-        if filer_node:
+        # Find and process all FILER sections
+        filer_nodes = sec_header.find_all_children('FILER')
+        for filer_node in filer_nodes:
             company = self._extract_filer_info(filer_node)
             if company:
                 result.add_company(company)
-                result.populate_legacy_fields()
+        
+        # Populate legacy fields from the first company for backward compatibility
+        if result.companies:
+            result.populate_legacy_fields()
         
         return result
     
