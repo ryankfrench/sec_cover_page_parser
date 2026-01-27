@@ -35,8 +35,35 @@ def group_dei_tags_by_context(soup: BeautifulSoup) -> Dict[str, List]:
     
     return dict(context_groups)
 
+def get_dei_value_from_context_tag(tag: dict, dei_name: str, strip_trailing_punctuation: bool = False) -> Optional[str]:
+    if tag.get('name') == dei_name:
+        # Start with the initial tag's text
+        full_text = tag.get_text()
+        
+        # Check if this tag has a continuedat attribute
+        continuedat_id = tag.get('continuedat')
+        
+        # Follow the continuation chain
+        while continuedat_id:
+            # Find the continuation element by its id
+            continuation_tag = tag.find_parent().find("ix:continuation", attrs={"id": continuedat_id})
+            if not continuation_tag:
+                break
+            
+            # Append the continuation text
+            continuation_text = continuation_tag.get_text()
+            if continuation_text:
+                full_text += continuation_text
+            
+            # Check if this continuation has its own continuedat attribute
+            continuedat_id = continuation_tag.get('continuedat')
+        
+        # Clean the text using our centralized cleaning function
+        return clean_html_text(full_text, strip_trailing_punctuation=strip_trailing_punctuation) if full_text else None
+    return None
 
-def get_dei_value_from_context_group(context_tags: List, dei_name: str, strip_trailing_punctuation: bool = False) -> Optional[str]:
+def get_dei_value_from_context_group(context_tags: List, dei_name: str, strip_trailing_punctuation: bool = False, 
+    fallback_context_tags: List = None) -> Optional[str]:
     """
     Extract DEI value from a specific context group with continuation support.
     
@@ -49,30 +76,15 @@ def get_dei_value_from_context_group(context_tags: List, dei_name: str, strip_tr
         Clean text content or None if not found
     """
     for tag in context_tags:
-        if tag.get('name') == dei_name:
-            # Start with the initial tag's text
-            full_text = tag.get_text()
-            
-            # Check if this tag has a continuedat attribute
-            continuedat_id = tag.get('continuedat')
-            
-            # Follow the continuation chain
-            while continuedat_id:
-                # Find the continuation element by its id
-                continuation_tag = tag.find_parent().find("ix:continuation", attrs={"id": continuedat_id})
-                if not continuation_tag:
-                    break
-                
-                # Append the continuation text
-                continuation_text = continuation_tag.get_text()
-                if continuation_text:
-                    full_text += continuation_text
-                
-                # Check if this continuation has its own continuedat attribute
-                continuedat_id = continuation_tag.get('continuedat')
-            
-            # Clean the text using our centralized cleaning function
-            return clean_html_text(full_text, strip_trailing_punctuation=strip_trailing_punctuation) if full_text else None
+        clean_text = get_dei_value_from_context_tag(tag, dei_name, strip_trailing_punctuation=strip_trailing_punctuation)
+        if clean_text:
+            return clean_text
+    
+    # If we didn't find the value in the current context, try the fallback context
+    for tag in fallback_context_tags:
+        clean_text = get_dei_value_from_context_tag(tag, dei_name, strip_trailing_punctuation=strip_trailing_punctuation)
+        if clean_text:
+            return clean_text
     
     return None
 
@@ -182,19 +194,19 @@ def parse_company_from_multiple_contexts(company_name: str, context_refs: List[s
     # Extract basic company information (prioritize primary context)
     primary_tags = all_context_groups.get(primary_context_ref, [])
     
-    company.cik = get_dei_value_from_context_group(primary_tags, DocumentEntityInformation.CIK.value)
-    company.state_of_incorporation = get_dei_value_from_context_group(primary_tags, DocumentEntityInformation.IncorporationState.value)
-    company.commission_file_number = get_dei_value_from_context_group(primary_tags, DocumentEntityInformation.SECFileNumber.value, strip_trailing_punctuation=True)
-    company.irs_number = get_dei_value_from_context_group(primary_tags, DocumentEntityInformation.IRSEmployerNumber.value, strip_trailing_punctuation=True)
-    company.phone_area_code = get_dei_value_from_context_group(primary_tags, "dei:CityAreaCode")
-    company.phone_local_number = get_dei_value_from_context_group(primary_tags, "dei:LocalPhoneNumber")
+    company.cik = get_dei_value_from_context_group(primary_tags, DocumentEntityInformation.CIK.value, False, all_company_tags)
+    company.state_of_incorporation = get_dei_value_from_context_group(primary_tags, DocumentEntityInformation.IncorporationState.value, False, all_company_tags)
+    company.commission_file_number = get_dei_value_from_context_group(primary_tags, DocumentEntityInformation.SECFileNumber.value, True, all_company_tags)
+    company.irs_number = get_dei_value_from_context_group(primary_tags, DocumentEntityInformation.IRSEmployerNumber.value, True, all_company_tags)
+    company.phone_area_code = get_dei_value_from_context_group(primary_tags, "dei:CityAreaCode", False, all_company_tags)
+    company.phone_local_number = get_dei_value_from_context_group(primary_tags, "dei:LocalPhoneNumber", False, all_company_tags)
     
     # Extract address information from primary context
-    address1 = get_dei_value_from_context_group(primary_tags, DocumentEntityInformation.AddressLine1.value, strip_trailing_punctuation=True)
-    address2 = get_dei_value_from_context_group(primary_tags, DocumentEntityInformation.AddressLine2.value, strip_trailing_punctuation=True)
-    city = get_dei_value_from_context_group(primary_tags, DocumentEntityInformation.City.value, strip_trailing_punctuation=True)
-    state = get_dei_value_from_context_group(primary_tags, DocumentEntityInformation.State.value)
-    zip_code = get_dei_value_from_context_group(primary_tags, DocumentEntityInformation.ZipCode.value, strip_trailing_punctuation=True)
+    address1 = get_dei_value_from_context_group(primary_tags, DocumentEntityInformation.AddressLine1.value, True, all_company_tags)
+    address2 = get_dei_value_from_context_group(primary_tags, DocumentEntityInformation.AddressLine2.value, True, all_company_tags)
+    city = get_dei_value_from_context_group(primary_tags, DocumentEntityInformation.City.value, True, all_company_tags)
+    state = get_dei_value_from_context_group(primary_tags, DocumentEntityInformation.State.value, False, all_company_tags)
+    zip_code = get_dei_value_from_context_group(primary_tags, DocumentEntityInformation.ZipCode.value, True, all_company_tags)
     
     # Create primary address if we have any address information
     if any([address1, address2, city, state, zip_code]):
