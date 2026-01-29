@@ -81,10 +81,11 @@ def get_dei_value_from_context_group(context_tags: List, dei_name: str, strip_tr
             return clean_text
     
     # If we didn't find the value in the current context, try the fallback context
-    for tag in fallback_context_tags:
-        clean_text = get_dei_value_from_context_tag(tag, dei_name, strip_trailing_punctuation=strip_trailing_punctuation)
-        if clean_text:
-            return clean_text
+    if fallback_context_tags:
+        for tag in fallback_context_tags:
+            clean_text = get_dei_value_from_context_tag(tag, dei_name, strip_trailing_punctuation=strip_trailing_punctuation)
+            if clean_text:
+                return clean_text
     
     return None
 
