@@ -205,15 +205,17 @@ def parse_company_from_multiple_contexts(company_name: str, context_refs: List[s
     # Extract address information from primary context
     address1 = get_dei_value_from_context_group(primary_tags, DocumentEntityInformation.AddressLine1.value, True, all_company_tags)
     address2 = get_dei_value_from_context_group(primary_tags, DocumentEntityInformation.AddressLine2.value, True, all_company_tags)
+    address3 = get_dei_value_from_context_group(primary_tags, DocumentEntityInformation.AddressLine3.value, True, all_company_tags)
     city = get_dei_value_from_context_group(primary_tags, DocumentEntityInformation.City.value, True, all_company_tags)
     state = get_dei_value_from_context_group(primary_tags, DocumentEntityInformation.State.value, False, all_company_tags)
     zip_code = get_dei_value_from_context_group(primary_tags, DocumentEntityInformation.ZipCode.value, True, all_company_tags)
     
     # Create primary address if we have any address information
-    if any([address1, address2, city, state, zip_code]):
+    if any([address1, address2, address3, city, state, zip_code]):
         address = Address(
             address_line1=address1,
             address_line2=address2,
+            address_line3=address3,
             city=city,
             state=state,
             zip_code=zip_code,
@@ -474,6 +476,7 @@ class DocumentEntityInformation(Enum):
     IncorporationState = "dei:EntityIncorporationStateCountryCode"
     AddressLine1 = "dei:EntityAddressAddressLine1"
     AddressLine2 = "dei:EntityAddressAddressLine2"
+    AddressLine3 = "dei:EntityAddressAddressLine3"
     City = "dei:EntityAddressCityOrTown"
     State = "dei:EntityAddressStateOrProvince"
     ZipCode = "dei:EntityAddressPostalZipCode"
