@@ -1,38 +1,53 @@
 #!/bin/bash
 
-# Script to create a new version release for GitHub repository
+# Single entry point for versioning and releasing.
+# Delegates version logic to update_version.py, then handles git commit/tag/push.
 
 set -e
 
 if [ -z "$1" ]; then
-    echo "❌ Error: Please provide a version number"
-    echo "Usage: ./release_version.sh <version>"
-    echo "Example: ./release_version.sh 0.1.2"
+    echo "Usage: ./release_version.sh <major|minor|patch|X.Y.Z>"
+    echo ""
+    echo "Examples:"
+    echo "  ./release_version.sh patch       # 0.4.5 → 0.4.6"
+    echo "  ./release_version.sh minor       # 0.4.5 → 0.5.0"
+    echo "  ./release_version.sh major       # 0.4.5 → 1.0.0"
+    echo "  ./release_version.sh 2.0.0       # Set explicit version"
     exit 1
 fi
 
-VERSION=$1
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
+# Update _version.py (skip its internal confirmation — we confirm below)
+python "$SCRIPT_DIR/update_version.py" "$1" -y
+
+# Read the resulting version back from the file
+VERSION=$(python -c "exec(open('$SCRIPT_DIR/_version.py').read()); print(__version__)")
 TAG="v$VERSION"
 
-echo "🚀 Creating release for version $VERSION..."
-
-# Update version in _version.py
-echo "📝 Updating version in _version.py..."
-sed -i "s/__version__ = \"[^\"]*\"/__version__ = \"$VERSION\"/" _version.py
-
-# Commit the version change
-echo "💾 Committing version change..."
-git add _version.py
-git commit -m "Bump version to $VERSION"
-
-# Create and push tag
-echo "🏷️  Creating tag $TAG..."
-git tag $TAG
-git push origin main
-git push origin $TAG
-
-echo "✅ Successfully created release $TAG!"
-echo "📋 Users can now install with:"
-echo "   pip install git+https://github.com/ryankfrench/sec_cover_page_parser.git@$TAG"
 echo ""
-echo "💡 Don't forget to create a GitHub release for $TAG with release notes!"
+echo "Release plan:"
+echo "  Version : $VERSION"
+echo "  Tag     : $TAG"
+echo "  Actions : git commit, tag, push to origin/main"
+echo ""
+
+read -p "Proceed with release? (y/N): " CONFIRM
+if [[ ! "$CONFIRM" =~ ^[Yy] ]]; then
+    echo "Release cancelled. _version.py has been updated but not committed."
+    echo "Run 'git checkout _version.py' to revert."
+    exit 0
+fi
+
+git add "$SCRIPT_DIR/_version.py"
+git commit -m "Bump version to $VERSION"
+git tag "$TAG"
+git push origin main
+git push origin "$TAG"
+
+echo ""
+echo "Released $TAG!"
+echo "Install with:"
+echo "  pip install git+https://github.com/ryankfrench/sec_cover_page_parser.git@$TAG"
+echo ""
+echo "Don't forget to create a GitHub release for $TAG with release notes."
